@@ -1,0 +1,3651 @@
+Year,County,NCICCode,Homicide_sum,Robbery_sum,AggAssault_sum,Burglary_sum,LTtotal_sum
+2016,Alameda County,Alameda Co. Sheriff's Department,8,204,347,490,1104
+2016,Alameda County,Alameda,1,68,74,226,1351
+2016,Alameda County,Albany,0,24,5,62,426
+2016,Alameda County,Berkeley,2,361,185,805,3965
+2016,Alameda County,Emeryville,0,97,32,126,1449
+2016,Alameda County,Fremont,0,184,177,923,2997
+2016,Alameda County,Hayward,13,348,204,707,2308
+2016,Alameda County,Livermore,1,59,88,255,1739
+2016,Alameda County,Newark,1,45,47,237,710
+2016,Alameda County,Oakland,85,3076,2621,2900,14153
+2016,Alameda County,Piedmont,0,17,10,66,109
+2016,Alameda County,Pleasanton,0,44,44,208,1260
+2016,Alameda County,San Leandro,3,280,173,499,2070
+2016,Alameda County,Union City,1,111,157,298,1258
+2016,Alameda County,Alameda E. Bay Reg. Park Dist.,0,1,9,0,103
+2016,Alameda County,CSU East Bay,0,1,0,11,62
+2016,Alameda County,Union Pacific RR - Alameda,0,0,0,1,2
+2016,Alameda County,Alameda BART,1,148,34,5,1206
+2016,Alameda County,Dublin,0,31,48,133,837
+2016,Alameda County,Alameda E. Bay Mun. Util. Dist.,0,0,0,0,25
+2016,Alameda County,UC Berkeley,0,13,15,41,621
+2016,Alameda County,CA Highway Patrol - Alameda,0,0,1,0,74
+2016,Alpine County,Alpine Co. Sheriff's Department,0,0,6,7,26
+2016,Alpine County,CA Highway Patrol - Alpine,0,0,0,0,0
+2016,Amador County,Amador Co. Sheriff's Department,0,8,39,142,225
+2016,Amador County,Ione,0,0,3,6,37
+2016,Amador County,Jackson,0,4,25,49,94
+2016,Amador County,Sutter Creek,0,1,4,15,35
+2016,Amador County,Union Pacific RR - Amador,0,0,0,0,0
+2016,Amador County,CA Highway Patrol - Amador,0,0,0,0,5
+2016,Butte County,Butte Co. Sheriff's Department,3,28,118,656,666
+2016,Butte County,Biggs,0,0,14,9,16
+2016,Butte County,Chico,0,57,170,499,2336
+2016,Butte County,Gridley,0,1,100,42,132
+2016,Butte County,Oroville,0,43,83,282,866
+2016,Butte County,Paradise,1,8,29,250,178
+2016,Butte County,Union Pacific RR - Butte,0,0,0,2,4
+2016,Butte County,Northern Buttes DPR,0,0,0,1,13
+2016,Butte County,CSU Chico,0,1,1,12,233
+2016,Butte County,CA Highway Patrol - Butte,0,0,0,2,87
+2016,Calaveras County,Calaveras Co. Sheriff's Department,3,16,124,183,341
+2016,Calaveras County,Angels Camp,0,0,7,8,23
+2016,Calaveras County,Union Pacific RR - Calaveras,0,0,0,0,0
+2016,Calaveras County,Calaveras DPR,0,0,0,0,0
+2016,Calaveras County,CA Highway Patrol - Calaveras,0,0,0,0,4
+2016,Colusa County,Colusa Co. Sheriff's Department,0,6,23,78,108
+2016,Colusa County,Colusa,0,2,6,26,57
+2016,Colusa County,Williams,0,0,4,17,40
+2016,Colusa County,Union Pacific RR - Colusa,0,0,0,0,0
+2016,Colusa County,CA Highway Patrol - Colusa,0,0,0,0,5
+2016,Contra Costa County,Contra Costa Co. Sheriff's Department,9,108,205,505,957
+2016,Contra Costa County,Antioch,9,293,403,762,2012
+2016,Contra Costa County,Brentwood,0,50,63,146,980
+2016,Contra Costa County,Clayton,0,3,1,26,107
+2016,Contra Costa County,Concord,1,159,256,521,2793
+2016,Contra Costa County,El Cerrito,1,78,52,126,831
+2016,Contra Costa County,Hercules,1,11,41,74,266
+2016,Contra Costa County,Pinole,0,31,26,76,731
+2016,Contra Costa County,Pittsburg,7,116,113,339,961
+2016,Contra Costa County,Pleasant Hill,0,43,33,146,1179
+2016,Contra Costa County,Richmond,21,364,562,645,1907
+2016,Contra Costa County,San Pablo,2,90,99,213,576
+2016,Contra Costa County,Walnut Creek,1,30,46,275,1611
+2016,Contra Costa County,Kensington,0,0,3,20,36
+2016,Contra Costa County,Martinez,0,21,27,112,422
+2016,Contra Costa County,Lafayette,0,5,3,65,288
+2016,Contra Costa County,Moraga,0,2,7,24,95
+2016,Contra Costa County,Contra Costa E. Bay Reg. Park Dist.,0,3,7,0,143
+2016,Contra Costa County,Contra Costa BART,0,49,26,2,598
+2016,Contra Costa County,Contra Costa Community College,0,5,2,20,181
+2016,Contra Costa County,Danville,1,0,5,68,264
+2016,Contra Costa County,San Ramon,0,12,18,140,616
+2016,Contra Costa County,Orinda,0,4,6,35,110
+2016,Contra Costa County,Union Pacific RR - Contra Costa,0,0,0,0,1
+2016,Contra Costa County,Oakley,0,24,25,77,221
+2016,Contra Costa County,CA Highway Patrol - Contra Costa,0,0,3,0,2
+2016,Del Norte County,Del Norte Co. Sheriff's Department,0,11,74,251,96
+2016,Del Norte County,Crescent City,0,6,45,39,91
+2016,Del Norte County,CA Highway Patrol - Del Norte,0,0,0,0,1
+2016,El Dorado County,El Dorado Co. Sheriff's Department,1,37,200,512,1534
+2016,El Dorado County,Placerville,0,9,12,76,262
+2016,El Dorado County,South Lake Tahoe,1,23,35,90,297
+2016,El Dorado County,Union Pacific RR - El Dorado,0,0,0,0,0
+2016,El Dorado County,CA Highway Patrol - El Dorado,0,0,0,2,64
+2016,Fresno County,Fresno Co. Sheriff's Department,12,82,1054,1625,1468
+2016,Fresno County,Clovis,2,72,146,434,2337
+2016,Fresno County,Coalinga,0,7,113,90,182
+2016,Fresno County,Firebaugh,0,3,3,37,57
+2016,Fresno County,Fowler,0,4,28,36,55
+2016,Fresno County,Fresno,39,1122,1887,3697,13542
+2016,Fresno County,Huron,1,8,42,43,36
+2016,Fresno County,Kerman,0,7,24,74,243
+2016,Fresno County,Kingsburg,0,8,16,116,126
+2016,Fresno County,Mendota,4,12,74,33,85
+2016,Fresno County,Orange Cove,1,3,34,30,67
+2016,Fresno County,Parlier,0,13,79,75,100
+2016,Fresno County,Reedley,0,19,161,154,265
+2016,Fresno County,Sanger,3,17,97,161,315
+2016,Fresno County,Selma,1,28,251,197,447
+2016,Fresno County,State Center Community College,0,3,3,18,113
+2016,Fresno County,Union Pacific RR - Fresno,0,0,0,0,2
+2016,Fresno County,San Joaquin DPR,0,0,2,0,1
+2016,Fresno County,CSU Fresno,0,5,5,62,245
+2016,Fresno County,CA Highway Patrol - Fresno,0,0,0,0,27
+2016,Fresno County,Coalinga State Hospital,0,0,172,1,3
+2016,Glenn County,Glenn Co. Sheriff's Department,1,1,32,60,96
+2016,Glenn County,Orland,0,5,17,30,96
+2016,Glenn County,Willows,0,5,35,32,170
+2016,Glenn County,Union Pacific RR - Glenn,0,0,0,0,0
+2016,Glenn County,CA Highway Patrol - Glenn,0,0,0,0,5
+2016,Humboldt County,Humboldt Co. Sheriff's Department,9,57,177,366,385
+2016,Humboldt County,Arcata,0,22,54,129,461
+2016,Humboldt County,Eureka,1,76,154,424,854
+2016,Humboldt County,Ferndale,0,1,5,7,16
+2016,Humboldt County,Fortuna,2,8,45,59,368
+2016,Humboldt County,Rio Dell,0,1,6,9,22
+2016,Humboldt County,CSU Humboldt (Arcata),0,2,0,5,107
+2016,Humboldt County,Union Pacific RR - Humboldt,0,0,0,0,0
+2016,Humboldt County,Northern Coast Redwoods DPR,0,0,0,5,27
+2016,Humboldt County,CA Highway Patrol - Humboldt,0,0,0,0,53
+2016,Imperial County,Imperial Co. Sheriff's Department,2,12,139,129,298
+2016,Imperial County,Brawley,0,11,110,170,692
+2016,Imperial County,Calexico,0,38,123,321,710
+2016,Imperial County,El Centro,1,55,130,506,1669
+2016,Imperial County,Holtville,0,1,11,28,41
+2016,Imperial County,Imperial,0,1,6,7,60
+2016,Imperial County,Westmorland,0,0,2,4,3
+2016,Imperial County,Union Pacific RR - Imperial,0,0,0,0,6
+2016,Imperial County,CA Highway Patrol - Imperial,0,0,0,0,4
+2016,Inyo County,Inyo Co. Sheriff's Department,0,5,73,67,84
+2016,Inyo County,Bishop,1,5,22,31,114
+2016,Inyo County,Union Pacific RR - Inyo,0,0,0,0,0
+2016,Inyo County,CA Highway Patrol - Inyo,0,0,0,0,5
+2016,Kern County,Kern Co. Sheriff's Department,44,443,1739,3161,5109
+2016,Kern County,Arvin,2,17,169,170,279
+2016,Kern County,Bakersfield,32,614,1108,3887,10203
+2016,Kern County,Delano,7,26,222,305,779
+2016,Kern County,McFarland,1,4,26,76,78
+2016,Kern County,Ridgecrest,0,21,104,176,317
+2016,Kern County,Shafter,1,6,28,174,249
+2016,Kern County,Taft,0,6,64,80,249
+2016,Kern County,Tehachapi,0,8,38,89,161
+2016,Kern County,California City,1,21,60,215,152
+2016,Kern County,Stallion Springs,0,0,2,4,13
+2016,Kern County,Bear Valley,0,0,5,4,56
+2016,Kern County,Union Pacific RR - Kern,0,0,0,5,16
+2016,Kern County,CSU Bakersfield,0,0,1,4,53
+2016,Kern County,CA Highway Patrol - Kern,0,0,1,1,28
+2016,Kings County,Kings Co. Sheriff's Department,4,16,121,164,236
+2016,Kings County,Corcoran,2,7,49,114,216
+2016,Kings County,Hanford,2,44,199,222,1059
+2016,Kings County,Lemoore,0,10,68,111,308
+2016,Kings County,Union Pacific RR - Kings,0,0,0,0,0
+2016,Kings County,Porterville Developmental Center,0,0,18,2,6
+2016,Kings County,Avenal,3,3,21,86,72
+2016,Kings County,CA Highway Patrol - Kings,0,0,0,0,34
+2016,Lake County,Lake Co. Sheriff's Department,2,15,145,337,283
+2016,Lake County,Lakeport,0,14,30,50,142
+2016,Lake County,Clearlake,1,37,92,237,336
+2016,Lake County,CA Highway Patrol - Lake,0,0,4,3,18
+2016,Lassen County,Lassen Co. Sheriff's Department,1,2,36,87,114
+2016,Lassen County,Susanville,0,11,161,68,193
+2016,Lassen County,Union Pacific RR - Lassen,0,0,0,0,0
+2016,Lassen County,CA Highway Patrol - Lassen,0,0,1,0,8
+2016,Los Angeles County,Los Angeles Co. Sheriff's Department,94,1474,4249,3816,9328
+2016,Los Angeles County,Alhambra,0,73,64,422,1447
+2016,Los Angeles County,Arcadia,2,44,33,520,1045
+2016,Los Angeles County,Artesia,2,30,56,198,350
+2016,Los Angeles County,Avalon,0,0,8,2,34
+2016,Los Angeles County,Azusa,1,46,110,261,695
+2016,Los Angeles County,Baldwin Park,5,73,182,356,818
+2016,Los Angeles County,Bell,5,57,160,212,414
+2016,Los Angeles County,Bellflower,4,160,197,453,1047
+2016,Los Angeles County,Bell Gardens,3,64,81,103,510
+2016,Los Angeles County,El Camino College,0,3,0,11,84
+2016,Los Angeles County,La Habra Heights,0,2,2,37,64
+2016,Los Angeles County,Union Pacific RR - Los Angeles,0,0,1,178,51
+2016,Los Angeles County,Metropolitan Trans. Authority (MTA),0,1,1,0,22
+2016,Los Angeles County,Pasadena Community College,0,1,3,1,81
+2016,Los Angeles County,Westlake Village,0,2,10,37,161
+2016,Los Angeles County,Beverly Hills,0,49,43,306,1037
+2016,Los Angeles County,Bradbury,0,0,0,4,2
+2016,Los Angeles County,Burbank,0,50,136,392,2269
+2016,Los Angeles County,Claremont,0,28,28,290,607
+2016,Los Angeles County,Commerce,1,56,66,119,744
+2016,Los Angeles County,Compton,35,365,691,371,1367
+2016,Los Angeles County,Covina,1,48,92,309,816
+2016,Los Angeles County,Cudahy,3,25,39,41,127
+2016,Los Angeles County,Culver City,0,137,73,304,1599
+2016,Los Angeles County,Cerritos,0,48,58,468,1576
+2016,Los Angeles County,Agoura Hills,0,3,10,83,150
+2016,Los Angeles County,West Hollywood,2,119,128,241,1217
+2016,Los Angeles County,Santa Clarita,2,122,162,650,1942
+2016,Los Angeles County,Diamond Bar,2,22,38,364,495
+2016,Los Angeles County,Downey,1,188,162,527,2078
+2016,Los Angeles County,Duarte,2,19,51,77,223
+2016,Los Angeles County,El Monte,3,167,247,675,1138
+2016,Los Angeles County,El Segundo,0,25,24,186,472
+2016,Los Angeles County,Gardena,3,160,151,355,772
+2016,Los Angeles County,Glendale,1,84,104,596,2491
+2016,Los Angeles County,Glendora,0,16,50,253,1036
+2016,Los Angeles County,Hawaiian Gardens,2,27,42,54,169
+2016,Los Angeles County,Hawthorne,7,298,309,442,1517
+2016,Los Angeles County,Hermosa Beach,1,14,22,85,424
+2016,Los Angeles County,Calabasas,0,3,11,90,178
+2016,Los Angeles County,Malibu,0,13,19,87,283
+2016,Los Angeles County,Los Angeles Transit Serv. Bureau,3,410,315,12,854
+2016,Los Angeles County,Hidden Hills,0,0,0,8,8
+2016,Los Angeles County,Huntington Park,2,216,217,208,1102
+2016,Los Angeles County,Industry,0,40,48,174,783
+2016,Los Angeles County,Inglewood,16,406,352,437,1229
+2016,Los Angeles County,Irwindale,0,6,11,41,127
+2016,Los Angeles County,Lakewood,2,113,101,342,1872
+2016,Los Angeles County,La Mirada,1,27,48,162,606
+2016,Los Angeles County,La Puente,1,45,76,136,260
+2016,Los Angeles County,La Verne,0,10,20,121,409
+2016,Los Angeles County,Lawndale,0,71,114,93,276
+2016,Los Angeles County,Lomita,0,27,38,73,223
+2016,Los Angeles County,Long Beach,33,1138,1478,2988,8377
+2016,Los Angeles County,Los Angeles,293,10307,15874,15821,64739
+2016,Los Angeles County,Lynwood,9,197,232,245,701
+2016,Los Angeles County,Manhattan Beach,0,32,13,191,786
+2016,Los Angeles County,Maywood,0,39,74,79,195
+2016,Los Angeles County,Monrovia,0,19,33,132,624
+2016,Los Angeles County,Montebello,0,114,93,823,607
+2016,Los Angeles County,Monterey Park,1,59,63,460,998
+2016,Los Angeles County,Norwalk,7,139,255,372,1125
+2016,Los Angeles County,Palmdale,8,222,422,646,1660
+2016,Los Angeles County,Palos Verdes Estates,0,1,3,28,76
+2016,Los Angeles County,Paramount,4,150,141,226,1125
+2016,Los Angeles County,Pasadena,2,164,265,861,2261
+2016,Los Angeles County,Pico Rivera,2,72,134,328,836
+2016,Los Angeles County,Pomona,13,295,391,853,2640
+2016,Los Angeles County,Redondo Beach,1,58,93,428,1154
+2016,Los Angeles County,Rolling Hills,0,0,0,3,8
+2016,Los Angeles County,Rolling Hills Estates,0,8,3,33,88
+2016,Los Angeles County,Rosemead,1,73,84,308,714
+2016,Los Angeles County,San Dimas,0,24,43,188,491
+2016,Los Angeles County,San Fernando,1,38,85,90,240
+2016,Los Angeles County,San Gabriel,0,38,54,224,374
+2016,Los Angeles County,San Marino,0,7,7,106,148
+2016,Los Angeles County,Santa Fe Springs,3,36,65,168,836
+2016,Los Angeles County,Santa Monica,2,189,244,623,3180
+2016,Los Angeles County,Sierra Madre,0,3,19,47,59
+2016,Los Angeles County,Signal Hill,0,29,31,103,640
+2016,Los Angeles County,South El Monte,2,44,57,152,273
+2016,Los Angeles County,South Gate,5,250,376,507,1929
+2016,Los Angeles County,South Pasadena,0,10,10,162,447
+2016,Los Angeles County,Temple City,1,15,28,264,278
+2016,Los Angeles County,Torrance,1,119,110,458,2326
+2016,Los Angeles County,Vernon,1,18,8,44,207
+2016,Los Angeles County,Walnut,2,7,14,285,200
+2016,Los Angeles County,West Covina,4,110,133,519,1794
+2016,Los Angeles County,Whittier,2,97,138,467,1933
+2016,Los Angeles County,Carson,10,165,307,439,1463
+2016,Los Angeles County,Cal Poly - Pomona,0,2,1,20,142
+2016,Los Angeles County,Rancho Palos Verdes,0,6,14,118,266
+2016,Los Angeles County,CSU Dominguez Hills,0,1,3,6,34
+2016,Los Angeles County,CSU Long Beach,0,2,4,8,165
+2016,Los Angeles County,CSU Los Angeles,0,0,4,9,124
+2016,Los Angeles County,CSU Northridge,0,7,4,17,225
+2016,Los Angeles County,La Canada-Flintridge,0,5,8,95,194
+2016,Los Angeles County,Lancaster,7,340,683,1059,1816
+2016,Los Angeles County,UC Los Angeles,0,8,50,127,612
+2016,Los Angeles County,CA Highway Patrol - Los Angeles,0,3,25,5,71
+2016,Madera County,Madera Co. Sheriff's Department,4,19,383,517,568
+2016,Madera County,Chowchilla,0,7,77,161,281
+2016,Madera County,Madera,3,98,382,297,1262
+2016,Madera County,Union Pacific RR - Madera,0,0,0,0,0
+2016,Madera County,CA Highway Patrol - Madera,0,0,0,3,44
+2016,Marin County,Marin Co. Sheriff's Department,3,19,46,172,554
+2016,Marin County,Belvedere,0,0,1,5,16
+2016,Marin County,Fairfax,0,4,9,16,113
+2016,Marin County,Mill Valley,0,2,6,45,166
+2016,Marin County,Novato,0,15,56,186,716
+2016,Marin County,Ross,0,0,0,11,13
+2016,Marin County,San Rafael,0,111,110,255,1186
+2016,Marin County,Sausalito,0,0,4,33,202
+2016,Marin County,Tiburon,0,0,2,18,61
+2016,Marin County,Union Pacific RR - Marin,0,0,0,0,0
+2016,Marin County,Marin Community College,0,0,1,2,15
+2016,Marin County,Marin DPR,0,0,0,2,9
+2016,Marin County,Central Marin,0,17,17,246,370
+2016,Marin County,CA Highway Patrol - Marin,0,0,0,0,23
+2016,Mariposa County,Mariposa Co. Sheriff's Department,0,1,67,53,161
+2016,Mariposa County,CA Highway Patrol - Mariposa,0,0,0,0,5
+2016,Mendocino County,Mendocino Co. Sheriff's Department,7,19,278,246,228
+2016,Mendocino County,Fort Bragg,1,3,34,55,261
+2016,Mendocino County,Ukiah,0,29,106,107,284
+2016,Mendocino County,Willits,0,4,59,10,22
+2016,Mendocino County,Mendocino DPR,0,1,0,0,10
+2016,Mendocino County,Union Pacific RR - Mendocino,0,0,0,0,0
+2016,Mendocino County,CA Highway Patrol - Mendocino,0,0,1,1,21
+2016,Merced County,Merced Co. Sheriff's Department,2,33,489,601,886
+2016,Merced County,Atwater,1,27,167,190,670
+2016,Merced County,Dos Palos,0,1,33,75,86
+2016,Merced County,Gustine,1,2,33,31,67
+2016,Merced County,Livingston,0,6,49,115,193
+2016,Merced County,Los Banos,1,35,74,253,733
+2016,Merced County,Merced,1,134,319,558,1617
+2016,Merced County,Union Pacific RR - Merced,0,0,0,0,0
+2016,Merced County,Four Rivers DPR,0,0,0,0,1
+2016,Merced County,UC Merced,0,0,1,7,45
+2016,Merced County,CA Highway Patrol - Merced,0,0,0,0,97
+2016,Modoc County,Modoc Co. Sheriff's Department,1,0,15,9,35
+2016,Modoc County,Alturas,0,1,16,34,74
+2016,Modoc County,Union Pacific RR - Modoc,0,0,0,0,0
+2016,Modoc County,CA Highway Patrol - Modoc,0,0,0,0,0
+2016,Mono County,Mono Co. Sheriff's Department,1,1,12,20,31
+2016,Mono County,Mammoth Lakes,1,3,12,19,79
+2016,Mono County,CA Highway Patrol - Mono,0,0,0,0,1
+2016,Monterey County,Monterey Co. Sheriff's Department,11,54,203,303,1041
+2016,Monterey County,Carmel,0,1,6,18,73
+2016,Monterey County,Del Rey Oaks,0,2,2,34,41
+2016,Monterey County,Gonzales,1,9,25,18,54
+2016,Monterey County,Greenfield,3,21,29,55,168
+2016,Monterey County,King City,2,5,36,57,115
+2016,Monterey County,Monterey,1,29,55,199,816
+2016,Monterey County,Pacific Grove,0,2,2,47,249
+2016,Monterey County,Salinas,35,325,559,695,2484
+2016,Monterey County,Sand City,0,4,3,5,129
+2016,Monterey County,Seaside,2,29,87,87,421
+2016,Monterey County,Soledad,1,14,54,40,92
+2016,Monterey County,Marina,0,10,35,63,390
+2016,Monterey County,Monterey Airport,0,0,0,9,4
+2016,Monterey County,Union Pacific RR - Monterey,0,0,0,0,0
+2016,Monterey County,Monterey DPR,0,0,1,33,53
+2016,Monterey County,CSU Monterey Bay,0,1,1,3,45
+2016,Monterey County,CA Highway Patrol - Monterey,0,0,0,0,37
+2016,Napa County,Napa Co. Sheriff's Department,0,8,46,93,175
+2016,Napa County,Calistoga,0,1,5,20,53
+2016,Napa County,Napa,1,47,210,437,1013
+2016,Napa County,St. Helena,0,1,6,29,73
+2016,Napa County,Union Pacific RR - Napa,0,0,0,0,0
+2016,Napa County,Napa State Hospital,0,0,146,2,6
+2016,Napa County,American Canyon,0,15,46,58,295
+2016,Napa County,Yountville,0,0,4,16,28
+2016,Napa County,CA Highway Patrol - Napa,0,0,0,0,4
+2016,Nevada County,Nevada Co. Sheriff's Department,5,5,66,285,395
+2016,Nevada County,Grass Valley,0,7,88,120,521
+2016,Nevada County,Nevada City,0,1,7,21,73
+2016,Nevada County,Union Pacific RR - Nevada,0,0,0,0,0
+2016,Nevada County,Truckee,0,2,21,42,121
+2016,Nevada County,CA Highway Patrol - Nevada,1,0,1,0,10
+2016,Orange County,Orange Co. Sheriff's Department,0,30,179,213,765
+2016,Orange County,Anaheim,7,390,689,1469,6764
+2016,Orange County,Brea,0,29,57,188,1169
+2016,Orange County,Buena Park,1,78,154,322,1891
+2016,Orange County,Costa Mesa,1,145,206,735,3296
+2016,Orange County,Cypress,1,22,33,148,525
+2016,Orange County,La Palma,0,10,26,141,196
+2016,Orange County,Fountain Valley,0,21,42,246,1072
+2016,Orange County,Fullerton,5,94,187,456,2740
+2016,Orange County,Garden Grove,4,186,317,861,2789
+2016,Orange County,Huntington Beach,2,76,229,650,3466
+2016,Orange County,Laguna Beach,0,17,84,134,452
+2016,Orange County,La Habra,1,35,58,237,955
+2016,Orange County,Los Alamitos,0,4,7,73,129
+2016,Orange County,Newport Beach,1,17,58,437,1644
+2016,Orange County,Orange,1,57,145,464,1783
+2016,Orange County,Placentia,1,23,51,203,505
+2016,Orange County,San Clemente,0,21,44,184,547
+2016,Orange County,San Juan Capistrano,1,15,62,108,275
+2016,Orange County,Santa Ana,23,511,936,1119,3913
+2016,Orange County,Seal Beach,1,4,22,80,425
+2016,Orange County,Stanton,0,56,61,120,469
+2016,Orange County,Tustin,2,34,71,229,1412
+2016,Orange County,Villa Park,0,1,2,22,57
+2016,Orange County,Westminster,2,96,180,529,1854
+2016,Orange County,Yorba Linda,0,6,24,150,514
+2016,Orange County,Irvine,3,52,56,640,2918
+2016,Orange County,CSU Fullerton,0,1,3,28,177
+2016,Orange County,Union Pacific RR - Orange,0,0,0,1,1
+2016,Orange County,Orange Coast DPR,0,0,0,19,37
+2016,Orange County,Fairview Developmental Center,0,0,4,1,1
+2016,Orange County,Mission Viejo,0,25,43,160,768
+2016,Orange County,Dana Point,0,17,36,121,400
+2016,Orange County,Laguna Niguel,0,22,34,124,567
+2016,Orange County,Laguna Hills,0,9,20,107,381
+2016,Orange County,Lake Forest,0,13,75,135,533
+2016,Orange County,Laguna Woods,0,2,6,21,139
+2016,Orange County,Rancho Santa Margarita,0,10,36,45,206
+2016,Orange County,Aliso Viejo,0,5,20,61,323
+2016,Orange County,Irvine Valley College,0,0,0,5,26
+2016,Orange County,UC Irvine,0,2,7,39,391
+2016,Orange County,CA Highway Patrol - Orange,0,0,8,0,32
+2016,Placer County,Placer Co. Sheriff's Department,1,34,193,471,1040
+2016,Placer County,Auburn,1,6,55,64,199
+2016,Placer County,Lincoln,0,7,17,118,366
+2016,Placer County,Rocklin,1,14,31,210,895
+2016,Placer County,Roseville,0,95,83,393,2596
+2016,Placer County,Sierra DPR,0,0,0,0,6
+2016,Placer County,Union Pacific RR - Placer,0,0,0,2,13
+2016,Placer County,CA Highway Patrol - Placer,0,0,1,0,65
+2016,Plumas County,Plumas Co. Sheriff's Department,2,6,102,120,207
+2016,Plumas County,Union Pacific RR - Plumas,0,0,0,0,0
+2016,Plumas County,CA Highway Patrol - Plumas,0,0,0,0,12
+2016,Riverside County,Riverside Co. Sheriff's Department,28,177,580,1695,4630
+2016,Riverside County,Banning,3,34,98,234,279
+2016,Riverside County,Beaumont,0,29,100,190,696
+2016,Riverside County,Blythe,1,20,53,246,413
+2016,Riverside County,Coachella,2,62,88,232,847
+2016,Riverside County,Desert Hot Springs,5,43,163,464,221
+2016,Riverside County,Hemet,5,170,398,764,2004
+2016,Riverside County,Indio,5,88,318,400,1165
+2016,Riverside County,Norco,0,16,32,164,482
+2016,Riverside County,Palm Springs,2,67,178,746,1669
+2016,Riverside County,Perris,2,91,128,344,1264
+2016,Riverside County,Riverside,10,586,987,1977,7355
+2016,Riverside County,San Jacinto,4,67,56,348,1044
+2016,Riverside County,Corona,3,74,69,741,2236
+2016,Riverside County,Indian Wells,0,2,5,38,68
+2016,Riverside County,Rancho Mirage,0,3,20,174,462
+2016,Riverside County,Palm Desert,1,26,48,380,1586
+2016,Riverside County,Union Pacific RR - Riverside,0,0,2,7,11
+2016,Riverside County,Inland Empire DPR,0,0,0,3,1
+2016,Riverside County,Cathedral City,5,51,78,275,429
+2016,Riverside County,Lake Elsinore,3,53,89,274,1224
+2016,Riverside County,La Quinta,1,34,46,167,852
+2016,Riverside County,Moreno Valley,9,341,496,969,4042
+2016,Riverside County,Temecula,2,55,84,341,1940
+2016,Riverside County,Calimesa,1,8,6,67,169
+2016,Riverside County,Canyon Lake,0,1,13,38,70
+2016,Riverside County,Murrieta,0,17,24,280,1115
+2016,Riverside County,Riverside Community College,0,0,0,7,69
+2016,Riverside County,Wildomar,0,9,35,129,391
+2016,Riverside County,Menifee,0,47,80,384,1400
+2016,Riverside County,Eastvale,0,24,42,167,935
+2016,Riverside County,UC Riverside,0,4,2,23,249
+2016,Riverside County,CA Highway Patrol - Riverside,0,1,14,8,27
+2016,Riverside County,Jurupa Valley,7,76,239,476,1597
+2016,Riverside County,Mount San Jacinto Community College,0,0,1,12,17
+2016,Sacramento County,Sacramento Co. Sheriff's Department,42,880,1720,3062,6943
+2016,Sacramento County,Folsom,0,34,33,264,1006
+2016,Sacramento County,Galt,0,11,57,120,404
+2016,Sacramento County,Isleton,0,1,5,8,5
+2016,Sacramento County,Sacramento,41,1136,2284,3070,9389
+2016,Sacramento County,CSU Sacramento,0,2,1,10,181
+2016,Sacramento County,Elk Grove,0,94,402,373,1760
+2016,Sacramento County,Gold Fields DPR,0,0,2,1,75
+2016,Sacramento County,Twin Rivers Unified School,0,5,8,102,45
+2016,Sacramento County,CA State Fair,0,0,2,20,66
+2016,Sacramento County,Capital DPR,0,0,0,1,5
+2016,Sacramento County,Twin Cities DPR,0,0,0,0,0
+2016,Sacramento County,Union Pacific RR - Sacramento,0,0,0,4,6
+2016,Sacramento County,Rancho Cordova,1,74,153,305,998
+2016,Sacramento County,Citrus Heights,3,88,267,400,1900
+2016,Sacramento County,UC Med Center Sacramento,0,1,11,3,135
+2016,Sacramento County,CA Highway Patrol - Sacramento,0,0,7,7,1564
+2016,San Benito County,San Benito Co. Sheriff's Department,1,4,28,64,52
+2016,San Benito County,Hollister,0,25,79,74,243
+2016,San Benito County,Union Pacific RR - San Benito,0,0,0,0,0
+2016,San Benito County,Hollister Hills DPR,0,0,0,0,0
+2016,San Benito County,CA Highway Patrol - San Benito,0,0,0,0,0
+2016,San Bernardino County,San Bernardino Co. Sheriff's Department,12,151,673,1525,2513
+2016,San Bernardino County,Barstow,3,106,228,455,465
+2016,San Bernardino County,Chino,1,52,141,439,1407
+2016,San Bernardino County,Colton,2,98,103,304,806
+2016,San Bernardino County,Fontana,14,218,569,697,2550
+2016,San Bernardino County,Montclair,0,63,115,326,978
+2016,San Bernardino County,Needles,0,6,38,67,77
+2016,San Bernardino County,Ontario,8,227,335,885,2764
+2016,San Bernardino County,Redlands,0,76,112,501,2014
+2016,San Bernardino County,Rialto,4,159,266,555,603
+2016,San Bernardino County,San Bernardino,62,903,1790,2353,4228
+2016,San Bernardino County,Upland,1,96,128,673,1285
+2016,San Bernardino County,Victorville,7,224,471,953,2002
+2016,San Bernardino County,Adelanto,1,48,199,241,218
+2016,San Bernardino County,CSU San Bernardino,0,3,3,5,69
+2016,San Bernardino County,Rancho Cucamonga,1,86,136,974,2563
+2016,San Bernardino County,Big Bear,1,3,24,52,127
+2016,San Bernardino County,Grand Terrace,0,8,10,75,161
+2016,San Bernardino County,Loma Linda,0,12,19,103,403
+2016,San Bernardino County,San Bernardino Unified School,0,58,8,127,144
+2016,San Bernardino County,Highland,3,79,147,304,532
+2016,San Bernardino County,Twentynine Palms,0,15,69,148,167
+2016,San Bernardino County,Hesperia,3,92,209,457,994
+2016,San Bernardino County,Apple Valley,4,74,210,417,1064
+2016,San Bernardino County,Yucaipa,0,20,82,263,730
+2016,San Bernardino County,San Bernardino College,0,3,1,23,55
+2016,San Bernardino County,Chino Hills,1,12,38,331,595
+2016,San Bernardino County,Yucca Valley,1,15,67,131,229
+2016,San Bernardino County,Fontana Unified School,0,1,16,30,41
+2016,San Bernardino County,Union Pacific RR - San Bernardino,0,0,0,10,22
+2016,San Bernardino County,Patton State Hospital,0,1,502,0,7
+2016,San Bernardino County,Tehachapi DPR,0,0,0,10,6
+2016,San Bernardino County,CA Highway Patrol - San Bernardino,0,1,18,6,21
+2016,San Diego County,San Diego Co. Sheriff's Department,29,206,1072,1131,2656
+2016,San Diego County,Carlsbad,0,49,123,369,1652
+2016,San Diego County,Chula Vista,1,208,429,694,2675
+2016,San Diego County,Coronado,0,3,18,36,312
+2016,San Diego County,Del Mar,0,1,6,57,98
+2016,San Diego County,El Cajon,1,146,202,429,1584
+2016,San Diego County,Escondido,4,150,353,415,2213
+2016,San Diego County,Imperial Beach,1,17,46,87,172
+2016,San Diego County,La Mesa,0,56,120,336,1108
+2016,San Diego County,National City,3,108,143,182,734
+2016,San Diego County,Oceanside,8,172,403,607,3276
+2016,San Diego County,San Diego,50,1387,3323,4743,18042
+2016,San Diego County,San Marcos,0,42,142,211,783
+2016,San Diego County,Vista,2,99,230,351,989
+2016,San Diego County,CSU San Diego,0,9,2,65,515
+2016,San Diego County,San Diego Harbor,0,10,62,34,478
+2016,San Diego County,Colorado DPR,0,0,0,0,0
+2016,San Diego County,Ocotillo Wells DPR,0,0,1,0,3
+2016,San Diego County,San Diego Coast DPR,0,1,6,2,7
+2016,San Diego County,CSU San Marcos,0,1,1,5,44
+2016,San Diego County,UC San Diego,0,4,5,26,378
+2016,San Diego County,CA Highway Patrol - San Diego,0,0,10,1,17
+2016,San Diego County,Lemon Grove,0,56,77,106,311
+2016,San Diego County,Santee,2,21,82,137,681
+2016,San Diego County,Poway,0,14,43,93,329
+2016,San Diego County,Encinitas,0,14,82,204,757
+2016,San Diego County,Solana Beach,0,3,12,61,141
+2016,San Francisco County,San Francisco,57,3175,2616,4978,36991
+2016,San Francisco County,CSU San Francisco,0,4,1,33,212
+2016,San Francisco County,San Francisco BART,0,34,15,0,254
+2016,San Francisco County,UC Hastings College of Law,0,5,3,1,26
+2016,San Francisco County,Union Pacific RR - San Francisco,0,0,0,0,0
+2016,San Francisco County,UC San Francisco,1,3,8,72,382
+2016,San Francisco County,CA Highway Patrol - San Francisco,0,0,1,0,1
+2016,San Joaquin County,San Joaquin Co. Sheriff's Department,7,174,586,826,2106
+2016,San Joaquin County,Escalon,1,3,24,28,91
+2016,San Joaquin County,Lodi,5,84,253,438,1189
+2016,San Joaquin County,Manteca,0,91,123,315,2020
+2016,San Joaquin County,Ripon,0,9,1,22,225
+2016,San Joaquin County,Stockton,49,1185,3019,2251,7550
+2016,San Joaquin County,Tracy,0,62,72,245,1348
+2016,San Joaquin County,Stockton Unified School,0,16,20,90,146
+2016,San Joaquin County,Union Pacific RR - San Joaquin,0,0,0,24,20
+2016,San Joaquin County,CA Highway Patrol - San Joaquin,0,0,1,0,153
+2016,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,0,16,319,441,920
+2016,San Luis Obispo County,Arroyo Grande,0,9,20,53,262
+2016,San Luis Obispo County,Grover Beach,1,5,31,58,241
+2016,San Luis Obispo County,Morro Bay,2,3,12,52,136
+2016,San Luis Obispo County,Paso Robles,0,20,39,144,738
+2016,San Luis Obispo County,Pismo Beach,0,6,2,80,410
+2016,San Luis Obispo County,San Luis Obispo,0,21,118,251,1730
+2016,San Luis Obispo County,Cal Poly San Luis Obispo,0,1,1,10,125
+2016,San Luis Obispo County,Atascadero,1,7,64,109,345
+2016,San Luis Obispo County,San Luis Obispo Coast DPR,0,0,1,1,24
+2016,San Luis Obispo County,Oceano Dunes DPR,0,0,5,0,39
+2016,San Luis Obispo County,Atascadero State Hospital,0,0,309,0,4
+2016,San Luis Obispo County,Union Pacific RR - San Luis Obispo,0,0,0,0,2
+2016,San Luis Obispo County,Cuesta College,0,0,0,0,10
+2016,San Luis Obispo County,CA Highway Patrol - San Luis Obispo,0,0,0,0,1
+2016,San Mateo County,San Mateo Co. Sheriff's Department,1,64,176,454,2089
+2016,San Mateo County,Atherton,0,1,1,14,84
+2016,San Mateo County,Belmont,0,5,18,86,266
+2016,San Mateo County,Brisbane,1,0,11,42,49
+2016,San Mateo County,Burlingame,1,18,30,229,688
+2016,San Mateo County,Colma,0,12,14,48,233
+2016,San Mateo County,Daly City,1,90,131,246,1152
+2016,San Mateo County,Hillsborough,0,2,5,84,36
+2016,San Mateo County,Menlo Park,0,7,13,101,493
+2016,San Mateo County,Pacifica,0,11,39,89,363
+2016,San Mateo County,Redwood City,0,44,77,260,1087
+2016,San Mateo County,San Bruno,0,47,46,141,857
+2016,San Mateo County,San Mateo,1,44,179,732,1194
+2016,San Mateo County,South San Francisco,1,43,80,307,902
+2016,San Mateo County,Broadmoor,0,8,6,42,26
+2016,San Mateo County,Foster City,0,5,17,60,261
+2016,San Mateo County,San Mateo BART,0,9,11,0,121
+2016,San Mateo County,Union Pacific RR - San Mateo,0,0,0,0,0
+2016,San Mateo County,Bay Area DPR,0,0,0,0,0
+2016,San Mateo County,East Palo Alto,3,55,52,82,344
+2016,San Mateo County,CA Highway Patrol - San Mateo,0,0,0,0,4
+2016,Santa Barbara County,Santa Barbara Co. Sheriff's Department,4,32,180,476,1146
+2016,Santa Barbara County,Guadalupe,0,2,4,11,47
+2016,Santa Barbara County,Lompoc,0,19,176,219,628
+2016,Santa Barbara County,Santa Barbara,0,82,228,433,2428
+2016,Santa Barbara County,Santa Maria,9,168,284,521,1452
+2016,Santa Barbara County,Carpinteria,0,8,16,50,172
+2016,Santa Barbara County,Union Pacific RR - Santa Barbara,0,0,0,0,2
+2016,Santa Barbara County,Solvang,0,1,10,18,61
+2016,Santa Barbara County,Allen Hancock College,0,0,0,5,10
+2016,Santa Barbara County,Buelton,0,3,2,16,60
+2016,Santa Barbara County,Goleta,0,8,21,92,364
+2016,Santa Barbara County,UC Santa Barbara,0,2,24,27,259
+2016,Santa Barbara County,CA Highway Patrol - Santa Barbara,0,0,0,0,62
+2016,Santa Clara County,Santa Clara Co. Sheriff's Department,4,15,251,260,826
+2016,Santa Clara County,Campbell,0,33,57,249,908
+2016,Santa Clara County,Cupertino,0,16,48,268,661
+2016,Santa Clara County,Gilroy,0,57,95,255,1132
+2016,Santa Clara County,Los Altos,0,3,7,133,193
+2016,Santa Clara County,Los Altos Hills,0,0,4,41,22
+2016,Santa Clara County,Los Gatos,0,6,13,139,432
+2016,Santa Clara County,Milpitas,1,52,34,202,1320
+2016,Santa Clara County,Monte Sereno,0,0,0,14,13
+2016,Santa Clara County,Morgan Hill,0,21,58,111,418
+2016,Santa Clara County,Mountain View,0,29,94,280,1377
+2016,Santa Clara County,Palo Alto,1,28,35,215,1159
+2016,Santa Clara County,San Jose,47,1214,2175,4260,12786
+2016,Santa Clara County,Santa Clara,3,58,81,362,2039
+2016,Santa Clara County,Saratoga,0,6,18,159,120
+2016,Santa Clara County,Sunnyvale,1,53,83,520,1347
+2016,Santa Clara County,CSU San Jose,0,4,20,34,356
+2016,Santa Clara County,San Jose Community College,0,0,1,0,36
+2016,Santa Clara County,West Valley College District,0,0,2,9,27
+2016,Santa Clara County,Foothill College,0,1,0,1,42
+2016,Santa Clara County,Union Pacific RR - Santa Clara,0,0,0,2,1
+2016,Santa Clara County,Santa Clara Transit District,0,20,34,9,79
+2016,Santa Clara County,CA Highway Patrol - Santa Clara,0,0,0,0,24
+2016,Santa Cruz County,Santa Cruz Co. Sheriff's Department,1,44,204,485,1533
+2016,Santa Cruz County,Capitola,0,11,13,35,674
+2016,Santa Cruz County,Santa Cruz,4,106,366,354,2874
+2016,Santa Cruz County,Watsonville,0,46,166,214,1018
+2016,Santa Cruz County,Scotts Valley,0,1,11,84,161
+2016,Santa Cruz County,Union Pacific RR - Santa Cruz,0,0,0,0,0
+2016,Santa Cruz County,Santa Cruz Mtns. DPR,0,0,1,1,107
+2016,Santa Cruz County,UC Santa Cruz,0,1,6,48,282
+2016,Santa Cruz County,CA Highway Patrol - Santa Cruz,0,0,0,0,161
+2016,Shasta County,Shasta Co. Sheriff's Department,5,22,434,451,471
+2016,Shasta County,Anderson,2,6,76,51,315
+2016,Shasta County,Redding,5,143,488,710,2608
+2016,Shasta County,Union Pacific RR - Shasta,0,0,1,0,2
+2016,Shasta County,Shasta Marshal's Office,0,0,0,0,0
+2016,Shasta County,CA Highway Patrol - Shasta,0,1,0,5,76
+2016,Sierra County,Sierra Co. Sheriff's Department,0,0,14,8,18
+2016,Sierra County,Union Pacific RR - Sierra,0,0,0,0,0
+2016,Sierra County,CA Highway Patrol - Sierra,0,0,0,0,0
+2016,Siskiyou County,Siskiyou Co. Sheriff's Department,2,2,43,118,102
+2016,Siskiyou County,Dorris,0,0,4,10,8
+2016,Siskiyou County,Dunsmuir,0,0,6,15,24
+2016,Siskiyou County,Etna,0,0,1,0,5
+2016,Siskiyou County,Fort Jones,0,0,1,2,4
+2016,Siskiyou County,Montague,0,0,3,8,6
+2016,Siskiyou County,Mount Shasta,0,0,9,22,63
+2016,Siskiyou County,Tulelake,0,0,1,4,5
+2016,Siskiyou County,Weed,0,5,17,13,78
+2016,Siskiyou County,Yreka,1,3,48,74,152
+2016,Siskiyou County,Lake Shastina,0,0,4,1,5
+2016,Siskiyou County,Union Pacific RR - Siskiyou,0,0,0,0,3
+2016,Siskiyou County,CA Highway Patrol - Siskiyou,0,0,0,0,12
+2016,Solano County,Solano Co. Sheriff's Department,1,17,72,115,139
+2016,Solano County,Benicia,0,8,7,141,299
+2016,Solano County,Dixon,1,21,38,62,267
+2016,Solano County,Fairfield,7,147,266,420,1888
+2016,Solano County,Rio Vista,0,2,29,24,58
+2016,Solano County,Suisun,0,23,41,79,495
+2016,Solano County,Vacaville,0,76,120,189,1690
+2016,Solano County,Vallejo,15,353,574,2366,1321
+2016,Solano County,Union Pacific RR - Solano,0,0,0,1,1
+2016,Solano County,CA Highway Patrol - Solano,0,0,0,0,0
+2016,Sonoma County,Sonoma Co. Sheriff's Department,3,48,441,494,937
+2016,Sonoma County,Cloverdale,0,4,9,18,90
+2016,Sonoma County,Cotati,0,6,28,26,48
+2016,Sonoma County,Healdsburg,1,3,9,35,139
+2016,Sonoma County,Rohnert Park,0,20,153,117,538
+2016,Sonoma County,Santa Rosa,5,121,438,516,2087
+2016,Sonoma County,Sebastopol,0,1,14,36,83
+2016,Sonoma County,Sonoma,0,4,27,36,150
+2016,Sonoma County,Petaluma,1,22,148,194,842
+2016,Sonoma County,CSU Sonoma,0,0,1,5,74
+2016,Sonoma County,Union Pacific RR - Sonoma,0,0,0,0,0
+2016,Sonoma County,Silverado DPR,0,0,0,0,4
+2016,Sonoma County,Sonoma Mendocino Coast DPR,0,0,0,0,16
+2016,Sonoma County,Sonoma Developmental Center,0,0,4,0,4
+2016,Sonoma County,Sonoma Co. Junior College,0,0,5,2,49
+2016,Sonoma County,Windsor,0,7,63,49,246
+2016,Sonoma County,CA Highway Patrol - Sonoma,0,0,0,1,73
+2016,Stanislaus County,Stanislaus Co. Sheriff's Department,11,134,283,726,1034
+2016,Stanislaus County,Ceres,1,66,108,278,616
+2016,Stanislaus County,Modesto,13,481,1507,1421,6350
+2016,Stanislaus County,Newman,0,4,27,34,74
+2016,Stanislaus County,Oakdale,0,11,33,127,482
+2016,Stanislaus County,Patterson,1,18,37,85,297
+2016,Stanislaus County,Riverbank,1,26,25,83,437
+2016,Stanislaus County,Turlock,7,93,261,474,1495
+2016,Stanislaus County,Waterford,0,0,10,27,75
+2016,Stanislaus County,Hughson,0,2,6,45,86
+2016,Stanislaus County,CSU Stanislaus,0,0,1,3,65
+2016,Stanislaus County,Union Pacific RR - Stanislaus,0,0,0,0,3
+2016,Stanislaus County,CA Highway Patrol - Stanislaus,0,0,0,0,105
+2016,Sutter County,Sutter Co. Sheriff's Department,1,6,74,235,329
+2016,Sutter County,Yuba City,8,76,164,406,1389
+2016,Sutter County,Union Pacific RR - Sutter,0,0,0,0,1
+2016,Sutter County,CA Highway Patrol - Sutter,0,0,0,0,0
+2016,Tehama County,Tehama Co. Sheriff's Department,3,12,142,235,130
+2016,Tehama County,Corning,0,5,28,79,202
+2016,Tehama County,Red Bluff,0,35,104,260,719
+2016,Tehama County,Union Pacific RR - Tehama,0,0,0,0,1
+2016,Tehama County,CA Highway Patrol - Tehama,0,0,0,0,27
+2016,Trinity County,Trinity Co. Sheriff's Department,3,6,53,101,133
+2016,Trinity County,Union Pacific RR - Trinity,0,0,0,0,0
+2016,Trinity County,CA Highway Patrol - Trinity,0,0,1,0,5
+2016,Tulare County,Tulare Co. Sheriff's Department,19,62,241,756,1318
+2016,Tulare County,Dinuba,0,21,152,117,453
+2016,Tulare County,Exeter,0,3,27,83,150
+2016,Tulare County,Farmersville,0,3,27,31,103
+2016,Tulare County,Lindsay,0,7,64,80,151
+2016,Tulare County,Porterville,0,52,147,280,771
+2016,Tulare County,Tulare,6,57,148,292,1110
+2016,Tulare County,Visalia,8,120,284,998,2561
+2016,Tulare County,Woodlake,0,3,20,23,67
+2016,Tulare County,Union Pacific RR - Tulare,0,0,0,0,2
+2016,Tulare County,College of the Sequoias,0,1,1,14,57
+2016,Tulare County,CA Highway Patrol - Tulare,0,0,0,0,38
+2016,Tuolumne County,Tuolumne Co. Sheriff's Department,1,9,104,350,377
+2016,Tuolumne County,Sonora,0,6,13,86,263
+2016,Tuolumne County,CA Highway Patrol - Tuolumne,0,0,0,0,81
+2016,Ventura County,Ventura Co. Sheriff's Department,2,19,121,224,467
+2016,Ventura County,Camarillo,4,31,67,202,824
+2016,Ventura County,Fillmore,0,5,33,20,69
+2016,Ventura County,Ojai,0,1,6,14,44
+2016,Ventura County,Oxnard,12,429,438,978,4309
+2016,Ventura County,Port Hueneme,1,30,28,79,264
+2016,Ventura County,Santa Paula,2,26,43,76,218
+2016,Ventura County,Thousand Oaks,0,33,101,272,1302
+2016,Ventura County,Ventura,8,109,198,628,2838
+2016,Ventura County,Simi Valley,2,39,105,334,1127
+2016,Ventura County,Angeles DPR,0,0,2,0,10
+2016,Ventura County,Moorpark,0,4,21,59,213
+2016,Ventura County,Channel Coast DPR,0,0,1,2,33
+2016,Ventura County,Hungry Valley DPR,0,0,0,0,0
+2016,Ventura County,Union Pacific RR - Ventura,0,0,0,0,2
+2016,Ventura County,CSU Channel Islands,0,-1,0,6,64
+2016,Ventura County,Ventura Community College,0,0,3,16,61
+2016,Ventura County,CA Highway Patrol - Ventura,0,0,0,0,10
+2016,Yolo County,Yolo Co. Sheriff's Department,0,7,41,69,158
+2016,Yolo County,Davis,0,31,51,263,1290
+2016,Yolo County,Winters,0,3,9,18,66
+2016,Yolo County,Woodland,3,54,147,221,1037
+2016,Yolo County,West Sacramento,0,95,121,191,856
+2016,Yolo County,Union Pacific RR - Yolo,0,0,0,0,1
+2016,Yolo County,UC Davis,0,1,4,29,517
+2016,Yolo County,CA Highway Patrol - Yolo,0,0,0,0,6
+2016,Yuba County,Yuba Co. Sheriff's Department,3,32,164,335,744
+2016,Yuba County,Marysville,1,23,64,108,295
+2016,Yuba County,Wheatland,0,0,12,13,28
+2016,Yuba County,Union Pacific RR - Yuba,0,0,0,0,3
+2016,Yuba County,CA Highway Patrol - Yuba,0,0,0,0,11
+2017,Alameda County,Alameda Co. Sheriff's Department,8,227,412,377,1156
+2017,Alameda County,Alameda,0,133,104,219,1725
+2017,Alameda County,Albany,0,28,7,77,383
+2017,Alameda County,Berkeley,1,364,218,843,4556
+2017,Alameda County,Emeryville,1,105,40,66,1833
+2017,Alameda County,Fremont,2,187,174,673,3545
+2017,Alameda County,Hayward,5,306,182,482,2740
+2017,Alameda County,Livermore,0,48,88,191,1510
+2017,Alameda County,Newark,1,48,24,201,1041
+2017,Alameda County,Oakland,69,2676,2376,2622,17305
+2017,Alameda County,Piedmont,0,3,4,60,98
+2017,Alameda County,Pleasanton,0,53,33,137,1406
+2017,Alameda County,San Leandro,2,292,209,460,2369
+2017,Alameda County,Union City,1,83,156,216,1114
+2017,Alameda County,Alameda E. Bay Reg. Park Dist.,0,16,20,53,277
+2017,Alameda County,CSU East Bay,0,2,1,49,73
+2017,Alameda County,Union Pacific RR - Alameda,0,0,0,8,7
+2017,Alameda County,Alameda BART,0,192,68,16,1464
+2017,Alameda County,Dublin,0,23,53,117,970
+2017,Alameda County,UC Berkeley,0,29,26,46,704
+2017,Alameda County,CA Highway Patrol - Alameda,0,2,11,2,64
+2017,Alpine County,Alpine Co. Sheriff's Department,0,0,13,8,21
+2017,Alpine County,CA Highway Patrol - Alpine,0,0,0,0,1
+2017,Amador County,Amador Co. Sheriff's Department,0,5,75,98,248
+2017,Amador County,Ione,0,0,3,4,50
+2017,Amador County,Jackson,0,2,17,37,76
+2017,Amador County,Sutter Creek,0,0,4,8,47
+2017,Amador County,Union Pacific RR - Amador,0,0,0,0,0
+2017,Amador County,CA Highway Patrol - Amador,0,0,0,0,15
+2017,Butte County,Butte Co. Sheriff's Department,5,27,80,616,589
+2017,Butte County,Biggs,0,0,15,7,12
+2017,Butte County,Chico,2,63,263,531,2615
+2017,Butte County,Gridley,0,3,95,38,133
+2017,Butte County,Oroville,0,40,68,259,970
+2017,Butte County,Paradise,0,9,63,127,131
+2017,Butte County,Union Pacific RR - Butte,0,0,0,7,4
+2017,Butte County,Northern Buttes DPR,0,0,1,0,14
+2017,Butte County,CSU Chico,0,1,4,13,184
+2017,Butte County,CA Highway Patrol - Butte,0,0,0,1,88
+2017,Calaveras County,Calaveras Co. Sheriff's Department,2,17,152,214,359
+2017,Calaveras County,Angels Camp,0,0,6,13,36
+2017,Calaveras County,Union Pacific RR - Calaveras,0,0,0,0,0
+2017,Calaveras County,Calaveras DPR,0,0,1,0,0
+2017,Calaveras County,CA Highway Patrol - Calaveras,0,0,0,1,68
+2017,Colusa County,Colusa Co. Sheriff's Department,1,1,49,57,91
+2017,Colusa County,Colusa,0,3,1,26,52
+2017,Colusa County,Williams,0,5,3,34,32
+2017,Colusa County,Union Pacific RR - Colusa,0,0,0,0,0
+2017,Colusa County,CA Highway Patrol - Colusa,0,0,2,4,4
+2017,Contra Costa County,Contra Costa Co. Sheriff's Department,3,110,177,500,993
+2017,Contra Costa County,Antioch,10,230,316,589,2261
+2017,Contra Costa County,Brentwood,0,45,101,273,1084
+2017,Contra Costa County,Clayton,0,5,3,14,91
+2017,Contra Costa County,Concord,5,163,231,448,3212
+2017,Contra Costa County,El Cerrito,1,93,72,164,1100
+2017,Contra Costa County,Hercules,0,12,12,66,269
+2017,Contra Costa County,Pinole,0,31,30,93,789
+2017,Contra Costa County,Pittsburg,7,121,179,299,876
+2017,Contra Costa County,Pleasant Hill,0,34,39,158,1451
+2017,Contra Costa County,Richmond,10,392,563,698,2199
+2017,Contra Costa County,San Pablo,2,103,66,129,547
+2017,Contra Costa County,Walnut Creek,1,39,63,243,1871
+2017,Contra Costa County,Kensington,0,1,1,13,29
+2017,Contra Costa County,Martinez,0,20,27,78,318
+2017,Contra Costa County,Lafayette,0,4,1,41,257
+2017,Contra Costa County,Moraga,0,3,2,29,89
+2017,Contra Costa County,Contra Costa BART,0,36,30,3,681
+2017,Contra Costa County,Contra Costa Community College,0,4,7,20,145
+2017,Contra Costa County,Danville,0,6,9,55,272
+2017,Contra Costa County,San Ramon,0,30,18,126,768
+2017,Contra Costa County,Orinda,0,6,3,53,94
+2017,Contra Costa County,Union Pacific RR - Contra Costa,0,0,0,0,1
+2017,Contra Costa County,Oakley,1,12,35,79,302
+2017,Contra Costa County,CA Highway Patrol - Contra Costa,2,0,9,0,29
+2017,Del Norte County,Del Norte Co. Sheriff's Department,4,12,68,189,148
+2017,Del Norte County,Crescent City,0,11,27,30,192
+2017,Del Norte County,CA Highway Patrol - Del Norte,0,0,0,2,35
+2017,El Dorado County,El Dorado Co. Sheriff's Department,5,19,145,525,1446
+2017,El Dorado County,Placerville,0,9,14,57,176
+2017,El Dorado County,South Lake Tahoe,0,8,38,129,280
+2017,El Dorado County,Union Pacific RR - El Dorado,0,0,0,0,0
+2017,El Dorado County,CA Highway Patrol - El Dorado,0,0,1,0,83
+2017,Fresno County,Fresno Co. Sheriff's Department,15,86,1074,1469,1249
+2017,Fresno County,Clovis,0,61,138,453,2234
+2017,Fresno County,Coalinga,0,10,105,50,147
+2017,Fresno County,Firebaugh,0,2,22,14,64
+2017,Fresno County,Fowler,0,0,18,48,35
+2017,Fresno County,Fresno,56,958,1786,3649,13782
+2017,Fresno County,Huron,3,6,51,16,24
+2017,Fresno County,Kerman,0,8,32,92,221
+2017,Fresno County,Kingsburg,0,4,29,108,109
+2017,Fresno County,Mendota,0,7,62,38,59
+2017,Fresno County,Orange Cove,5,6,47,20,52
+2017,Fresno County,Parlier,1,16,81,90,83
+2017,Fresno County,Reedley,0,14,81,147,148
+2017,Fresno County,Sanger,2,15,81,173,240
+2017,Fresno County,Selma,3,17,260,300,411
+2017,Fresno County,State Center Community College,0,1,2,33,119
+2017,Fresno County,Union Pacific RR - Fresno,0,0,0,3,2
+2017,Fresno County,San Joaquin DPR,0,0,1,0,1
+2017,Fresno County,CSU Fresno,0,2,9,48,195
+2017,Fresno County,CA Highway Patrol - Fresno,0,0,2,5,35
+2017,Fresno County,Coalinga State Hospital,0,1,229,1,2
+2017,Glenn County,Glenn Co. Sheriff's Department,0,6,70,100,123
+2017,Glenn County,Orland,1,2,19,38,71
+2017,Glenn County,Willows,0,0,10,13,59
+2017,Glenn County,Union Pacific RR - Glenn,0,0,0,0,0
+2017,Glenn County,CA Highway Patrol - Glenn,0,0,0,0,9
+2017,Humboldt County,Humboldt Co. Sheriff's Department,4,51,193,362,546
+2017,Humboldt County,Arcata,1,20,36,107,487
+2017,Humboldt County,Eureka,2,85,126,285,888
+2017,Humboldt County,Ferndale,0,0,1,1,12
+2017,Humboldt County,Fortuna,0,15,29,101,374
+2017,Humboldt County,Rio Dell,0,0,5,8,24
+2017,Humboldt County,CSU Humboldt (Arcata),0,0,1,7,65
+2017,Humboldt County,Union Pacific RR - Humboldt,0,0,0,0,0
+2017,Humboldt County,Northern Coast Redwoods DPR,0,0,1,2,21
+2017,Humboldt County,CA Highway Patrol - Humboldt,1,1,0,1,78
+2017,Imperial County,Imperial Co. Sheriff's Department,1,6,119,218,358
+2017,Imperial County,Brawley,0,12,153,146,680
+2017,Imperial County,Calexico,0,21,65,486,581
+2017,Imperial County,El Centro,4,45,121,409,1285
+2017,Imperial County,Holtville,1,1,18,10,49
+2017,Imperial County,Imperial,1,2,8,14,36
+2017,Imperial County,Westmorland,0,0,5,9,10
+2017,Imperial County,Union Pacific RR - Imperial,0,0,0,1,8
+2017,Imperial County,CA Highway Patrol - Imperial,0,0,0,0,10
+2017,Inyo County,Inyo Co. Sheriff's Department,0,6,72,63,102
+2017,Inyo County,Bishop,0,5,29,68,217
+2017,Inyo County,Union Pacific RR - Inyo,0,0,0,0,0
+2017,Inyo County,CA Highway Patrol - Inyo,0,0,0,0,8
+2017,Kern County,Kern Co. Sheriff's Department,32,429,1588,2815,4316
+2017,Kern County,Arvin,6,23,192,72,242
+2017,Kern County,Bakersfield,41,753,941,3667,9063
+2017,Kern County,Delano,6,32,200,219,647
+2017,Kern County,McFarland,2,5,44,54,82
+2017,Kern County,Ridgecrest,0,13,123,136,309
+2017,Kern County,Shafter,0,11,25,117,242
+2017,Kern County,Taft,0,7,71,77,287
+2017,Kern County,Tehachapi,1,8,36,57,130
+2017,Kern County,California City,1,16,68,180,122
+2017,Kern County,Stallion Springs,0,0,4,0,10
+2017,Kern County,Bear Valley,0,0,2,11,47
+2017,Kern County,Union Pacific RR - Kern,0,0,0,13,17
+2017,Kern County,CSU Bakersfield,0,0,1,10,65
+2017,Kern County,CA Highway Patrol - Kern,0,0,1,1,26
+2017,Kings County,Kings Co. Sheriff's Department,2,13,128,165,283
+2017,Kings County,Corcoran,1,10,58,101,222
+2017,Kings County,Hanford,2,54,200,197,916
+2017,Kings County,Lemoore,3,21,97,93,267
+2017,Kings County,Union Pacific RR - Kings,0,0,0,0,0
+2017,Kings County,Porterville Developmental Center,0,1,18,1,5
+2017,Kings County,Avenal,1,5,52,62,65
+2017,Kings County,CA Highway Patrol - Kings,0,0,0,1,28
+2017,Lake County,Lake Co. Sheriff's Department,6,9,180,284,266
+2017,Lake County,Lakeport,0,6,19,58,160
+2017,Lake County,Clearlake,1,37,89,214,273
+2017,Lake County,CA Highway Patrol - Lake,0,1,2,1,42
+2017,Lassen County,Lassen Co. Sheriff's Department,1,2,51,106,124
+2017,Lassen County,Susanville,0,11,189,102,197
+2017,Lassen County,Union Pacific RR - Lassen,0,0,0,0,1
+2017,Lassen County,CA Highway Patrol - Lassen,0,0,1,1,4
+2017,Los Angeles County,Los Angeles Co. Sheriff's Department,71,1566,4154,3789,9155
+2017,Los Angeles County,Alhambra,4,89,62,363,1244
+2017,Los Angeles County,Arcadia,0,56,47,485,957
+2017,Los Angeles County,Artesia,2,31,68,153,236
+2017,Los Angeles County,Avalon,0,0,16,13,35
+2017,Los Angeles County,Azusa,1,44,86,251,729
+2017,Los Angeles County,Baldwin Park,3,89,230,290,788
+2017,Los Angeles County,Bell,0,78,133,153,348
+2017,Los Angeles County,Bellflower,5,158,184,418,1065
+2017,Los Angeles County,Bell Gardens,2,47,46,87,342
+2017,Los Angeles County,El Camino College,0,0,4,7,61
+2017,Los Angeles County,La Habra Heights,0,1,2,29,60
+2017,Los Angeles County,Union Pacific RR - Los Angeles,0,0,2,293,63
+2017,Los Angeles County,Metropolitan Trans. Authority (MTA),0,0,1,0,9
+2017,Los Angeles County,Pasadena Community College,0,1,0,3,86
+2017,Los Angeles County,Westlake Village,0,4,9,48,155
+2017,Los Angeles County,Beverly Hills,0,50,58,402,1318
+2017,Los Angeles County,Bradbury,0,1,0,3,4
+2017,Los Angeles County,Burbank,0,86,147,355,2344
+2017,Los Angeles County,Claremont,0,30,35,279,593
+2017,Los Angeles County,Commerce,1,40,59,131,698
+2017,Los Angeles County,Compton,21,441,669,411,1402
+2017,Los Angeles County,Covina,2,51,97,283,712
+2017,Los Angeles County,Cudahy,0,29,42,41,93
+2017,Los Angeles County,Culver City,0,131,51,208,1570
+2017,Los Angeles County,Cerritos,2,71,50,561,1511
+2017,Los Angeles County,Agoura Hills,0,4,10,71,187
+2017,Los Angeles County,West Hollywood,1,122,102,234,1367
+2017,Los Angeles County,Santa Clarita,4,122,186,674,1997
+2017,Los Angeles County,Diamond Bar,0,25,27,381,592
+2017,Los Angeles County,Downey,3,182,174,591,1866
+2017,Los Angeles County,Duarte,2,18,42,72,225
+2017,Los Angeles County,El Monte,5,183,220,687,1431
+2017,Los Angeles County,El Segundo,1,21,14,183,423
+2017,Los Angeles County,Gardena,4,218,155,353,678
+2017,Los Angeles County,Glendale,3,127,112,498,2303
+2017,Los Angeles County,Glendora,0,33,81,248,1180
+2017,Los Angeles County,Hawaiian Gardens,0,30,55,78,161
+2017,Los Angeles County,Hawthorne,5,275,282,408,1350
+2017,Los Angeles County,Hermosa Beach,0,7,17,116,426
+2017,Los Angeles County,Calabasas,0,9,7,63,248
+2017,Los Angeles County,Malibu,0,6,24,78,255
+2017,Los Angeles County,Los Angeles Transit Serv. Bureau,2,235,170,10,469
+2017,Los Angeles County,Hidden Hills,0,0,1,4,7
+2017,Los Angeles County,Huntington Park,4,197,184,210,903
+2017,Los Angeles County,Industry,1,36,31,151,629
+2017,Los Angeles County,Inglewood,13,389,337,492,1466
+2017,Los Angeles County,Irwindale,1,7,4,56,121
+2017,Los Angeles County,Lakewood,3,151,151,438,1725
+2017,Los Angeles County,La Mirada,2,34,61,143,625
+2017,Los Angeles County,La Puente,0,43,91,92,190
+2017,Los Angeles County,La Verne,0,27,54,137,563
+2017,Los Angeles County,Lawndale,2,66,107,75,214
+2017,Los Angeles County,Lomita,1,13,39,90,241
+2017,Los Angeles County,Long Beach,22,1237,1639,2765,7104
+2017,Los Angeles County,Los Angeles,281,10814,16957,16668,65757
+2017,Los Angeles County,Lynwood,8,220,214,293,688
+2017,Los Angeles County,Manhattan Beach,0,36,24,179,625
+2017,Los Angeles County,Maywood,2,39,66,68,157
+2017,Los Angeles County,Monrovia,2,26,26,120,645
+2017,Los Angeles County,Montebello,2,82,110,665,519
+2017,Los Angeles County,Monterey Park,1,55,46,439,955
+2017,Los Angeles County,Norwalk,5,133,282,418,1123
+2017,Los Angeles County,Palmdale,4,218,422,613,1611
+2017,Los Angeles County,Palos Verdes Estates,0,2,0,43,77
+2017,Los Angeles County,Paramount,6,125,185,283,892
+2017,Los Angeles County,Pasadena,8,202,313,745,1842
+2017,Los Angeles County,Pico Rivera,1,75,141,250,853
+2017,Los Angeles County,Pomona,18,344,403,718,2516
+2017,Los Angeles County,Redondo Beach,0,62,96,358,1042
+2017,Los Angeles County,Rolling Hills,0,0,0,1,5
+2017,Los Angeles County,Rolling Hills Estates,0,1,9,42,103
+2017,Los Angeles County,Rosemead,1,59,101,330,719
+2017,Los Angeles County,San Dimas,0,24,38,158,500
+2017,Los Angeles County,San Fernando,3,34,74,85,184
+2017,Los Angeles County,San Gabriel,1,40,70,199,407
+2017,Los Angeles County,San Marino,0,6,8,127,126
+2017,Los Angeles County,Santa Fe Springs,0,48,54,183,688
+2017,Los Angeles County,Santa Monica,3,241,407,648,3462
+2017,Los Angeles County,Sierra Madre,0,1,6,43,61
+2017,Los Angeles County,Signal Hill,1,34,23,93,521
+2017,Los Angeles County,South El Monte,2,35,80,169,314
+2017,Los Angeles County,South Gate,6,223,404,507,1691
+2017,Los Angeles County,South Pasadena,1,9,6,130,315
+2017,Los Angeles County,Temple City,2,20,29,258,257
+2017,Los Angeles County,Torrance,0,116,115,557,2213
+2017,Los Angeles County,Vernon,0,20,15,60,229
+2017,Los Angeles County,Walnut,0,8,23,232,221
+2017,Los Angeles County,West Covina,0,144,100,502,1821
+2017,Los Angeles County,Whittier,5,137,143,420,1774
+2017,Los Angeles County,Carson,8,166,281,479,1261
+2017,Los Angeles County,Cal Poly - Pomona,0,2,0,23,159
+2017,Los Angeles County,Rancho Palos Verdes,0,7,21,152,259
+2017,Los Angeles County,CSU Dominguez Hills,0,3,3,5,34
+2017,Los Angeles County,CSU Long Beach,0,2,2,7,141
+2017,Los Angeles County,CSU Los Angeles,0,1,1,6,102
+2017,Los Angeles County,CSU Northridge,0,0,5,13,258
+2017,Los Angeles County,La Canada-Flintridge,0,6,9,105,162
+2017,Los Angeles County,Lancaster,15,337,787,935,1733
+2017,Los Angeles County,UC Los Angeles,0,18,70,169,635
+2017,Los Angeles County,CA Highway Patrol - Los Angeles,1,3,42,20,153
+2017,Los Angeles County,Metropolitan State Hospital,0,0,1113,0,2
+2017,Madera County,Madera Co. Sheriff's Department,3,27,398,452,606
+2017,Madera County,Chowchilla,0,11,50,150,208
+2017,Madera County,Madera,4,107,235,336,967
+2017,Madera County,Union Pacific RR - Madera,0,0,0,0,0
+2017,Madera County,CA Highway Patrol - Madera,0,0,0,3,49
+2017,Marin County,Marin Co. Sheriff's Department,1,10,68,153,615
+2017,Marin County,Belvedere,0,0,0,0,11
+2017,Marin County,Fairfax,0,1,3,10,78
+2017,Marin County,Mill Valley,0,3,6,36,163
+2017,Marin County,Novato,1,26,60,145,689
+2017,Marin County,Ross,0,1,1,8,29
+2017,Marin County,San Rafael,0,89,84,271,1091
+2017,Marin County,Sausalito,0,3,11,37,187
+2017,Marin County,Tiburon,0,1,2,16,70
+2017,Marin County,Union Pacific RR - Marin,0,0,0,0,0
+2017,Marin County,Marin Community College,1,0,1,1,22
+2017,Marin County,Marin DPR,0,0,2,7,4
+2017,Marin County,Central Marin,1,15,22,252,599
+2017,Marin County,CA Highway Patrol - Marin,0,0,4,5,32
+2017,Mariposa County,Mariposa Co. Sheriff's Department,0,3,95,83,184
+2017,Mariposa County,CA Highway Patrol - Mariposa,0,0,1,0,9
+2017,Mendocino County,Mendocino Co. Sheriff's Department,3,21,204,185,189
+2017,Mendocino County,Fort Bragg,1,2,37,59,262
+2017,Mendocino County,Ukiah,0,20,87,59,234
+2017,Mendocino County,Willits,0,5,48,11,25
+2017,Mendocino County,Union Pacific RR - Mendocino,0,0,0,0,0
+2017,Mendocino County,CA Highway Patrol - Mendocino,0,1,0,1,39
+2017,Merced County,Merced Co. Sheriff's Department,7,38,460,554,908
+2017,Merced County,Atwater,0,23,158,185,649
+2017,Merced County,Dos Palos,2,1,52,50,103
+2017,Merced County,Gustine,0,1,31,26,43
+2017,Merced County,Livingston,0,12,40,95,154
+2017,Merced County,Los Banos,2,41,89,217,695
+2017,Merced County,Merced,8,158,369,472,1706
+2017,Merced County,Union Pacific RR - Merced,0,0,0,0,0
+2017,Merced County,Four Rivers DPR,0,0,1,0,0
+2017,Merced County,UC Merced,0,0,0,8,42
+2017,Merced County,CA Highway Patrol - Merced,0,0,0,0,83
+2017,Modoc County,Modoc Co. Sheriff's Department,0,0,19,9,34
+2017,Modoc County,Alturas,2,3,32,31,88
+2017,Modoc County,Union Pacific RR - Modoc,0,0,0,0,0
+2017,Modoc County,CA Highway Patrol - Modoc,0,0,0,0,2
+2017,Mono County,Mono Co. Sheriff's Department,0,0,15,15,38
+2017,Mono County,Mammoth Lakes,0,5,17,21,115
+2017,Mono County,CA Highway Patrol - Mono,0,0,0,0,1
+2017,Monterey County,Monterey Co. Sheriff's Department,7,48,157,338,927
+2017,Monterey County,Carmel,0,1,4,33,77
+2017,Monterey County,Del Rey Oaks,0,1,0,16,36
+2017,Monterey County,Gonzales,0,4,4,17,36
+2017,Monterey County,Greenfield,2,18,75,49,86
+2017,Monterey County,King City,3,2,43,71,72
+2017,Monterey County,Monterey,0,58,50,162,964
+2017,Monterey County,Pacific Grove,0,0,8,55,249
+2017,Monterey County,Salinas,28,358,564,964,2589
+2017,Monterey County,Sand City,0,5,5,10,119
+2017,Monterey County,Seaside,1,31,52,81,360
+2017,Monterey County,Soledad,2,7,38,47,76
+2017,Monterey County,Marina,0,14,33,72,288
+2017,Monterey County,Monterey Airport,0,0,0,5,0
+2017,Monterey County,Union Pacific RR - Monterey,0,0,0,0,0
+2017,Monterey County,Monterey DPR,0,0,0,11,45
+2017,Monterey County,CSU Monterey Bay,0,0,8,6,32
+2017,Monterey County,CA Highway Patrol - Monterey,0,0,3,0,70
+2017,Napa County,Napa Co. Sheriff's Department,0,3,47,71,143
+2017,Napa County,Calistoga,0,0,9,25,46
+2017,Napa County,Napa,1,43,189,338,828
+2017,Napa County,St. Helena,0,1,5,33,52
+2017,Napa County,Union Pacific RR - Napa,0,0,0,0,0
+2017,Napa County,Napa State Hospital,0,0,193,1,1
+2017,Napa County,American Canyon,0,14,30,85,272
+2017,Napa County,Yountville,0,0,1,7,33
+2017,Napa County,CA Highway Patrol - Napa,0,0,1,0,9
+2017,Nevada County,Nevada Co. Sheriff's Department,3,12,146,294,304
+2017,Nevada County,Grass Valley,2,9,65,125,515
+2017,Nevada County,Nevada City,0,2,6,22,67
+2017,Nevada County,Union Pacific RR - Nevada,0,0,0,1,1
+2017,Nevada County,Truckee,0,0,15,40,98
+2017,Nevada County,CA Highway Patrol - Nevada,0,0,3,0,6
+2017,Orange County,Orange Co. Sheriff's Department,0,34,221,203,751
+2017,Orange County,Anaheim,10,480,648,1351,6393
+2017,Orange County,Brea,2,39,65,180,1160
+2017,Orange County,Buena Park,1,96,186,299,2115
+2017,Orange County,Costa Mesa,1,128,171,620,3158
+2017,Orange County,Cypress,0,21,43,142,495
+2017,Orange County,La Palma,0,7,12,140,190
+2017,Orange County,Fountain Valley,0,28,37,238,1199
+2017,Orange County,Fullerton,1,98,131,293,3273
+2017,Orange County,Garden Grove,5,220,355,840,2851
+2017,Orange County,Huntington Beach,2,95,289,617,3283
+2017,Orange County,Laguna Beach,0,14,76,124,369
+2017,Orange County,La Habra,1,46,81,197,869
+2017,Orange County,Los Alamitos,0,10,1,73,105
+2017,Orange County,Newport Beach,0,21,72,361,1630
+2017,Orange County,Orange,4,64,138,489,1754
+2017,Orange County,Placentia,1,25,62,187,563
+2017,Orange County,San Clemente,0,37,45,173,574
+2017,Orange County,San Juan Capistrano,0,16,54,103,313
+2017,Orange County,Santa Ana,21,605,826,929,4108
+2017,Orange County,Seal Beach,0,19,24,92,503
+2017,Orange County,Stanton,1,37,87,130,384
+2017,Orange County,Tustin,3,47,71,288,1484
+2017,Orange County,Villa Park,0,0,2,35,35
+2017,Orange County,Westminster,4,132,122,443,1987
+2017,Orange County,Yorba Linda,0,5,31,185,482
+2017,Orange County,Irvine,2,55,66,627,2814
+2017,Orange County,CSU Fullerton,0,1,1,13,167
+2017,Orange County,Union Pacific RR - Orange,0,0,0,1,1
+2017,Orange County,Orange Coast DPR,0,0,0,49,64
+2017,Orange County,Fairview Developmental Center,0,0,3,1,0
+2017,Orange County,Mission Viejo,1,26,61,158,733
+2017,Orange County,Dana Point,0,22,36,85,399
+2017,Orange County,Laguna Niguel,1,11,35,95,428
+2017,Orange County,Laguna Hills,1,18,20,117,301
+2017,Orange County,Lake Forest,0,24,90,166,504
+2017,Orange County,Laguna Woods,0,0,3,22,90
+2017,Orange County,Rancho Santa Margarita,0,6,22,45,265
+2017,Orange County,Aliso Viejo,0,8,32,62,299
+2017,Orange County,Irvine Valley College,0,0,0,1,20
+2017,Orange County,UC Irvine,0,0,9,21,473
+2017,Orange County,CA Highway Patrol - Orange,0,0,12,1,21
+2017,Placer County,Placer Co. Sheriff's Department,3,33,224,380,1026
+2017,Placer County,Auburn,2,5,42,58,175
+2017,Placer County,Lincoln,2,6,17,108,435
+2017,Placer County,Rocklin,0,29,23,211,813
+2017,Placer County,Roseville,0,87,123,389,2623
+2017,Placer County,Sierra DPR,0,0,0,0,8
+2017,Placer County,Union Pacific RR - Placer,0,0,0,0,6
+2017,Placer County,CA Highway Patrol - Placer,0,0,0,0,79
+2017,Plumas County,Plumas Co. Sheriff's Department,0,7,116,140,152
+2017,Plumas County,Union Pacific RR - Plumas,0,0,0,0,1
+2017,Plumas County,CA Highway Patrol - Plumas,0,0,0,0,5
+2017,Riverside County,Riverside Co. Sheriff's Department,16,161,550,1711,4579
+2017,Riverside County,Banning,3,17,117,254,255
+2017,Riverside County,Beaumont,1,19,144,195,561
+2017,Riverside County,Blythe,0,16,33,264,492
+2017,Riverside County,Coachella,0,41,84,182,775
+2017,Riverside County,Desert Hot Springs,7,56,211,341,189
+2017,Riverside County,Hemet,4,133,295,703,1868
+2017,Riverside County,Indio,3,119,478,449,1483
+2017,Riverside County,Norco,1,17,46,124,472
+2017,Riverside County,Palm Springs,5,94,151,436,1277
+2017,Riverside County,Perris,2,66,120,270,1104
+2017,Riverside County,Riverside,12,544,947,1673,6629
+2017,Riverside County,San Jacinto,3,55,54,343,1005
+2017,Riverside County,Corona,1,107,79,561,2177
+2017,Riverside County,Indian Wells,0,0,1,51,103
+2017,Riverside County,Rancho Mirage,0,13,15,121,411
+2017,Riverside County,Palm Desert,0,30,58,424,1536
+2017,Riverside County,Union Pacific RR - Riverside,0,0,1,4,7
+2017,Riverside County,Inland Empire DPR,0,0,1,0,2
+2017,Riverside County,Cathedral City,2,49,72,176,340
+2017,Riverside County,Lake Elsinore,1,57,107,299,1507
+2017,Riverside County,La Quinta,0,32,27,168,963
+2017,Riverside County,Moreno Valley,9,352,411,1148,4050
+2017,Riverside County,Temecula,1,38,73,353,2011
+2017,Riverside County,Calimesa,1,6,5,42,175
+2017,Riverside County,Canyon Lake,0,0,16,22,65
+2017,Riverside County,Murrieta,1,33,32,254,1143
+2017,Riverside County,Riverside Community College,0,1,0,7,56
+2017,Riverside County,Wildomar,0,15,39,128,430
+2017,Riverside County,Menifee,3,43,69,326,1373
+2017,Riverside County,Eastvale,0,24,30,211,938
+2017,Riverside County,UC Riverside,0,6,1,27,262
+2017,Riverside County,CA Highway Patrol - Riverside,0,0,17,8,35
+2017,Riverside County,Jurupa Valley,5,82,166,368,1591
+2017,Riverside County,Mount San Jacinto Community College,0,0,1,4,24
+2017,Sacramento County,Sacramento Co. Sheriff's Department,32,772,1654,2492,6545
+2017,Sacramento County,Folsom,0,21,22,257,847
+2017,Sacramento County,Galt,0,15,72,74,451
+2017,Sacramento County,Isleton,1,0,4,3,3
+2017,Sacramento County,Sacramento,39,1100,2140,2888,9077
+2017,Sacramento County,CSU Sacramento,0,1,0,26,171
+2017,Sacramento County,Elk Grove,3,99,419,366,1668
+2017,Sacramento County,Gold Fields DPR,0,0,0,0,48
+2017,Sacramento County,Twin Rivers Unified School,0,7,11,58,38
+2017,Sacramento County,CA State Fair,0,2,5,10,49
+2017,Sacramento County,Capital DPR,0,1,0,1,2
+2017,Sacramento County,Twin Cities DPR,0,0,0,0,0
+2017,Sacramento County,Union Pacific RR - Sacramento,0,0,0,2,5
+2017,Sacramento County,Rancho Cordova,1,85,202,285,899
+2017,Sacramento County,Citrus Heights,2,102,195,462,1964
+2017,Sacramento County,UC Med Center Sacramento,0,0,4,6,159
+2017,Sacramento County,CA Highway Patrol - Sacramento,0,1,13,12,1517
+2017,San Benito County,San Benito Co. Sheriff's Department,1,6,34,50,80
+2017,San Benito County,Hollister,1,33,80,71,252
+2017,San Benito County,Union Pacific RR - San Benito,0,0,0,0,0
+2017,San Benito County,Hollister Hills DPR,0,0,0,0,0
+2017,San Benito County,CA Highway Patrol - San Benito,0,0,0,0,2
+2017,San Bernardino County,San Bernardino Co. Sheriff's Department,27,160,599,1358,2556
+2017,San Bernardino County,Barstow,2,97,186,318,484
+2017,San Bernardino County,Chino,3,87,127,443,1405
+2017,San Bernardino County,Colton,4,115,120,264,828
+2017,San Bernardino County,Fontana,9,206,437,563,2292
+2017,San Bernardino County,Montclair,1,85,119,284,870
+2017,San Bernardino County,Needles,0,4,29,57,104
+2017,San Bernardino County,Ontario,8,220,319,720,2842
+2017,San Bernardino County,Redlands,1,69,110,426,1910
+2017,San Bernardino County,Rialto,2,150,219,475,596
+2017,San Bernardino County,San Bernardino,34,877,1736,2136,3990
+2017,San Bernardino County,Upland,7,101,99,586,1194
+2017,San Bernardino County,Victorville,14,267,527,830,1839
+2017,San Bernardino County,Adelanto,2,48,160,190,290
+2017,San Bernardino County,CSU San Bernardino,0,3,2,15,81
+2017,San Bernardino County,Rancho Cucamonga,1,118,164,814,2998
+2017,San Bernardino County,Big Bear,1,4,39,49,112
+2017,San Bernardino County,Grand Terrace,0,9,15,83,169
+2017,San Bernardino County,Loma Linda,0,12,21,112,401
+2017,San Bernardino County,San Bernardino Unified School,0,43,7,97,121
+2017,San Bernardino County,Highland,4,74,95,250,609
+2017,San Bernardino County,Twentynine Palms,2,6,30,142,139
+2017,San Bernardino County,Hesperia,2,97,243,452,1230
+2017,San Bernardino County,Apple Valley,4,63,145,299,986
+2017,San Bernardino County,Yucaipa,0,23,39,202,590
+2017,San Bernardino County,San Bernardino College,0,4,7,12,54
+2017,San Bernardino County,Chino Hills,0,19,39,323,936
+2017,San Bernardino County,Yucca Valley,0,18,38,148,244
+2017,San Bernardino County,Fontana Unified School,0,2,19,23,32
+2017,San Bernardino County,Union Pacific RR - San Bernardino,0,0,0,10,4
+2017,San Bernardino County,Patton State Hospital,0,1,541,3,4
+2017,San Bernardino County,Tehachapi DPR,0,0,0,12,0
+2017,San Bernardino County,CA Highway Patrol - San Bernardino,0,0,30,15,78
+2017,San Diego County,San Diego Co. Sheriff's Department,18,232,1117,1075,2645
+2017,San Diego County,Carlsbad,0,46,171,432,1638
+2017,San Diego County,Chula Vista,2,304,440,640,2482
+2017,San Diego County,Coronado,0,5,20,27,311
+2017,San Diego County,Del Mar,0,0,11,38,95
+2017,San Diego County,El Cajon,1,163,217,414,1502
+2017,San Diego County,Escondido,3,174,348,427,1780
+2017,San Diego County,Imperial Beach,1,34,93,69,211
+2017,San Diego County,La Mesa,3,50,96,177,823
+2017,San Diego County,National City,3,109,161,132,667
+2017,San Diego County,Oceanside,9,165,451,592,3000
+2017,San Diego County,San Diego,35,1410,3217,3817,17294
+2017,San Diego County,San Marcos,0,54,116,202,784
+2017,San Diego County,Vista,4,104,224,310,889
+2017,San Diego County,CSU San Diego,0,11,2,73,460
+2017,San Diego County,San Diego Harbor,0,11,47,41,416
+2017,San Diego County,Colorado DPR,0,0,0,0,0
+2017,San Diego County,Ocotillo Wells DPR,0,0,0,0,0
+2017,San Diego County,San Diego Coast DPR,0,0,5,7,51
+2017,San Diego County,CSU San Marcos,0,0,1,0,19
+2017,San Diego County,UC San Diego,0,2,4,25,566
+2017,San Diego County,CA Highway Patrol - San Diego,0,1,31,8,44
+2017,San Diego County,Lemon Grove,1,55,111,93,422
+2017,San Diego County,Santee,0,43,101,109,665
+2017,San Diego County,Poway,0,13,37,136,389
+2017,San Diego County,Encinitas,0,23,70,208,651
+2017,San Diego County,Solana Beach,0,4,6,68,142
+2017,San Francisco County,San Francisco,56,3220,2658,4935,44587
+2017,San Francisco County,CSU San Francisco,0,5,2,27,153
+2017,San Francisco County,San Francisco BART,0,50,19,6,247
+2017,San Francisco County,Union Pacific RR - San Francisco,0,0,0,0,0
+2017,San Francisco County,UC San Francisco,0,4,16,25,389
+2017,San Francisco County,CA Highway Patrol - San Francisco,0,2,5,0,9
+2017,San Joaquin County,San Joaquin Co. Sheriff's Department,5,141,575,751,2068
+2017,San Joaquin County,Escalon,0,1,30,45,109
+2017,San Joaquin County,Lodi,1,127,182,347,985
+2017,San Joaquin County,Manteca,4,89,145,302,1616
+2017,San Joaquin County,Ripon,0,4,2,28,241
+2017,San Joaquin County,Stockton,55,1208,2962,2140,7040
+2017,San Joaquin County,Tracy,3,77,86,201,1616
+2017,San Joaquin County,Stockton Unified School,0,24,23,83,121
+2017,San Joaquin County,Union Pacific RR - San Joaquin,0,0,0,28,22
+2017,San Joaquin County,CA Highway Patrol - San Joaquin,0,0,0,0,147
+2017,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,1,16,99,400,691
+2017,San Luis Obispo County,Arroyo Grande,0,5,24,53,226
+2017,San Luis Obispo County,Grover Beach,1,7,24,43,161
+2017,San Luis Obispo County,Morro Bay,0,4,16,35,152
+2017,San Luis Obispo County,Paso Robles,0,6,26,126,731
+2017,San Luis Obispo County,Pismo Beach,0,4,35,88,283
+2017,San Luis Obispo County,San Luis Obispo,0,23,111,172,1516
+2017,San Luis Obispo County,Cal Poly San Luis Obispo,0,1,4,23,116
+2017,San Luis Obispo County,Atascadero,0,18,81,96,395
+2017,San Luis Obispo County,San Luis Obispo Coast DPR,0,0,0,1,22
+2017,San Luis Obispo County,Oceano Dunes DPR,0,1,7,0,29
+2017,San Luis Obispo County,Atascadero State Hospital,0,0,217,0,1
+2017,San Luis Obispo County,Union Pacific RR - San Luis Obispo,0,0,0,0,2
+2017,San Luis Obispo County,Cuesta College,0,0,0,0,8
+2017,San Luis Obispo County,CA Highway Patrol - San Luis Obispo,0,0,2,1,12
+2017,San Mateo County,San Mateo Co. Sheriff's Department,2,70,174,337,2411
+2017,San Mateo County,Atherton,0,0,1,12,61
+2017,San Mateo County,Belmont,1,7,27,49,296
+2017,San Mateo County,Brisbane,0,5,7,67,49
+2017,San Mateo County,Burlingame,1,17,37,119,670
+2017,San Mateo County,Colma,0,11,10,62,290
+2017,San Mateo County,Daly City,0,90,123,202,1156
+2017,San Mateo County,Hillsborough,0,0,4,28,38
+2017,San Mateo County,Menlo Park,0,15,23,95,527
+2017,San Mateo County,Pacifica,1,20,48,100,383
+2017,San Mateo County,Redwood City,0,61,91,177,1053
+2017,San Mateo County,San Bruno,1,51,56,126,904
+2017,San Mateo County,San Mateo,0,64,185,706,1231
+2017,San Mateo County,South San Francisco,1,72,130,214,1184
+2017,San Mateo County,Broadmoor,0,5,14,28,37
+2017,San Mateo County,Foster City,0,4,29,53,272
+2017,San Mateo County,San Mateo BART,0,15,13,9,196
+2017,San Mateo County,Union Pacific RR - San Mateo,0,0,0,0,0
+2017,San Mateo County,Bay Area DPR,0,0,0,1,2
+2017,San Mateo County,East Palo Alto,0,60,51,96,293
+2017,San Mateo County,CA Highway Patrol - San Mateo,0,0,6,0,2
+2017,Santa Barbara County,Santa Barbara Co. Sheriff's Department,2,24,203,421,1054
+2017,Santa Barbara County,Guadalupe,0,0,3,12,29
+2017,Santa Barbara County,Lompoc,2,37,170,225,598
+2017,Santa Barbara County,Santa Barbara,0,80,230,327,1968
+2017,Santa Barbara County,Santa Maria,3,155,260,446,1231
+2017,Santa Barbara County,Carpinteria,0,10,19,58,195
+2017,Santa Barbara County,Union Pacific RR - Santa Barbara,0,0,0,1,2
+2017,Santa Barbara County,Solvang,0,1,5,21,62
+2017,Santa Barbara County,Allen Hancock College,0,0,0,1,5
+2017,Santa Barbara County,Buelton,0,2,4,14,55
+2017,Santa Barbara County,Goleta,1,18,29,101,318
+2017,Santa Barbara County,UC Santa Barbara,0,0,12,35,263
+2017,Santa Barbara County,CA Highway Patrol - Santa Barbara,0,0,5,1,45
+2017,Santa Clara County,Santa Clara Co. Sheriff's Department,2,33,305,229,834
+2017,Santa Clara County,Campbell,1,27,55,247,917
+2017,Santa Clara County,Cupertino,2,21,45,164,756
+2017,Santa Clara County,Gilroy,1,81,94,213,1144
+2017,Santa Clara County,Los Altos,0,2,5,87,215
+2017,Santa Clara County,Los Altos Hills,0,0,1,22,36
+2017,Santa Clara County,Los Gatos,0,4,7,70,319
+2017,Santa Clara County,Milpitas,2,58,42,235,1447
+2017,Santa Clara County,Monte Sereno,0,0,0,3,8
+2017,Santa Clara County,Morgan Hill,0,18,53,92,507
+2017,Santa Clara County,Mountain View,1,44,91,290,1590
+2017,Santa Clara County,Palo Alto,0,39,40,214,1478
+2017,Santa Clara County,San Jose,32,1376,2209,3926,13329
+2017,Santa Clara County,Santa Clara,2,82,95,408,2810
+2017,Santa Clara County,Saratoga,2,6,22,94,81
+2017,Santa Clara County,Sunnyvale,1,56,96,512,1872
+2017,Santa Clara County,CSU San Jose,0,7,15,28,269
+2017,Santa Clara County,San Jose Community College,0,0,0,8,22
+2017,Santa Clara County,West Valley College District,0,0,3,8,10
+2017,Santa Clara County,Foothill College,0,0,1,1,18
+2017,Santa Clara County,Union Pacific RR - Santa Clara,0,0,0,0,1
+2017,Santa Clara County,Santa Clara Transit District,0,38,71,0,86
+2017,Santa Clara County,CA Highway Patrol - Santa Clara,0,0,8,0,24
+2017,Santa Cruz County,Santa Cruz Co. Sheriff's Department,0,42,205,427,1349
+2017,Santa Cruz County,Capitola,1,14,14,50,540
+2017,Santa Cruz County,Santa Cruz,1,103,248,412,2911
+2017,Santa Cruz County,Watsonville,1,69,187,251,995
+2017,Santa Cruz County,Scotts Valley,0,4,4,40,167
+2017,Santa Cruz County,Union Pacific RR - Santa Cruz,0,0,0,0,0
+2017,Santa Cruz County,Santa Cruz Mtns. DPR,0,0,0,31,101
+2017,Santa Cruz County,UC Santa Cruz,0,0,7,24,189
+2017,Santa Cruz County,CA Highway Patrol - Santa Cruz,0,0,0,0,193
+2017,Shasta County,Shasta Co. Sheriff's Department,4,24,451,431,468
+2017,Shasta County,Anderson,0,3,34,124,267
+2017,Shasta County,Redding,2,150,438,690,2360
+2017,Shasta County,Union Pacific RR - Shasta,0,0,0,1,7
+2017,Shasta County,Shasta Marshal's Office,0,0,1,0,0
+2017,Shasta County,CA Highway Patrol - Shasta,0,0,0,3,73
+2017,Sierra County,Sierra Co. Sheriff's Department,0,1,4,12,11
+2017,Sierra County,Union Pacific RR - Sierra,0,0,0,0,0
+2017,Sierra County,CA Highway Patrol - Sierra,0,0,0,0,1
+2017,Siskiyou County,Siskiyou Co. Sheriff's Department,3,3,44,146,85
+2017,Siskiyou County,Dorris,0,0,1,15,13
+2017,Siskiyou County,Dunsmuir,0,1,6,14,19
+2017,Siskiyou County,Etna,0,0,2,1,1
+2017,Siskiyou County,Fort Jones,0,0,2,3,4
+2017,Siskiyou County,Montague,1,0,6,10,6
+2017,Siskiyou County,Mount Shasta,1,1,13,8,48
+2017,Siskiyou County,Tulelake,0,0,2,1,0
+2017,Siskiyou County,Weed,0,0,23,23,62
+2017,Siskiyou County,Yreka,1,2,43,57,113
+2017,Siskiyou County,Lake Shastina,0,0,1,7,11
+2017,Siskiyou County,Union Pacific RR - Siskiyou,0,0,1,0,3
+2017,Siskiyou County,CA Highway Patrol - Siskiyou,0,1,3,5,16
+2017,Solano County,Solano Co. Sheriff's Department,1,15,80,164,139
+2017,Solano County,Benicia,0,12,10,129,273
+2017,Solano County,Dixon,0,5,32,38,281
+2017,Solano County,Fairfield,10,181,315,545,2174
+2017,Solano County,Rio Vista,0,4,36,40,45
+2017,Solano County,Suisun,3,38,52,110,490
+2017,Solano County,Vacaville,1,56,121,186,1742
+2017,Solano County,Vallejo,15,390,550,2445,1181
+2017,Solano County,Union Pacific RR - Solano,0,0,0,1,0
+2017,Solano County,CA Highway Patrol - Solano,0,0,6,2,12
+2017,Sonoma County,Sonoma Co. Sheriff's Department,6,60,489,388,753
+2017,Sonoma County,Cloverdale,0,2,16,23,109
+2017,Sonoma County,Cotati,0,7,36,18,62
+2017,Sonoma County,Healdsburg,0,4,13,38,156
+2017,Sonoma County,Rohnert Park,0,21,168,110,610
+2017,Sonoma County,Santa Rosa,5,126,482,525,2309
+2017,Sonoma County,Sebastopol,0,3,12,39,81
+2017,Sonoma County,Sonoma,0,7,19,36,146
+2017,Sonoma County,Petaluma,1,40,160,170,712
+2017,Sonoma County,CSU Sonoma,0,0,0,8,47
+2017,Sonoma County,Union Pacific RR - Sonoma,0,0,0,0,0
+2017,Sonoma County,Silverado DPR,0,0,0,0,0
+2017,Sonoma County,Sonoma Mendocino Coast DPR,0,0,1,0,42
+2017,Sonoma County,Sonoma Developmental Center,0,0,1,0,1
+2017,Sonoma County,Sonoma Co. Junior College,0,0,0,4,47
+2017,Sonoma County,Windsor,0,6,40,40,219
+2017,Sonoma County,CA Highway Patrol - Sonoma,0,1,1,0,64
+2017,Stanislaus County,Stanislaus Co. Sheriff's Department,16,126,230,570,1013
+2017,Stanislaus County,Ceres,1,75,131,314,879
+2017,Stanislaus County,Modesto,20,519,1425,1188,5865
+2017,Stanislaus County,Newman,0,4,9,46,70
+2017,Stanislaus County,Oakdale,0,6,18,104,400
+2017,Stanislaus County,Patterson,0,9,34,50,327
+2017,Stanislaus County,Riverbank,0,21,18,73,431
+2017,Stanislaus County,Turlock,4,142,277,382,1471
+2017,Stanislaus County,Waterford,0,2,13,26,55
+2017,Stanislaus County,Hughson,0,1,1,15,74
+2017,Stanislaus County,CSU Stanislaus,0,0,1,0,39
+2017,Stanislaus County,Union Pacific RR - Stanislaus,0,0,0,0,2
+2017,Stanislaus County,CA Highway Patrol - Stanislaus,0,0,1,6,155
+2017,Sutter County,Sutter Co. Sheriff's Department,1,5,72,230,303
+2017,Sutter County,Yuba City,0,82,150,380,1448
+2017,Sutter County,Union Pacific RR - Sutter,0,0,0,0,0
+2017,Sutter County,CA Highway Patrol - Sutter,0,0,0,0,2
+2017,Tehama County,Tehama Co. Sheriff's Department,8,10,49,212,206
+2017,Tehama County,Corning,0,5,19,79,172
+2017,Tehama County,Red Bluff,0,31,100,156,698
+2017,Tehama County,Union Pacific RR - Tehama,0,0,0,0,0
+2017,Tehama County,CA Highway Patrol - Tehama,0,0,0,0,44
+2017,Trinity County,Trinity Co. Sheriff's Department,1,8,61,84,94
+2017,Trinity County,Union Pacific RR - Trinity,0,0,0,0,0
+2017,Trinity County,CA Highway Patrol - Trinity,0,0,2,0,12
+2017,Tulare County,Tulare Co. Sheriff's Department,13,68,246,634,1246
+2017,Tulare County,Dinuba,1,18,168,93,385
+2017,Tulare County,Exeter,1,6,13,55,152
+2017,Tulare County,Farmersville,0,6,26,32,105
+2017,Tulare County,Lindsay,2,13,30,58,149
+2017,Tulare County,Porterville,4,58,175,338,925
+2017,Tulare County,Tulare,2,66,164,284,1008
+2017,Tulare County,Visalia,9,144,223,839,2953
+2017,Tulare County,Woodlake,1,2,23,20,86
+2017,Tulare County,Union Pacific RR - Tulare,0,0,0,0,4
+2017,Tulare County,College of the Sequoias,0,1,0,5,62
+2017,Tulare County,CA Highway Patrol - Tulare,0,0,0,1,77
+2017,Tuolumne County,Tuolumne Co. Sheriff's Department,2,13,119,322,294
+2017,Tuolumne County,Sonora,0,7,17,56,239
+2017,Tuolumne County,CA Highway Patrol - Tuolumne,0,0,0,1,90
+2017,Ventura County,Ventura Co. Sheriff's Department,2,26,118,194,531
+2017,Ventura County,Camarillo,1,42,56,182,826
+2017,Ventura County,Fillmore,0,5,19,24,83
+2017,Ventura County,Ojai,0,0,2,11,33
+2017,Ventura County,Oxnard,15,430,398,787,3848
+2017,Ventura County,Port Hueneme,2,14,19,65,287
+2017,Ventura County,Santa Paula,2,18,76,84,308
+2017,Ventura County,Thousand Oaks,2,35,91,269,1305
+2017,Ventura County,Ventura,2,111,284,585,2717
+2017,Ventura County,Simi Valley,0,39,113,331,1355
+2017,Ventura County,Angeles DPR,0,0,2,2,31
+2017,Ventura County,Moorpark,0,9,31,55,257
+2017,Ventura County,Channel Coast DPR,0,1,2,7,67
+2017,Ventura County,Hungry Valley DPR,0,0,0,0,0
+2017,Ventura County,Union Pacific RR - Ventura,0,0,0,0,3
+2017,Ventura County,CSU Channel Islands,0,0,1,0,42
+2017,Ventura County,Ventura Community College,0,0,0,15,46
+2017,Ventura County,CA Highway Patrol - Ventura,0,0,1,1,25
+2017,Yolo County,Yolo Co. Sheriff's Department,2,10,40,99,166
+2017,Yolo County,Davis,0,35,42,269,1221
+2017,Yolo County,Winters,0,1,13,26,93
+2017,Yolo County,Woodland,0,38,128,326,1306
+2017,Yolo County,West Sacramento,7,79,94,201,756
+2017,Yolo County,Union Pacific RR - Yolo,0,0,0,0,0
+2017,Yolo County,UC Davis,0,2,11,25,535
+2017,Yolo County,CA Highway Patrol - Yolo,0,1,0,2,12
+2017,Yuba County,Yuba Co. Sheriff's Department,2,37,168,433,718
+2017,Yuba County,Marysville,1,20,68,107,265
+2017,Yuba County,Wheatland,0,2,4,10,22
+2017,Yuba County,Union Pacific RR - Yuba,0,0,0,0,3
+2017,Yuba County,CA Highway Patrol - Yuba,0,0,0,0,24
+2018,Alameda County,Alameda Co. Sheriff's Department,7,223,405,385,1192
+2018,Alameda County,Alameda,1,75,95,196,1576
+2018,Alameda County,Albany,1,28,6,69,492
+2018,Alameda County,Berkeley,1,353,167,829,4004
+2018,Alameda County,Emeryville,0,120,41,98,1761
+2018,Alameda County,Fremont,3,216,228,720,3284
+2018,Alameda County,Hayward,3,364,217,545,2849
+2018,Alameda County,Livermore,0,58,95,212,1329
+2018,Alameda County,Newark,1,39,37,180,969
+2018,Alameda County,Oakland,70,2624,2338,2394,15725
+2018,Alameda County,Piedmont,0,10,10,47,124
+2018,Alameda County,Pleasanton,0,57,47,156,1177
+2018,Alameda County,San Leandro,1,299,151,439,2333
+2018,Alameda County,Union City,1,89,156,246,1170
+2018,Alameda County,Alameda E. Bay Reg. Park Dist.,1,12,27,103,283
+2018,Alameda County,CSU East Bay,0,1,0,16,64
+2018,Alameda County,Union Pacific RR - Alameda,0,0,0,6,6
+2018,Alameda County,Alameda BART,2,211,87,11,1272
+2018,Alameda County,Dublin,0,47,55,96,1005
+2018,Alameda County,UC Berkeley,0,10,16,40,702
+2018,Alameda County,CA Highway Patrol - Alameda,0,1,7,1,57
+2018,Alpine County,Alpine Co. Sheriff's Department,0,1,9,11,16
+2018,Alpine County,CA Highway Patrol - Alpine,0,0,0,0,1
+2018,Amador County,Amador Co. Sheriff's Department,3,5,67,78,258
+2018,Amador County,Ione,0,0,5,13,38
+2018,Amador County,Jackson,0,3,24,27,93
+2018,Amador County,Sutter Creek,0,0,1,5,29
+2018,Amador County,Union Pacific RR - Amador,0,0,0,0,0
+2018,Amador County,CA Highway Patrol - Amador,0,0,0,0,8
+2018,Butte County,Butte Co. Sheriff's Department,3,31,261,588,757
+2018,Butte County,Biggs,0,2,8,9,20
+2018,Butte County,Chico,2,106,417,327,1761
+2018,Butte County,Gridley,0,1,74,49,191
+2018,Butte County,Oroville,4,32,66,152,623
+2018,Butte County,Paradise,0,5,45,109,125
+2018,Butte County,Union Pacific RR - Butte,0,0,0,2,3
+2018,Ventura County,Angeles DPR,0,0,1,1,25
+2018,Butte County,CSU Chico,1,1,3,5,130
+2018,Butte County,CA Highway Patrol - Butte,0,0,0,1,140
+2018,Calaveras County,Calaveras Co. Sheriff's Department,2,14,144,217,376
+2018,Calaveras County,Angels Camp,0,0,10,22,50
+2018,Calaveras County,Union Pacific RR - Calaveras,0,0,0,0,0
+2018,San Mateo County,Bay Area DPR,0,0,0,0,2
+2018,Calaveras County,CA Highway Patrol - Calaveras,0,0,0,0,63
+2018,Colusa County,Colusa Co. Sheriff's Department,2,5,10,68,114
+2018,Colusa County,Colusa,1,1,8,24,42
+2018,Colusa County,Williams,0,3,18,28,43
+2018,Colusa County,Union Pacific RR - Colusa,0,0,0,0,0
+2018,Colusa County,CA Highway Patrol - Colusa,0,0,0,1,6
+2018,Contra Costa County,Contra Costa Co. Sheriff's Department,4,111,160,376,1062
+2018,Contra Costa County,Antioch,7,213,326,641,2087
+2018,Contra Costa County,Brentwood,1,39,105,211,1021
+2018,Contra Costa County,Clayton,0,1,0,11,128
+2018,Contra Costa County,Concord,3,200,221,446,3124
+2018,Contra Costa County,El Cerrito,0,101,67,167,1045
+2018,Contra Costa County,Hercules,0,16,14,82,240
+2018,Contra Costa County,Pinole,0,29,41,83,605
+2018,Contra Costa County,Pittsburg,3,130,236,251,1010
+2018,Contra Costa County,Pleasant Hill,1,32,21,134,1373
+2018,Contra Costa County,Richmond,17,375,622,383,2285
+2018,Contra Costa County,San Pablo,0,99,67,114,531
+2018,Contra Costa County,Walnut Creek,2,35,69,303,1812
+2018,Contra Costa County,Kensington,0,0,2,13,30
+2018,Contra Costa County,Martinez,0,32,31,73,346
+2018,Contra Costa County,Lafayette,0,5,5,23,191
+2018,Contra Costa County,Moraga,0,2,8,12,75
+2018,Contra Costa County,Contra Costa BART,1,29,20,1,669
+2018,Contra Costa County,Contra Costa Community College,0,1,8,12,108
+2018,Contra Costa County,Danville,0,10,6,53,251
+2018,Contra Costa County,San Ramon,0,21,18,103,631
+2018,Contra Costa County,Orinda,0,7,1,30,69
+2018,Contra Costa County,Union Pacific RR - Contra Costa,0,0,0,2,0
+2018,Contra Costa County,Oakley,1,9,31,90,323
+2018,Contra Costa County,CA Highway Patrol - Contra Costa,0,0,1,0,40
+2018,Del Norte County,Del Norte Co. Sheriff's Department,1,12,69,130,163
+2018,Del Norte County,Crescent City,0,8,25,18,199
+2018,Del Norte County,CA Highway Patrol - Del Norte,0,0,0,0,39
+2018,El Dorado County,El Dorado Co. Sheriff's Department,2,27,155,526,1432
+2018,El Dorado County,Placerville,0,9,28,47,189
+2018,El Dorado County,South Lake Tahoe,3,22,148,114,279
+2018,El Dorado County,Union Pacific RR - El Dorado,0,0,0,0,0
+2018,El Dorado County,CA Highway Patrol - El Dorado,0,0,0,0,75
+2018,Fresno County,Fresno Co. Sheriff's Department,7,101,1387,1546,1245
+2018,Fresno County,Clovis,1,36,138,358,1932
+2018,Fresno County,Coalinga,2,8,60,73,144
+2018,Fresno County,Firebaugh,0,5,36,23,66
+2018,Fresno County,Fowler,0,6,15,52,46
+2018,Fresno County,Fresno,32,909,1842,2949,12473
+2018,Fresno County,Huron,0,3,89,18,10
+2018,Fresno County,Kerman,1,21,32,84,218
+2018,Fresno County,Kingsburg,0,7,28,129,124
+2018,Fresno County,Mendota,0,6,75,50,78
+2018,Fresno County,Orange Cove,1,5,17,30,42
+2018,Fresno County,Parlier,3,18,81,108,124
+2018,Fresno County,Reedley,3,10,79,91,128
+2018,Fresno County,Sanger,1,13,59,110,188
+2018,Fresno County,Selma,3,16,198,239,344
+2018,Fresno County,State Center Community College,0,1,0,20,110
+2018,Fresno County,Union Pacific RR - Fresno,0,0,0,0,3
+2018,Calaveras County,Calaveras DPR,0,0,0,0,0
+2018,Fresno County,CSU Fresno,0,3,5,18,118
+2018,Fresno County,CA Highway Patrol - Fresno,0,0,1,0,41
+2018,Fresno County,Coalinga State Hospital,0,0,174,3,1
+2018,Glenn County,Glenn Co. Sheriff's Department,1,7,38,132,276
+2018,Glenn County,Orland,0,6,16,22,82
+2018,Glenn County,Union Pacific RR - Glenn,0,0,0,0,0
+2018,Glenn County,CA Highway Patrol - Glenn,0,0,0,0,13
+2018,Humboldt County,Humboldt Co. Sheriff's Department,7,52,164,338,538
+2018,Humboldt County,Arcata,1,14,34,89,512
+2018,Humboldt County,Eureka,3,64,104,231,1055
+2018,Humboldt County,Ferndale,0,0,5,8,12
+2018,Humboldt County,Fortuna,0,9,34,61,257
+2018,Humboldt County,Rio Dell,0,2,3,14,41
+2018,Humboldt County,CSU Humboldt (Arcata),0,1,4,13,80
+2018,Humboldt County,Union Pacific RR - Humboldt,0,0,0,0,0
+2018,Sacramento County,Capital DPR,0,0,1,1,3
+2018,Humboldt County,CA Highway Patrol - Humboldt,0,0,3,1,82
+2018,Imperial County,Imperial Co. Sheriff's Department,3,15,210,174,456
+2018,Imperial County,Brawley,1,18,131,112,494
+2018,Imperial County,Calexico,0,19,62,320,576
+2018,Imperial County,El Centro,1,29,84,439,1076
+2018,Imperial County,Holtville,0,1,11,19,53
+2018,Imperial County,Imperial,0,1,6,18,38
+2018,Imperial County,Westmorland,1,0,11,6,21
+2018,Imperial County,Union Pacific RR - Imperial,0,0,0,2,1
+2018,Imperial County,CA Highway Patrol - Imperial,0,0,1,0,11
+2018,Inyo County,Inyo Co. Sheriff's Department,0,4,70,58,80
+2018,Inyo County,Bishop,0,4,31,26,201
+2018,Inyo County,Union Pacific RR - Inyo,0,0,0,0,0
+2018,Inyo County,CA Highway Patrol - Inyo,0,0,1,0,5
+2018,Kern County,Kern Co. Sheriff's Department,50,420,1776,2781,4622
+2018,Kern County,Arvin,3,27,170,89,172
+2018,Kern County,Bakersfield,31,811,940,4025,9295
+2018,Kern County,Delano,10,44,171,319,656
+2018,Kern County,McFarland,2,6,43,69,68
+2018,Kern County,Ridgecrest,1,15,124,123,316
+2018,Kern County,Shafter,0,8,30,138,285
+2018,Kern County,Taft,0,6,65,105,190
+2018,Kern County,Tehachapi,0,12,51,71,155
+2018,Kern County,California City,4,8,33,196,137
+2018,Kern County,Stallion Springs,0,0,0,2,14
+2018,Kern County,Bear Valley,0,0,4,5,113
+2018,Kern County,Kern High School District,0,8,31,54,84
+2018,Kern County,Union Pacific RR - Kern,0,0,1,10,23
+2018,Kern County,CSU Bakersfield,0,0,1,6,53
+2018,Kern County,CA Highway Patrol - Kern,0,0,1,0,38
+2018,Kings County,Kings Co. Sheriff's Department,2,12,100,158,281
+2018,Kings County,Corcoran,0,11,56,88,214
+2018,Kings County,Hanford,2,41,199,145,945
+2018,Kings County,Lemoore,0,20,150,69,264
+2018,Kings County,Union Pacific RR - Kings,0,0,0,0,0
+2018,Kings County,Porterville Developmental Center,0,1,67,2,3
+2018,Kings County,Avenal,1,1,40,43,57
+2018,Kings County,CA Highway Patrol - Kings,0,0,0,0,13
+2018,Lake County,Lake Co. Sheriff's Department,4,20,164,278,206
+2018,Lake County,Lakeport,0,5,21,48,114
+2018,Lake County,Clearlake,4,21,68,188,220
+2018,Lake County,CA Highway Patrol - Lake,0,0,1,1,32
+2018,Lassen County,Lassen Co. Sheriff's Department,0,3,48,109,113
+2018,Lassen County,Susanville,0,11,178,84,177
+2018,Lassen County,Union Pacific RR - Lassen,0,0,0,0,1
+2018,Lassen County,CA Highway Patrol - Lassen,0,0,0,0,7
+2018,Los Angeles County,Los Angeles Co. Sheriff's Department,73,1457,3969,3397,8676
+2018,Los Angeles County,Alhambra,3,88,88,328,1346
+2018,Los Angeles County,Arcadia,1,41,26,372,969
+2018,Los Angeles County,Artesia,1,34,44,107,180
+2018,Los Angeles County,Avalon,0,0,3,9,27
+2018,Los Angeles County,Azusa,3,63,102,221,716
+2018,Los Angeles County,Baldwin Park,3,71,178,240,843
+2018,Los Angeles County,Bell,3,45,126,120,266
+2018,Los Angeles County,Bellflower,4,118,188,331,963
+2018,Los Angeles County,Bell Gardens,2,53,56,85,306
+2018,Los Angeles County,El Camino College,0,3,0,2,44
+2018,Los Angeles County,La Habra Heights,0,2,3,22,43
+2018,Los Angeles County,Union Pacific RR - Los Angeles,0,0,0,376,235
+2018,Los Angeles County,Metropolitan Trans. Authority (MTA),0,1,1,0,6
+2018,Los Angeles County,Pasadena Community College,0,1,0,5,70
+2018,Los Angeles County,Westlake Village,1,6,5,36,156
+2018,Los Angeles County,Beverly Hills,0,42,50,405,1282
+2018,Los Angeles County,Bradbury,0,0,2,9,4
+2018,Los Angeles County,Burbank,0,77,134,276,2135
+2018,Los Angeles County,Claremont,1,19,31,227,646
+2018,Los Angeles County,Commerce,1,48,70,108,646
+2018,Los Angeles County,Compton,22,424,690,362,1349
+2018,Los Angeles County,Covina,2,67,91,291,653
+2018,Los Angeles County,Cudahy,4,32,49,26,88
+2018,Los Angeles County,Culver City,0,109,73,246,1417
+2018,Los Angeles County,Cerritos,0,91,58,372,1259
+2018,Los Angeles County,Agoura Hills,0,8,14,64,186
+2018,Los Angeles County,West Hollywood,3,127,131,240,1762
+2018,Los Angeles County,Santa Clarita,4,94,151,582,1560
+2018,Los Angeles County,Diamond Bar,2,30,19,360,521
+2018,Los Angeles County,Downey,5,185,163,439,1570
+2018,Los Angeles County,Duarte,0,19,38,49,287
+2018,Los Angeles County,El Monte,6,149,172,482,1256
+2018,Los Angeles County,El Segundo,0,22,29,202,448
+2018,Los Angeles County,Gardena,7,160,143,289,702
+2018,Los Angeles County,Glendale,1,77,100,454,2390
+2018,Los Angeles County,Glendora,0,26,73,222,1179
+2018,Los Angeles County,Hawaiian Gardens,0,24,53,56,143
+2018,Los Angeles County,Hawthorne,0,232,348,294,1064
+2018,Los Angeles County,Hermosa Beach,0,5,22,130,316
+2018,Los Angeles County,Calabasas,0,3,15,81,269
+2018,Los Angeles County,Malibu,1,9,18,74,277
+2018,Los Angeles County,Los Angeles Transit Serv. Bureau,1,97,84,4,186
+2018,Los Angeles County,Hidden Hills,0,0,0,4,9
+2018,Los Angeles County,Huntington Park,2,214,175,256,954
+2018,Los Angeles County,Industry,2,50,32,161,681
+2018,Los Angeles County,Inglewood,15,312,305,450,1636
+2018,Los Angeles County,Irwindale,0,6,6,44,115
+2018,Los Angeles County,Lakewood,2,118,127,275,1347
+2018,Los Angeles County,La Mirada,1,22,60,128,580
+2018,Los Angeles County,La Puente,3,41,102,96,258
+2018,Los Angeles County,La Verne,0,11,58,129,538
+2018,Los Angeles County,Lawndale,3,30,86,61,185
+2018,Los Angeles County,Lomita,1,11,48,64,201
+2018,Los Angeles County,Long Beach,30,979,2056,2328,7315
+2018,Los Angeles County,Los Angeles,258,10327,17013,15988,67963
+2018,Los Angeles County,Lynwood,9,180,215,228,656
+2018,Los Angeles County,Manhattan Beach,1,27,21,113,684
+2018,Los Angeles County,Maywood,2,26,49,72,107
+2018,Los Angeles County,Monrovia,2,31,26,121,723
+2018,Los Angeles County,Montebello,6,109,93,619,548
+2018,Los Angeles County,Monterey Park,0,73,47,356,1017
+2018,Los Angeles County,Norwalk,9,132,285,438,1116
+2018,Los Angeles County,Palmdale,4,161,383,513,1426
+2018,Los Angeles County,Palos Verdes Estates,0,4,1,33,69
+2018,Los Angeles County,Paramount,3,137,170,213,871
+2018,Los Angeles County,Pasadena,7,174,319,663,1959
+2018,Los Angeles County,Pico Rivera,4,77,138,231,614
+2018,Los Angeles County,Pomona,17,361,423,903,2764
+2018,Los Angeles County,Redondo Beach,4,53,100,249,1071
+2018,Los Angeles County,Rolling Hills,0,0,0,1,4
+2018,Los Angeles County,Rolling Hills Estates,1,2,2,33,67
+2018,Los Angeles County,Rosemead,1,87,94,288,702
+2018,Los Angeles County,San Dimas,1,22,46,152,534
+2018,Los Angeles County,San Fernando,0,37,62,51,162
+2018,Los Angeles County,San Gabriel,0,51,76,172,453
+2018,Los Angeles County,San Marino,0,2,8,84,118
+2018,Los Angeles County,Santa Fe Springs,1,39,59,176,651
+2018,Los Angeles County,Santa Monica,7,278,452,662,3835
+2018,Los Angeles County,Sierra Madre,0,0,7,34,59
+2018,Los Angeles County,Signal Hill,0,37,39,107,471
+2018,Los Angeles County,South El Monte,1,33,85,145,313
+2018,Los Angeles County,South Gate,1,192,407,343,1376
+2018,Los Angeles County,South Pasadena,0,19,11,103,360
+2018,Los Angeles County,Temple City,0,22,35,212,216
+2018,Los Angeles County,Torrance,2,107,123,468,1951
+2018,Los Angeles County,Vernon,1,13,12,82,195
+2018,Los Angeles County,Walnut,0,9,9,217,228
+2018,Los Angeles County,West Covina,1,150,116,385,1735
+2018,Los Angeles County,Whittier,1,99,110,367,1527
+2018,Los Angeles County,Carson,5,131,285,345,1181
+2018,Los Angeles County,Cal Poly - Pomona,1,2,2,13,154
+2018,Los Angeles County,Rancho Palos Verdes,0,5,21,120,240
+2018,Los Angeles County,CSU Dominguez Hills,0,1,2,2,32
+2018,Los Angeles County,CSU Long Beach,0,2,2,7,120
+2018,Los Angeles County,CSU Los Angeles,0,1,1,8,92
+2018,Los Angeles County,CSU Northridge,0,1,5,4,212
+2018,Los Angeles County,La Canada-Flintridge,0,4,7,86,231
+2018,Los Angeles County,Lancaster,7,298,794,1001,2074
+2018,Los Angeles County,UC Los Angeles,0,11,33,143,536
+2018,Los Angeles County,CA Highway Patrol - Los Angeles,0,0,51,8,169
+2018,Los Angeles County,Metropolitan State Hospital,0,0,1124,2,4
+2018,Madera County,Madera Co. Sheriff's Department,3,16,402,469,640
+2018,Madera County,Chowchilla,3,4,34,81,144
+2018,Madera County,Madera,6,92,264,241,898
+2018,Madera County,Union Pacific RR - Madera,0,0,0,0,0
+2018,Madera County,CA Highway Patrol - Madera,0,1,1,3,46
+2018,Marin County,Marin Co. Sheriff's Department,2,15,70,128,548
+2018,Marin County,Belvedere,0,0,0,4,6
+2018,Marin County,Fairfax,0,1,4,21,90
+2018,Marin County,Mill Valley,0,4,4,44,137
+2018,Marin County,Novato,1,19,67,118,564
+2018,Marin County,Ross,0,0,0,7,17
+2018,Marin County,San Rafael,2,107,116,277,1050
+2018,Marin County,Sausalito,0,0,9,13,179
+2018,Marin County,Tiburon,0,2,5,15,62
+2018,Marin County,Union Pacific RR - Marin,0,0,0,0,0
+2018,Marin County,Marin Community College,0,0,4,0,20
+2018,Ventura County,Channel Coast DPR,0,0,1,6,92
+2018,Marin County,Central Marin,0,19,11,193,503
+2018,Marin County,CA Highway Patrol - Marin,0,0,2,0,134
+2018,Mariposa County,Mariposa Co. Sheriff's Department,0,1,59,41,147
+2018,Mariposa County,CA Highway Patrol - Mariposa,0,0,0,0,11
+2018,Mendocino County,Mendocino Co. Sheriff's Department,5,28,159,199,178
+2018,Mendocino County,Fort Bragg,0,6,18,34,266
+2018,Mendocino County,Ukiah,1,11,68,76,149
+2018,Mendocino County,Willits,0,5,6,15,32
+2018,Mendocino County,Union Pacific RR - Mendocino,0,0,0,0,0
+2018,Mendocino County,CA Highway Patrol - Mendocino,7,0,2,1,43
+2018,Merced County,Merced Co. Sheriff's Department,5,44,534,439,950
+2018,Merced County,Atwater,2,21,150,163,561
+2018,Merced County,Dos Palos,0,0,68,69,99
+2018,Merced County,Gustine,0,1,35,24,56
+2018,Merced County,Livingston,0,13,27,82,173
+2018,Merced County,Los Banos,1,37,99,244,659
+2018,Merced County,Merced,1,116,318,387,1404
+2018,Merced County,Union Pacific RR - Merced,0,0,0,0,0
+2018,San Diego County,Colorado DPR,0,0,0,0,0
+2018,Merced County,UC Merced,0,0,2,4,51
+2018,Merced County,CA Highway Patrol - Merced,0,0,0,0,97
+2018,Modoc County,Modoc Co. Sheriff's Department,0,1,23,15,24
+2018,Modoc County,Alturas,0,3,21,27,38
+2018,Modoc County,Union Pacific RR - Modoc,0,0,0,0,0
+2018,Modoc County,CA Highway Patrol - Modoc,0,0,0,0,7
+2018,Mono County,Mono Co. Sheriff's Department,0,0,16,8,36
+2018,Mono County,Mammoth Lakes,0,3,14,9,71
+2018,Mono County,CA Highway Patrol - Mono,0,0,0,0,5
+2018,Monterey County,Monterey Co. Sheriff's Department,2,51,168,354,935
+2018,Monterey County,Carmel,0,0,11,20,73
+2018,Monterey County,Del Rey Oaks,0,1,1,16,40
+2018,Monterey County,Gonzales,0,4,6,11,30
+2018,Monterey County,Greenfield,3,14,76,41,108
+2018,Monterey County,King City,1,5,19,53,93
+2018,Monterey County,Monterey,0,35,59,204,859
+2018,Monterey County,Pacific Grove,0,2,12,44,252
+2018,Monterey County,Salinas,19,321,541,897,2180
+2018,Monterey County,Sand City,0,3,5,8,96
+2018,Monterey County,Seaside,0,23,56,41,333
+2018,Monterey County,Soledad,1,10,54,17,53
+2018,Monterey County,Marina,1,14,30,41,240
+2018,Monterey County,Monterey Airport,0,0,0,1,2
+2018,Monterey County,Union Pacific RR - Monterey,0,0,0,0,1
+2018,Merced County,Four Rivers DPR,0,0,0,0,0
+2018,Monterey County,CSU Monterey Bay,0,0,5,4,29
+2018,Monterey County,CA Highway Patrol - Monterey,0,0,0,0,66
+2018,Napa County,Napa Co. Sheriff's Department,1,3,59,62,152
+2018,Napa County,Calistoga,0,2,5,15,39
+2018,Napa County,Napa,0,46,167,258,814
+2018,Napa County,St. Helena,0,1,8,11,31
+2018,Napa County,Union Pacific RR - Napa,0,0,0,0,0
+2018,Napa County,Napa State Hospital,0,2,256,0,6
+2018,Napa County,American Canyon,0,13,35,54,311
+2018,Napa County,Yountville,0,0,1,5,28
+2018,Napa County,CA Highway Patrol - Napa,0,0,0,0,6
+2018,Nevada County,Nevada Co. Sheriff's Department,2,5,127,211,205
+2018,Nevada County,Grass Valley,0,14,55,81,386
+2018,Nevada County,Nevada City,0,2,8,21,72
+2018,Nevada County,Union Pacific RR - Nevada,0,0,0,0,0
+2018,Nevada County,Truckee,0,3,12,42,85
+2018,Nevada County,CA Highway Patrol - Nevada,0,0,0,2,13
+2018,Orange County,Orange Co. Sheriff's Department,1,17,256,197,747
+2018,Orange County,Anaheim,7,407,636,1408,5921
+2018,Orange County,Brea,1,29,46,159,1068
+2018,Orange County,Buena Park,0,74,166,265,1977
+2018,Orange County,Costa Mesa,3,110,156,515,2975
+2018,Orange County,Cypress,0,25,19,146,478
+2018,Orange County,La Palma,0,5,15,84,227
+2018,Orange County,Fountain Valley,0,21,30,194,1185
+2018,Orange County,Fullerton,3,107,156,329,2856
+2018,Orange County,Garden Grove,4,163,286,613,2815
+2018,Orange County,Huntington Beach,1,106,239,525,3158
+2018,Orange County,Laguna Beach,0,9,76,60,340
+2018,Orange County,La Habra,1,45,60,190,800
+2018,Orange County,Los Alamitos,0,3,4,54,78
+2018,Orange County,Newport Beach,1,29,63,397,1513
+2018,Orange County,Orange,3,73,72,478,1700
+2018,Orange County,Placentia,0,20,90,243,548
+2018,Orange County,San Clemente,0,28,77,140,697
+2018,Orange County,San Juan Capistrano,0,12,63,96,215
+2018,Orange County,Santa Ana,21,499,821,910,3931
+2018,Orange County,Seal Beach,0,20,10,70,493
+2018,Orange County,Stanton,0,42,83,94,401
+2018,Orange County,Tustin,0,49,58,243,1506
+2018,Orange County,Villa Park,0,0,0,21,34
+2018,Orange County,Westminster,2,117,141,425,1739
+2018,Orange County,Yorba Linda,0,12,26,185,561
+2018,Orange County,Irvine,0,53,67,621,2840
+2018,Orange County,CSU Fullerton,0,0,2,7,175
+2018,Orange County,Union Pacific RR - Orange,0,0,1,1,1
+2018,Sacramento County,Gold Fields DPR,0,0,0,0,49
+2018,Orange County,Fairview Developmental Center,0,0,0,0,0
+2018,Orange County,Mission Viejo,0,24,84,157,702
+2018,Orange County,Dana Point,0,13,49,73,395
+2018,Orange County,Laguna Niguel,0,21,58,104,480
+2018,Orange County,Laguna Hills,0,15,35,97,277
+2018,Orange County,Lake Forest,1,36,108,139,510
+2018,Orange County,Laguna Woods,0,2,7,11,84
+2018,Orange County,Rancho Santa Margarita,0,6,37,43,261
+2018,Orange County,Aliso Viejo,0,10,22,66,348
+2018,Orange County,Irvine Valley College,0,0,0,0,17
+2018,Orange County,UC Irvine,0,1,7,42,395
+2018,Orange County,CA Highway Patrol - Orange,0,0,7,1,47
+2018,Placer County,Placer Co. Sheriff's Department,1,31,164,353,878
+2018,Placer County,Auburn,0,9,60,51,123
+2018,Placer County,Lincoln,0,12,10,83,291
+2018,Placer County,Rocklin,0,16,23,172,699
+2018,Placer County,Roseville,3,133,135,428,2543
+2018,San Benito County,Hollister Hills DPR,0,0,0,0,0
+2018,Placer County,Union Pacific RR - Placer,0,0,0,1,6
+2018,Placer County,CA Highway Patrol - Placer,0,0,7,1,65
+2018,Plumas County,Plumas Co. Sheriff's Department,0,4,112,139,165
+2018,Plumas County,Union Pacific RR - Plumas,0,0,0,0,1
+2018,Plumas County,CA Highway Patrol - Plumas,0,0,0,0,11
+2018,Riverside County,Riverside Co. Sheriff's Department,16,167,601,1507,4578
+2018,Riverside County,Banning,6,28,84,191,217
+2018,Riverside County,Beaumont,1,24,166,163,570
+2018,Riverside County,Blythe,1,23,41,213,440
+2018,Riverside County,Coachella,1,40,58,123,766
+2018,Riverside County,Desert Hot Springs,3,56,228,292,179
+2018,Riverside County,Hemet,7,144,256,574,1754
+2018,Riverside County,Indio,2,112,334,405,1362
+2018,Riverside County,Norco,0,19,40,123,442
+2018,Riverside County,Palm Springs,3,81,155,522,1281
+2018,Riverside County,Perris,5,78,124,248,1036
+2018,Riverside County,Riverside,14,543,979,1470,6911
+2018,Riverside County,San Jacinto,2,70,59,287,935
+2018,Riverside County,Corona,6,119,92,488,2185
+2018,Riverside County,Indian Wells,0,0,1,28,90
+2018,Riverside County,Rancho Mirage,0,5,19,133,513
+2018,Riverside County,Palm Desert,0,21,64,329,1530
+2018,Riverside County,Union Pacific RR - Riverside,0,0,0,6,12
+2018,Ventura County,Hungry Valley DPR,0,0,1,2,0
+2018,Riverside County,Cathedral City,2,39,109,188,283
+2018,Riverside County,Lake Elsinore,2,55,102,258,1329
+2018,Riverside County,La Quinta,1,20,20,174,896
+2018,Riverside County,Moreno Valley,9,293,443,1101,3854
+2018,Riverside County,Temecula,0,60,75,429,1964
+2018,Riverside County,Calimesa,0,3,9,36,129
+2018,Riverside County,Canyon Lake,0,0,9,22,56
+2018,Riverside County,Murrieta,2,35,39,234,952
+2018,Riverside County,Riverside Community College,0,0,0,1,31
+2018,Riverside County,Wildomar,1,19,28,136,456
+2018,Riverside County,Menifee,3,46,97,331,1282
+2018,Riverside County,Eastvale,1,29,28,147,678
+2018,Riverside County,UC Riverside,0,2,8,16,221
+2018,Riverside County,CA Highway Patrol - Riverside,0,0,11,3,39
+2018,Riverside County,Jurupa Valley,6,84,231,399,1548
+2018,Riverside County,Mount San Jacinto Community College,0,1,0,7,17
+2018,Sacramento County,Sacramento Co. Sheriff's Department,28,617,1511,2119,5586
+2018,Sacramento County,Folsom,1,29,35,245,918
+2018,Sacramento County,Galt,0,21,64,66,347
+2018,Sacramento County,Isleton,0,0,0,14,9
+2018,Sacramento County,Sacramento,36,1052,2139,2751,9783
+2018,Sacramento County,CSU Sacramento,0,3,2,16,130
+2018,Sacramento County,Elk Grove,1,93,280,321,1859
+2018,Riverside County,Inland Empire DPR,0,0,0,1,0
+2018,Sacramento County,Twin Rivers Unified School,0,3,14,53,21
+2018,Sacramento County,CA State Fair,0,2,4,38,28
+2018,Marin County,Marin DPR,0,0,0,2,6
+2018,Monterey County,Monterey DPR,0,0,0,15,26
+2018,Sacramento County,Union Pacific RR - Sacramento,0,0,0,0,3
+2018,Sacramento County,Rancho Cordova,3,74,169,257,934
+2018,Sacramento County,Citrus Heights,1,86,190,410,1739
+2018,Sacramento County,UC Med Center Sacramento,0,0,3,3,122
+2018,Sacramento County,CA Highway Patrol - Sacramento,1,1,7,6,1344
+2018,San Benito County,San Benito Co. Sheriff's Department,0,8,39,62,83
+2018,San Benito County,Hollister,1,16,68,62,334
+2018,San Benito County,Union Pacific RR - San Benito,0,0,0,0,0
+2018,Butte County,Northern Buttes DPR,0,0,0,0,12
+2018,San Benito County,CA Highway Patrol - San Benito,0,0,0,0,5
+2018,San Bernardino County,San Bernardino Co. Sheriff's Department,13,179,723,1357,2329
+2018,San Bernardino County,Barstow,2,96,173,348,584
+2018,San Bernardino County,Chino,1,67,166,407,1508
+2018,San Bernardino County,Colton,11,77,85,324,851
+2018,San Bernardino County,Fontana,8,195,443,542,1773
+2018,San Bernardino County,Montclair,1,72,129,337,990
+2018,San Bernardino County,Needles,0,2,51,74,99
+2018,San Bernardino County,Ontario,6,231,327,723,2858
+2018,San Bernardino County,Redlands,5,82,113,326,1842
+2018,San Bernardino County,Rialto,5,195,298,544,1850
+2018,San Bernardino County,San Bernardino,49,974,1730,2226,4594
+2018,San Bernardino County,Upland,2,109,166,500,1297
+2018,San Bernardino County,Victorville,9,258,479,631,1386
+2018,San Bernardino County,Adelanto,0,40,174,175,336
+2018,San Bernardino County,CSU San Bernardino,0,1,0,8,89
+2018,San Bernardino County,Rancho Cucamonga,1,112,126,625,2831
+2018,San Bernardino County,Big Bear,1,3,28,44,109
+2018,San Bernardino County,Grand Terrace,0,17,14,55,166
+2018,San Bernardino County,Loma Linda,0,10,23,125,385
+2018,San Bernardino County,San Bernardino Unified School,0,39,2,103,122
+2018,San Bernardino County,Chaffey College,0,0,0,1,27
+2018,San Bernardino County,Highland,1,62,138,242,636
+2018,San Bernardino County,Twentynine Palms,1,16,48,111,136
+2018,San Bernardino County,Hesperia,2,126,246,444,1228
+2018,San Bernardino County,Apple Valley,5,55,150,279,917
+2018,San Bernardino County,Yucaipa,0,29,60,160,473
+2018,San Bernardino County,San Bernardino College,0,0,1,3,64
+2018,San Bernardino County,Chino Hills,1,17,51,242,747
+2018,San Bernardino County,Yucca Valley,2,21,54,83,204
+2018,San Bernardino County,Fontana Unified School,0,3,23,23,28
+2018,San Bernardino County,Union Pacific RR - San Bernardino,0,0,0,18,10
+2018,San Bernardino County,Patton State Hospital,0,0,358,2,1
+2018,Humboldt County,Northern Coast Redwoods DPR,0,0,0,2,23
+2018,San Bernardino County,CA Highway Patrol - San Bernardino,0,2,42,6,70
+2018,San Diego County,San Diego Co. Sheriff's Department,13,225,1171,950,2768
+2018,San Diego County,Carlsbad,1,52,151,299,1649
+2018,San Diego County,Chula Vista,6,256,494,585,2338
+2018,San Diego County,Coronado,0,3,13,32,262
+2018,San Diego County,Del Mar,0,2,9,26,78
+2018,San Diego County,El Cajon,5,191,288,353,1544
+2018,San Diego County,Escondido,4,159,308,357,1891
+2018,San Diego County,Imperial Beach,0,18,58,63,201
+2018,San Diego County,La Mesa,1,67,79,157,760
+2018,San Diego County,National City,2,101,181,127,748
+2018,San Diego County,Oceanside,9,158,433,526,2845
+2018,San Diego County,San Diego,35,1439,3281,3752,18482
+2018,San Diego County,San Marcos,0,61,123,167,740
+2018,San Diego County,Vista,5,104,189,266,926
+2018,San Diego County,CSU San Diego,0,5,6,36,415
+2018,San Diego County,San Diego Harbor,0,10,39,43,351
+2018,San Luis Obispo County,Oceano Dunes DPR,0,1,6,0,50
+2018,San Diego County,Ocotillo Wells DPR,0,0,0,0,0
+2018,Orange County,Orange Coast DPR,0,0,0,82,31
+2018,San Diego County,CSU San Marcos,0,1,0,2,27
+2018,San Diego County,UC San Diego,0,2,9,36,426
+2018,San Diego County,CA Highway Patrol - San Diego,0,0,31,2,52
+2018,San Diego County,Lemon Grove,2,52,95,67,309
+2018,San Diego County,Santee,0,31,65,113,701
+2018,San Diego County,Poway,1,10,43,92,380
+2018,San Diego County,Encinitas,0,21,77,145,567
+2018,San Diego County,Solana Beach,1,3,17,62,123
+2018,San Francisco County,San Francisco,46,3165,2579,5322,39675
+2018,San Francisco County,CSU San Francisco,0,3,2,26,170
+2018,San Francisco County,San Francisco BART,0,97,18,6,473
+2018,San Francisco County,Union Pacific RR - San Francisco,0,0,0,0,0
+2018,San Francisco County,UC San Francisco,0,2,15,35,378
+2018,San Francisco County,CA Highway Patrol - San Francisco,1,0,4,0,19
+2018,San Joaquin County,San Joaquin Co. Sheriff's Department,6,179,543,779,1823
+2018,San Joaquin County,Escalon,0,3,16,25,87
+2018,San Joaquin County,Lodi,9,88,168,359,1000
+2018,San Joaquin County,Manteca,0,97,141,386,1522
+2018,San Joaquin County,Ripon,0,5,2,27,184
+2018,San Joaquin County,Stockton,33,1205,2952,2329,7417
+2018,San Joaquin County,Tracy,4,61,103,261,1772
+2018,San Joaquin County,Stockton Unified School,0,18,27,48,125
+2018,San Joaquin County,Union Pacific RR - San Joaquin,0,0,0,17,39
+2018,San Joaquin County,CA Highway Patrol - San Joaquin,0,0,2,0,194
+2018,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,1,7,84,394,670
+2018,San Luis Obispo County,Arroyo Grande,0,3,18,37,225
+2018,San Luis Obispo County,Grover Beach,1,4,18,45,180
+2018,San Luis Obispo County,Morro Bay,0,4,29,16,113
+2018,San Luis Obispo County,Paso Robles,0,7,23,133,610
+2018,San Luis Obispo County,Pismo Beach,0,3,24,129,295
+2018,San Luis Obispo County,San Luis Obispo,1,33,103,242,1493
+2018,San Luis Obispo County,Cal Poly San Luis Obispo,0,0,3,16,143
+2018,San Luis Obispo County,Atascadero,0,9,75,63,330
+2018,Sonoma County,Sonoma Mendocino Coast DPR,0,0,0,0,19
+2018,San Diego County,San Diego Coast DPR,0,0,4,9,59
+2018,San Luis Obispo County,Atascadero State Hospital,0,1,164,0,1
+2018,San Luis Obispo County,Union Pacific RR - San Luis Obispo,0,0,0,0,1
+2018,San Luis Obispo County,Cuesta College,0,0,1,3,8
+2018,San Luis Obispo County,CA Highway Patrol - San Luis Obispo,0,0,1,0,31
+2018,San Mateo County,San Mateo Co. Sheriff's Department,3,78,152,335,2124
+2018,San Mateo County,Atherton,0,2,0,31,73
+2018,San Mateo County,Belmont,0,10,20,58,336
+2018,San Mateo County,Brisbane,0,1,7,39,51
+2018,San Mateo County,Burlingame,0,19,30,177,684
+2018,San Mateo County,Colma,0,18,19,32,309
+2018,San Mateo County,Daly City,3,103,98,221,1130
+2018,San Mateo County,Hillsborough,0,0,7,44,42
+2018,San Mateo County,Menlo Park,1,9,24,110,470
+2018,San Mateo County,Pacifica,0,16,35,70,304
+2018,San Mateo County,Redwood City,0,53,79,172,912
+2018,San Mateo County,San Bruno,0,38,65,116,775
+2018,San Mateo County,San Mateo,0,88,172,590,1360
+2018,San Mateo County,South San Francisco,0,56,103,257,1002
+2018,San Mateo County,Broadmoor,2,5,6,24,36
+2018,San Mateo County,Foster City,0,5,24,59,300
+2018,San Mateo County,San Mateo BART,0,8,5,0,161
+2018,San Mateo County,Union Pacific RR - San Mateo,0,0,0,0,0
+2018,Fresno County,San Joaquin DPR,0,0,1,0,0
+2018,San Mateo County,East Palo Alto,3,55,70,84,300
+2018,San Mateo County,CA Highway Patrol - San Mateo,0,0,4,0,10
+2018,Santa Barbara County,Santa Barbara Co. Sheriff's Department,3,22,179,336,848
+2018,Santa Barbara County,Guadalupe,0,3,7,16,23
+2018,Santa Barbara County,Lompoc,1,32,159,178,629
+2018,Santa Barbara County,Santa Barbara,1,89,248,261,1894
+2018,Santa Barbara County,Santa Maria,6,159,272,377,979
+2018,Santa Barbara County,Carpinteria,0,2,20,36,148
+2018,Santa Barbara County,Union Pacific RR - Santa Barbara,0,0,1,0,3
+2018,Santa Barbara County,Solvang,0,1,4,12,35
+2018,Santa Barbara County,Allen Hancock College,0,0,0,3,24
+2018,Santa Barbara County,Buelton,0,0,3,4,41
+2018,Santa Barbara County,Goleta,0,10,28,75,233
+2018,Santa Barbara County,UC Santa Barbara,0,4,8,19,297
+2018,Santa Barbara County,CA Highway Patrol - Santa Barbara,0,0,2,5,49
+2018,Santa Clara County,Santa Clara Co. Sheriff's Department,1,31,248,213,974
+2018,Santa Clara County,Campbell,0,37,71,235,976
+2018,Santa Clara County,Cupertino,0,14,40,183,720
+2018,Santa Clara County,Gilroy,0,75,97,188,1040
+2018,Santa Clara County,Los Altos,0,3,6,80,188
+2018,Santa Clara County,Los Altos Hills,0,2,5,29,17
+2018,Santa Clara County,Los Gatos,0,6,2,58,360
+2018,Santa Clara County,Milpitas,0,45,31,243,1435
+2018,Santa Clara County,Monte Sereno,0,0,0,8,8
+2018,Santa Clara County,Morgan Hill,1,17,34,125,501
+2018,Santa Clara County,Mountain View,0,59,85,276,1659
+2018,Santa Clara County,Palo Alto,0,30,37,234,1197
+2018,Santa Clara County,San Jose,28,1593,2208,4539,13510
+2018,Santa Clara County,Santa Clara,1,74,100,429,2860
+2018,Santa Clara County,Saratoga,0,6,9,97,127
+2018,Santa Clara County,Sunnyvale,1,71,140,424,1764
+2018,Santa Clara County,CSU San Jose,0,7,6,30,271
+2018,Santa Clara County,San Jose Community College,0,0,1,13,45
+2018,Santa Clara County,West Valley College District,0,1,1,11,17
+2018,Santa Clara County,Foothill College,0,1,0,1,13
+2018,Santa Clara County,Union Pacific RR - Santa Clara,0,0,0,0,4
+2018,Santa Clara County,Santa Clara Transit District,0,39,36,0,86
+2018,Santa Clara County,CA Highway Patrol - Santa Clara,0,0,3,0,19
+2018,Santa Cruz County,Santa Cruz Co. Sheriff's Department,3,45,215,432,1354
+2018,Santa Cruz County,Capitola,0,9,12,28,458
+2018,Santa Cruz County,Santa Cruz,1,66,289,336,2308
+2018,Santa Cruz County,Watsonville,1,50,174,196,785
+2018,Santa Cruz County,Scotts Valley,0,2,9,42,137
+2018,Santa Cruz County,Union Pacific RR - Santa Cruz,0,0,0,0,0
+2018,San Luis Obispo County,San Luis Obispo Coast DPR,0,0,0,1,19
+2018,Santa Cruz County,UC Santa Cruz,0,0,6,28,153
+2018,Santa Cruz County,CA Highway Patrol - Santa Cruz,0,0,0,2,220
+2018,Shasta County,Shasta Co. Sheriff's Department,10,19,404,477,446
+2018,Shasta County,Anderson,1,12,45,89,201
+2018,Shasta County,Redding,2,96,435,613,2281
+2018,Shasta County,Union Pacific RR - Shasta,0,0,1,0,6
+2018,Shasta County,Shasta Marshal's Office,0,0,0,1,0
+2018,Shasta County,CA Highway Patrol - Shasta,0,0,1,2,86
+2018,Sierra County,Sierra Co. Sheriff's Department,0,0,4,9,11
+2018,Sierra County,Union Pacific RR - Sierra,0,0,0,0,0
+2018,Sierra County,CA Highway Patrol - Sierra,0,0,0,0,0
+2018,Siskiyou County,Siskiyou Co. Sheriff's Department,2,0,65,101,56
+2018,Siskiyou County,Dorris,0,0,3,7,3
+2018,Siskiyou County,Dunsmuir,1,0,7,9,12
+2018,Siskiyou County,Etna,0,0,0,0,0
+2018,Siskiyou County,Fort Jones,0,0,7,3,4
+2018,Siskiyou County,Montague,0,1,10,16,8
+2018,Siskiyou County,Mount Shasta,0,1,9,7,28
+2018,Siskiyou County,Tulelake,0,0,0,1,3
+2018,Siskiyou County,Weed,0,4,20,13,62
+2018,Siskiyou County,Yreka,0,2,33,38,164
+2018,Siskiyou County,Lake Shastina,0,0,1,0,5
+2018,Siskiyou County,Union Pacific RR - Siskiyou,0,0,0,1,0
+2018,Siskiyou County,CA Highway Patrol - Siskiyou,0,0,0,1,19
+2018,Solano County,Solano Co. Sheriff's Department,2,14,120,153,140
+2018,Solano County,Benicia,0,17,10,71,229
+2018,Solano County,Dixon,1,14,35,35,278
+2018,Solano County,Fairfield,4,176,329,404,2300
+2018,Solano County,Rio Vista,0,2,17,32,63
+2018,Solano County,Suisun,1,18,61,54,483
+2018,Solano County,Vacaville,2,63,143,163,1804
+2018,Solano County,Vallejo,8,349,482,2456,975
+2018,Solano County,Union Pacific RR - Solano,0,0,0,0,0
+2018,Solano County,CA Highway Patrol - Solano,0,0,3,0,13
+2018,Sonoma County,Sonoma Co. Sheriff's Department,4,42,406,340,734
+2018,Sonoma County,Cloverdale,0,4,9,22,106
+2018,Sonoma County,Cotati,0,4,28,19,71
+2018,Sonoma County,Healdsburg,0,4,15,30,174
+2018,Sonoma County,Rohnert Park,0,22,160,112,549
+2018,Sonoma County,Santa Rosa,3,147,524,547,2179
+2018,Sonoma County,Sebastopol,1,5,7,71,84
+2018,Sonoma County,Sonoma,0,5,35,23,133
+2018,Sonoma County,Petaluma,0,27,139,153,668
+2018,Sonoma County,CSU Sonoma,1,0,0,12,57
+2018,Sonoma County,Union Pacific RR - Sonoma,0,0,0,0,0
+2018,Santa Cruz County,Santa Cruz Mtns. DPR,0,1,3,0,94
+2018,Placer County,Sierra DPR,0,0,0,1,32
+2018,Sonoma County,Sonoma Developmental Center,0,0,1,0,0
+2018,Sonoma County,Sonoma Co. Junior College,0,2,11,4,60
+2018,Sonoma County,Windsor,0,6,61,42,190
+2018,Sonoma County,CA Highway Patrol - Sonoma,0,0,0,0,85
+2018,Stanislaus County,Stanislaus Co. Sheriff's Department,13,133,258,614,1053
+2018,Stanislaus County,Ceres,1,74,140,325,792
+2018,Stanislaus County,Modesto,16,420,1363,1109,5420
+2018,Stanislaus County,Newman,3,7,8,25,71
+2018,Stanislaus County,Oakdale,0,18,21,109,375
+2018,Stanislaus County,Patterson,0,8,45,45,224
+2018,Stanislaus County,Riverbank,0,13,11,67,326
+2018,Stanislaus County,Turlock,7,130,254,351,1447
+2018,Stanislaus County,Waterford,0,6,14,27,53
+2018,Stanislaus County,Hughson,0,2,5,17,60
+2018,Stanislaus County,CSU Stanislaus,0,0,0,0,34
+2018,Stanislaus County,Union Pacific RR - Stanislaus,0,0,0,2,1
+2018,Stanislaus County,CA Highway Patrol - Stanislaus,0,0,0,5,162
+2018,Sutter County,Sutter Co. Sheriff's Department,0,2,54,184,367
+2018,Sutter County,Yuba City,1,75,153,234,1356
+2018,Sutter County,Union Pacific RR - Sutter,0,0,0,0,0
+2018,Sutter County,CA Highway Patrol - Sutter,0,0,0,0,20
+2018,Tehama County,Tehama Co. Sheriff's Department,1,6,43,197,244
+2018,Tehama County,Corning,1,4,33,78,169
+2018,Tehama County,Red Bluff,2,20,119,151,451
+2018,Tehama County,Union Pacific RR - Tehama,0,0,0,0,1
+2018,Tehama County,CA Highway Patrol - Tehama,0,0,0,2,59
+2018,Trinity County,Trinity Co. Sheriff's Department,2,7,57,89,102
+2018,Trinity County,Union Pacific RR - Trinity,0,0,0,0,0
+2018,Trinity County,CA Highway Patrol - Trinity,0,0,2,0,15
+2018,Tulare County,Tulare Co. Sheriff's Department,13,60,259,627,1349
+2018,Tulare County,Dinuba,0,28,147,77,427
+2018,Tulare County,Exeter,0,3,11,49,193
+2018,Tulare County,Farmersville,3,8,33,48,116
+2018,Tulare County,Lindsay,1,8,25,30,129
+2018,Tulare County,Porterville,3,52,139,320,935
+2018,Tulare County,Tulare,3,61,163,325,1143
+2018,Tulare County,Visalia,3,138,202,748,2701
+2018,Tulare County,Woodlake,0,1,22,25,69
+2018,Tulare County,Union Pacific RR - Tulare,0,0,0,0,1
+2018,Tulare County,College of the Sequoias,0,0,0,10,51
+2018,Tulare County,CA Highway Patrol - Tulare,0,0,0,0,106
+2018,Tuolumne County,Tuolumne Co. Sheriff's Department,2,11,104,272,271
+2018,Tuolumne County,Sonora,0,8,11,40,228
+2018,Tuolumne County,CA Highway Patrol - Tuolumne,0,0,1,1,65
+2018,Ventura County,Ventura Co. Sheriff's Department,3,21,98,154,473
+2018,Ventura County,Camarillo,0,21,41,110,663
+2018,Ventura County,Fillmore,1,7,24,27,94
+2018,Ventura County,Ojai,0,3,2,12,50
+2018,Ventura County,Oxnard,14,327,394,704,3568
+2018,Ventura County,Port Hueneme,0,18,39,86,280
+2018,Ventura County,Santa Paula,1,32,54,99,318
+2018,Ventura County,Thousand Oaks,14,30,52,236,1127
+2018,Ventura County,Ventura,2,117,272,481,2667
+2018,Ventura County,Simi Valley,0,56,112,253,1118
+2018,Sonoma County,Silverado DPR,0,0,0,0,0
+2018,Ventura County,Moorpark,0,7,19,55,188
+2018,San Bernardino County,Tehachapi DPR,0,0,1,8,2
+2018,Sacramento County,Twin Cities DPR,0,0,0,0,0
+2018,Ventura County,Union Pacific RR - Ventura,0,0,0,0,1
+2018,Ventura County,CSU Channel Islands,0,0,2,1,39
+2018,Ventura County,Ventura Community College,0,0,1,8,50
+2018,Ventura County,CA Highway Patrol - Ventura,0,0,5,0,21
+2018,Yolo County,Yolo Co. Sheriff's Department,2,7,65,82,194
+2018,Yolo County,Davis,2,44,50,232,1366
+2018,Yolo County,Winters,0,3,4,17,94
+2018,Yolo County,Woodland,1,67,136,252,1146
+2018,Yolo County,West Sacramento,1,92,115,224,931
+2018,Yolo County,Union Pacific RR - Yolo,0,0,0,0,1
+2018,Yolo County,UC Davis,0,3,11,37,591
+2018,Yolo County,CA Highway Patrol - Yolo,0,0,0,1,17
+2018,Yuba County,Yuba Co. Sheriff's Department,7,45,145,338,560
+2018,Yuba County,Marysville,0,26,75,72,332
+2018,Yuba County,Wheatland,0,0,3,9,29
+2018,Yuba County,Union Pacific RR - Yuba,0,0,0,1,2
+2018,Yuba County,CA Highway Patrol - Yuba,0,1,0,0,82
+2019,Alameda County,Alameda Co. Sheriff's Department,5,210,391,354,1324
+2019,Alameda County,Alameda,0,94,61,218,1958
+2019,Alameda County,Albany,0,21,11,105,534
+2019,Alameda County,Berkeley,0,369,175,771,4993
+2019,Alameda County,Emeryville,0,114,40,95,2415
+2019,Alameda County,Fremont,1,159,204,547,3408
+2019,Alameda County,Hayward,5,275,218,448,3197
+2019,Alameda County,Livermore,2,39,122,139,1279
+2019,Alameda County,Newark,0,40,32,187,1090
+2019,Alameda County,Oakland,78,2859,2211,2599,20228
+2019,Alameda County,Piedmont,0,5,6,46,162
+2019,Alameda County,Pleasanton,0,56,44,149,1386
+2019,Alameda County,San Leandro,0,283,153,375,2941
+2019,Alameda County,Union City,2,79,188,192,1300
+2019,Alameda County,Alameda E. Bay Reg. Park Dist.,0,21,20,73,274
+2019,Alameda County,CSU East Bay,0,0,1,15,78
+2019,Alameda County,Union Pacific RR - Alameda,0,0,1,20,9
+2019,Alameda County,Alameda BART,2,227,51,13,1634
+2019,Alameda County,Dublin,0,43,57,114,1052
+2019,Alameda County,UC Berkeley,1,22,34,56,646
+2019,Alameda County,CA Highway Patrol - Alameda,0,0,0,0,40
+2019,Alpine County,Alpine Co. Sheriff's Department,0,0,11,12,14
+2019,Alpine County,CA Highway Patrol - Alpine,0,0,0,1,1
+2019,Amador County,Amador Co. Sheriff's Department,1,8,54,146,268
+2019,Amador County,Ione,0,1,9,9,35
+2019,Amador County,Jackson,0,0,27,15,107
+2019,Amador County,Sutter Creek,0,0,2,8,30
+2019,Amador County,Union Pacific RR - Amador,0,0,0,0,0
+2019,Amador County,CA Highway Patrol - Amador,0,0,0,0,15
+2019,Butte County,Butte Co. Sheriff's Department,5,28,218,524,724
+2019,Butte County,Biggs,0,0,2,3,10
+2019,Butte County,Chico,0,104,353,272,1753
+2019,Butte County,Gridley,0,3,11,47,136
+2019,Butte County,Oroville,2,30,66,176,435
+2019,Butte County,Paradise,0,1,16,83,51
+2019,Butte County,Union Pacific RR - Butte,0,0,0,1,15
+2019,Butte County,Northern Buttes DPR,0,0,1,2,5
+2019,Butte County,CSU Chico,0,1,2,2,119
+2019,Butte County,CA Highway Patrol - Butte,0,0,1,1,95
+2019,Calaveras County,Calaveras Co. Sheriff's Department,1,8,98,274,380
+2019,Calaveras County,Angels Camp,0,1,3,19,45
+2019,Calaveras County,Union Pacific RR - Calaveras,0,0,0,0,0
+2019,Calaveras County,Calaveras DPR,0,0,0,4,0
+2019,Calaveras County,CA Highway Patrol - Calaveras,0,0,0,0,47
+2019,Colusa County,Colusa Co. Sheriff's Department,0,4,14,53,111
+2019,Colusa County,Colusa,0,1,1,28,34
+2019,Colusa County,Williams,0,4,13,28,34
+2019,Colusa County,Union Pacific RR - Colusa,0,0,0,0,0
+2019,Colusa County,CA Highway Patrol - Colusa,0,0,6,0,3
+2019,Contra Costa County,Contra Costa Co. Sheriff's Department,8,89,207,411,1053
+2019,Contra Costa County,Antioch,12,238,343,511,2078
+2019,Contra Costa County,Brentwood,0,67,83,142,1095
+2019,Contra Costa County,Clayton,0,1,0,14,137
+2019,Contra Costa County,Concord,2,234,238,434,3512
+2019,Contra Costa County,El Cerrito,1,91,56,166,1054
+2019,Contra Costa County,Hercules,0,15,11,31,278
+2019,Contra Costa County,Pinole,0,17,40,77,726
+2019,Contra Costa County,Pittsburg,7,157,241,256,983
+2019,Contra Costa County,Pleasant Hill,0,41,36,112,1276
+2019,Contra Costa County,Richmond,16,307,675,469,2480
+2019,Contra Costa County,San Pablo,2,102,83,101,589
+2019,Contra Costa County,Walnut Creek,0,40,74,307,2034
+2019,Contra Costa County,Kensington,0,1,3,15,25
+2019,Contra Costa County,Martinez,0,26,40,99,386
+2019,Contra Costa County,Lafayette,0,3,0,42,286
+2019,Contra Costa County,Moraga,0,3,19,36,79
+2019,Contra Costa County,Contra Costa BART,0,34,23,2,592
+2019,Contra Costa County,Contra Costa Community College,0,1,0,14,94
+2019,Contra Costa County,Danville,1,7,10,36,247
+2019,Contra Costa County,San Ramon,0,21,33,179,869
+2019,Contra Costa County,Orinda,5,7,3,52,125
+2019,Contra Costa County,Union Pacific RR - Contra Costa,0,0,0,0,2
+2019,Contra Costa County,Oakley,0,17,27,74,336
+2019,Contra Costa County,CA Highway Patrol - Contra Costa,0,0,0,0,40
+2019,Del Norte County,Del Norte Co. Sheriff's Department,2,18,53,192,228
+2019,Del Norte County,Crescent City,0,8,13,59,238
+2019,Del Norte County,CA Highway Patrol - Del Norte,0,0,2,0,40
+2019,El Dorado County,El Dorado Co. Sheriff's Department,3,29,94,482,1186
+2019,El Dorado County,Placerville,0,6,31,67,164
+2019,El Dorado County,South Lake Tahoe,2,20,79,79,335
+2019,El Dorado County,Union Pacific RR - El Dorado,0,0,0,0,0
+2019,El Dorado County,CA Highway Patrol - El Dorado,0,0,0,1,99
+2019,Fresno County,Fresno Co. Sheriff's Department,14,102,928,1378,1304
+2019,Fresno County,Clovis,0,32,157,307,1810
+2019,Fresno County,Coalinga,0,4,35,38,159
+2019,Fresno County,Firebaugh,0,2,7,15,51
+2019,Fresno County,Fowler,1,5,21,42,43
+2019,Fresno County,Fresno,35,687,1606,2321,10231
+2019,Fresno County,Huron,0,10,72,13,25
+2019,Fresno County,Kerman,0,4,16,58,214
+2019,Fresno County,Kingsburg,0,3,13,76,107
+2019,Fresno County,Mendota,1,4,74,45,50
+2019,Fresno County,Orange Cove,0,2,16,12,38
+2019,Fresno County,Parlier,0,9,51,24,106
+2019,Fresno County,Reedley,1,12,97,69,117
+2019,Fresno County,Sanger,0,15,132,59,178
+2019,Fresno County,Selma,3,25,51,204,280
+2019,Fresno County,State Center Community College,0,0,0,11,120
+2019,Fresno County,Union Pacific RR - Fresno,0,0,0,0,3
+2019,Fresno County,San Joaquin DPR,0,0,3,1,4
+2019,Fresno County,Clovis Unified School,0,0,13,3,17
+2019,Fresno County,CSU Fresno,0,2,6,17,129
+2019,Fresno County,CA Highway Patrol - Fresno,0,0,0,0,22
+2019,Fresno County,Coalinga State Hospital,0,0,199,1,10
+2019,Glenn County,Glenn Co. Sheriff's Department,2,8,37,86,239
+2019,Glenn County,Orland,0,8,21,23,86
+2019,Glenn County,Union Pacific RR - Glenn,0,0,0,0,0
+2019,Glenn County,CA Highway Patrol - Glenn,0,0,3,0,9
+2019,Humboldt County,Humboldt Co. Sheriff's Department,1,59,229,398,661
+2019,Humboldt County,Arcata,1,16,43,122,425
+2019,Humboldt County,Eureka,3,63,100,187,977
+2019,Humboldt County,Ferndale,0,0,4,2,17
+2019,Humboldt County,Fortuna,0,9,17,50,231
+2019,Humboldt County,Rio Dell,1,1,8,21,36
+2019,Humboldt County,CSU Humboldt (Arcata),0,1,3,15,103
+2019,Humboldt County,Union Pacific RR - Humboldt,0,0,0,0,0
+2019,Humboldt County,Northern Coast Redwoods DPR,0,0,0,0,40
+2019,Humboldt County,CA Highway Patrol - Humboldt,0,0,1,1,105
+2019,Imperial County,Imperial Co. Sheriff's Department,2,7,191,178,324
+2019,Imperial County,Brawley,2,8,107,95,468
+2019,Imperial County,Calexico,0,21,70,244,470
+2019,Imperial County,El Centro,3,41,90,228,861
+2019,Imperial County,Holtville,0,2,11,13,53
+2019,Imperial County,Imperial,0,1,4,10,36
+2019,Imperial County,Union Pacific RR - Imperial,0,0,0,0,0
+2019,Imperial County,CA Highway Patrol - Imperial,0,0,1,1,24
+2019,Inyo County,Inyo Co. Sheriff's Department,1,3,47,86,105
+2019,Inyo County,Bishop,0,6,19,29,150
+2019,Inyo County,Union Pacific RR - Inyo,0,0,0,0,0
+2019,Inyo County,CA Highway Patrol - Inyo,0,0,0,0,5
+2019,Kern County,Kern Co. Sheriff's Department,29,433,2158,2756,4680
+2019,Kern County,Arvin,3,16,174,115,178
+2019,Kern County,Bakersfield,34,701,915,3888,9277
+2019,Kern County,Delano,8,33,156,203,603
+2019,Kern County,McFarland,3,9,41,52,53
+2019,Kern County,Ridgecrest,3,7,101,119,243
+2019,Kern County,Shafter,0,9,41,127,298
+2019,Kern County,Taft,0,4,57,70,149
+2019,Kern County,Tehachapi,2,7,43,70,231
+2019,Kern County,California City,0,15,55,102,120
+2019,Kern County,Stallion Springs,1,0,5,5,13
+2019,Kern County,Bear Valley,0,0,4,6,36
+2019,Kern County,Kern High School District,0,4,37,48,101
+2019,Kern County,Union Pacific RR - Kern,0,0,0,19,52
+2019,Kern County,CSU Bakersfield,0,0,1,14,52
+2019,Kern County,CA Highway Patrol - Kern,1,0,2,1,40
+2019,Kings County,Kings Co. Sheriff's Department,2,19,85,114,297
+2019,Kings County,Corcoran,1,12,97,65,157
+2019,Kings County,Hanford,0,40,199,131,900
+2019,Kings County,Lemoore,1,14,94,71,264
+2019,Kings County,Union Pacific RR - Kings,0,0,0,1,0
+2019,Kings County,Porterville Developmental Center,0,0,60,2,2
+2019,Kings County,Avenal,0,3,59,26,28
+2019,Kings County,CA Highway Patrol - Kings,0,0,0,0,14
+2019,Lake County,Lake Co. Sheriff's Department,3,19,150,204,225
+2019,Lake County,Lakeport,0,7,24,29,110
+2019,Lake County,Clearlake,1,36,63,146,210
+2019,Lake County,CA Highway Patrol - Lake,1,0,0,0,38
+2019,Lassen County,Lassen Co. Sheriff's Department,0,0,70,100,65
+2019,Lassen County,Susanville,0,10,179,45,157
+2019,Lassen County,Union Pacific RR - Lassen,0,0,0,0,1
+2019,Lassen County,CA Highway Patrol - Lassen,0,0,0,0,9
+2019,Los Angeles County,Los Angeles Co. Sheriff's Department,68,1443,3753,2798,8595
+2019,Los Angeles County,Alhambra,2,89,59,259,1303
+2019,Los Angeles County,Arcadia,1,35,38,301,973
+2019,Los Angeles County,Artesia,1,28,41,90,161
+2019,Los Angeles County,Avalon,0,0,8,7,28
+2019,Los Angeles County,Azusa,5,46,76,174,646
+2019,Los Angeles County,Baldwin Park,1,50,113,196,606
+2019,Los Angeles County,Bell,0,37,120,127,224
+2019,Los Angeles County,Bellflower,1,107,190,326,860
+2019,Los Angeles County,Bell Gardens,0,69,74,78,334
+2019,Los Angeles County,El Camino College,0,2,1,2,57
+2019,Los Angeles County,La Habra Heights,0,1,3,29,45
+2019,Los Angeles County,Union Pacific RR - Los Angeles,0,0,1,1462,471
+2019,Los Angeles County,Metropolitan Trans. Authority (MTA),0,0,6,0,20
+2019,Los Angeles County,Pasadena Community College,0,0,0,4,64
+2019,Los Angeles County,Westlake Village,0,6,2,44,140
+2019,Los Angeles County,Beverly Hills,1,52,44,257,1197
+2019,Los Angeles County,Bradbury,0,1,0,2,6
+2019,Los Angeles County,Burbank,1,54,123,299,2107
+2019,Los Angeles County,Claremont,0,23,22,191,552
+2019,Los Angeles County,Commerce,1,49,83,128,624
+2019,Los Angeles County,Compton,18,427,619,334,1285
+2019,Los Angeles County,Covina,2,43,101,239,779
+2019,Los Angeles County,Cudahy,2,29,56,39,111
+2019,Los Angeles County,Culver City,0,102,78,172,1380
+2019,Los Angeles County,Cerritos,1,65,51,314,1198
+2019,Los Angeles County,Agoura Hills,0,4,11,66,223
+2019,Los Angeles County,West Hollywood,0,139,131,215,1566
+2019,Los Angeles County,Baldwin Park School,0,0,12,5,9
+2019,Los Angeles County,Santa Clarita,2,89,137,392,1448
+2019,Los Angeles County,Diamond Bar,1,25,42,282,574
+2019,Los Angeles County,Downey,4,151,167,344,1566
+2019,Los Angeles County,Duarte,0,10,43,48,215
+2019,Los Angeles County,El Monte,2,126,142,347,1046
+2019,Los Angeles County,El Segundo,0,30,47,164,387
+2019,Los Angeles County,Gardena,3,131,170,236,658
+2019,Los Angeles County,Glendale,5,93,117,480,2562
+2019,Los Angeles County,Glendora,1,38,95,187,1241
+2019,Los Angeles County,Hawaiian Gardens,0,24,47,68,101
+2019,Los Angeles County,Hawthorne,3,190,409,199,930
+2019,Los Angeles County,Hermosa Beach,0,9,35,97,326
+2019,Los Angeles County,Calabasas,1,15,13,81,226
+2019,Los Angeles County,Malibu,1,16,22,86,311
+2019,Los Angeles County,Los Angeles Transit Serv. Bureau,0,74,69,5,131
+2019,Los Angeles County,Hidden Hills,0,0,0,10,7
+2019,Los Angeles County,Huntington Park,3,249,175,214,861
+2019,Los Angeles County,Industry,0,41,30,156,899
+2019,Los Angeles County,Inglewood,2,358,260,308,1356
+2019,Los Angeles County,Irwindale,0,8,17,73,139
+2019,Los Angeles County,Lakewood,0,104,98,303,1354
+2019,Los Angeles County,La Mirada,0,28,52,145,463
+2019,Los Angeles County,La Puente,3,53,89,75,248
+2019,Los Angeles County,La Verne,1,13,31,133,447
+2019,Los Angeles County,Lawndale,1,40,78,83,228
+2019,Los Angeles County,Lomita,0,26,37,53,161
+2019,Los Angeles County,Long Beach,34,958,1128,2185,6754
+2019,Los Angeles County,Los Angeles,258,9652,17216,13809,66253
+2019,Los Angeles County,Lynwood,1,218,214,189,723
+2019,Los Angeles County,Manhattan Beach,0,33,17,160,648
+2019,Los Angeles County,Maywood,2,23,58,60,143
+2019,Los Angeles County,Monrovia,1,16,17,87,686
+2019,Los Angeles County,Montebello,0,90,77,480,580
+2019,Los Angeles County,Monterey Park,0,59,60,267,929
+2019,Los Angeles County,Norwalk,5,138,268,343,922
+2019,Los Angeles County,Palmdale,8,194,401,447,1384
+2019,Los Angeles County,Palos Verdes Estates,0,1,3,36,49
+2019,Los Angeles County,Paramount,4,151,176,187,775
+2019,Los Angeles County,Pasadena,4,147,416,570,2036
+2019,Los Angeles County,Pico Rivera,3,67,148,198,581
+2019,Los Angeles County,Pomona,12,342,485,816,2529
+2019,Los Angeles County,Redondo Beach,1,53,101,260,992
+2019,Los Angeles County,Rolling Hills,0,0,1,6,2
+2019,Los Angeles County,Rolling Hills Estates,0,3,7,35,82
+2019,Los Angeles County,Rosemead,1,74,89,196,552
+2019,Los Angeles County,San Dimas,0,15,48,113,659
+2019,Los Angeles County,San Fernando,1,25,50,52,112
+2019,Los Angeles County,San Gabriel,0,58,38,202,468
+2019,Los Angeles County,San Marino,0,3,10,77,126
+2019,Los Angeles County,Santa Fe Springs,2,42,51,205,654
+2019,Los Angeles County,Santa Monica,3,247,374,577,3143
+2019,Los Angeles County,Sierra Madre,0,0,14,29,46
+2019,Los Angeles County,Signal Hill,0,27,67,110,491
+2019,Los Angeles County,South El Monte,1,32,58,132,254
+2019,Los Angeles County,South Gate,4,179,418,351,1663
+2019,Los Angeles County,South Pasadena,0,11,16,94,434
+2019,Los Angeles County,Temple City,1,23,33,122,175
+2019,Los Angeles County,Torrance,3,114,137,399,2161
+2019,Los Angeles County,Vernon,0,12,14,133,272
+2019,Los Angeles County,Walnut,0,14,20,152,207
+2019,Los Angeles County,West Covina,6,129,104,354,1660
+2019,Los Angeles County,Whittier,1,93,92,318,1278
+2019,Los Angeles County,Carson,5,122,286,328,1277
+2019,Los Angeles County,Cal Poly - Pomona,0,1,5,24,130
+2019,Los Angeles County,Rancho Palos Verdes,2,2,22,102,199
+2019,Los Angeles County,CSU Dominguez Hills,0,3,1,4,17
+2019,Los Angeles County,CSU Long Beach,0,2,2,0,111
+2019,Los Angeles County,CSU Los Angeles,0,1,2,4,89
+2019,Los Angeles County,CSU Northridge,0,2,3,2,214
+2019,Los Angeles County,La Canada-Flintridge,0,6,7,114,198
+2019,Los Angeles County,Lancaster,7,374,864,792,1916
+2019,Los Angeles County,UC Los Angeles,0,8,58,132,608
+2019,Los Angeles County,CA Highway Patrol - Los Angeles,0,0,48,5,139
+2019,Los Angeles County,Metropolitan State Hospital,0,1,1170,2,6
+2019,Madera County,Madera Co. Sheriff's Department,1,14,408,375,621
+2019,Madera County,Chowchilla,0,3,34,71,109
+2019,Madera County,Madera,2,77,223,235,824
+2019,Madera County,Union Pacific RR - Madera,0,0,0,1,0
+2019,Madera County,CA Highway Patrol - Madera,0,0,0,0,41
+2019,Marin County,Marin Co. Sheriff's Department,1,12,45,143,591
+2019,Marin County,Belvedere,0,0,1,2,13
+2019,Marin County,Fairfax,0,0,6,13,77
+2019,Marin County,Mill Valley,0,9,10,36,177
+2019,Marin County,Novato,0,26,116,102,711
+2019,Marin County,Ross,0,0,2,5,19
+2019,Marin County,San Rafael,0,87,120,299,1173
+2019,Marin County,Sausalito,0,1,6,21,224
+2019,Marin County,Tiburon,0,0,0,13,67
+2019,Marin County,Union Pacific RR - Marin,0,0,0,0,0
+2019,Marin County,Marin Community College,0,0,3,0,17
+2019,Marin County,Marin DPR,0,0,1,7,3
+2019,Marin County,Central Marin,0,10,16,360,684
+2019,Marin County,CA Highway Patrol - Marin,0,0,0,0,266
+2019,Mariposa County,Mariposa Co. Sheriff's Department,0,2,69,53,115
+2019,Mariposa County,CA Highway Patrol - Mariposa,0,0,0,0,9
+2019,Mendocino County,Mendocino Co. Sheriff's Department,2,14,133,174,225
+2019,Mendocino County,Fort Bragg,0,7,20,38,262
+2019,Mendocino County,Ukiah,1,24,76,117,147
+2019,Mendocino County,Willits,0,6,8,28,51
+2019,Mendocino County,Union Pacific RR - Mendocino,0,0,0,0,0
+2019,Mendocino County,CA Highway Patrol - Mendocino,0,0,0,0,51
+2019,Merced County,Merced Co. Sheriff's Department,4,24,453,487,956
+2019,Merced County,Atwater,1,22,173,140,708
+2019,Merced County,Dos Palos,0,2,62,36,89
+2019,Merced County,Gustine,0,4,15,32,54
+2019,Merced County,Livingston,0,11,28,85,164
+2019,Merced County,Los Banos,2,36,93,231,506
+2019,Merced County,Merced,5,103,398,396,1439
+2019,Merced County,Union Pacific RR - Merced,0,0,0,0,2
+2019,Merced County,Four Rivers DPR,0,0,0,3,0
+2019,Merced County,UC Merced,0,0,2,8,77
+2019,Merced County,CA Highway Patrol - Merced,0,0,0,0,94
+2019,Modoc County,Modoc Co. Sheriff's Department,0,1,28,6,22
+2019,Modoc County,Alturas,0,1,7,14,13
+2019,Modoc County,Union Pacific RR - Modoc,0,0,0,0,0
+2019,Modoc County,CA Highway Patrol - Modoc,0,0,2,0,3
+2019,Mono County,Mono Co. Sheriff's Department,0,0,22,21,32
+2019,Mono County,Mammoth Lakes,0,1,26,17,105
+2019,Mono County,CA Highway Patrol - Mono,0,0,0,0,1
+2019,Monterey County,Monterey Co. Sheriff's Department,3,36,194,361,733
+2019,Monterey County,Carmel,0,0,11,20,81
+2019,Monterey County,Del Rey Oaks,0,6,1,8,30
+2019,Monterey County,Gonzales,0,4,12,12,40
+2019,Monterey County,Greenfield,1,9,35,31,98
+2019,Monterey County,King City,0,9,7,43,80
+2019,Monterey County,Monterey,0,23,44,127,774
+2019,Monterey County,Pacific Grove,0,1,12,27,136
+2019,Monterey County,Salinas,8,241,467,742,1709
+2019,Monterey County,Sand City,0,2,7,4,70
+2019,Monterey County,Seaside,3,12,52,44,329
+2019,Monterey County,Soledad,0,14,35,24,83
+2019,Monterey County,Marina,0,10,27,67,242
+2019,Monterey County,Monterey Airport,0,0,0,0,6
+2019,Monterey County,Union Pacific RR - Monterey,0,0,0,1,1
+2019,Monterey County,Monterey DPR,0,0,0,7,15
+2019,Monterey County,CSU Monterey Bay,0,1,6,6,41
+2019,Monterey County,CA Highway Patrol - Monterey,0,0,1,0,94
+2019,Napa County,Napa Co. Sheriff's Department,0,7,51,55,212
+2019,Napa County,Calistoga,0,0,6,7,54
+2019,Napa County,Napa,1,55,158,248,847
+2019,Napa County,St. Helena,0,1,10,21,43
+2019,Napa County,Union Pacific RR - Napa,0,0,0,0,0
+2019,Napa County,Napa State Hospital,0,0,323,0,2
+2019,Napa County,American Canyon,0,7,39,59,368
+2019,Napa County,Yountville,0,0,5,5,36
+2019,Napa County,CA Highway Patrol - Napa,0,0,0,0,16
+2019,Nevada County,Nevada Co. Sheriff's Department,0,6,103,191,226
+2019,Nevada County,Grass Valley,3,6,64,76,326
+2019,Nevada County,Nevada City,0,1,10,26,49
+2019,Nevada County,Union Pacific RR - Nevada,0,0,0,0,0
+2019,Nevada County,Truckee,0,4,24,36,66
+2019,Nevada County,CA Highway Patrol - Nevada,0,0,1,0,18
+2019,Orange County,Orange Co. Sheriff's Department,2,21,213,142,642
+2019,Orange County,Anaheim,8,396,575,1123,5904
+2019,Orange County,Brea,0,29,33,169,1209
+2019,Orange County,Buena Park,1,91,139,230,1567
+2019,Orange County,Costa Mesa,0,104,156,450,2934
+2019,Orange County,Cypress,1,21,23,98,424
+2019,Orange County,La Palma,0,7,9,41,242
+2019,Orange County,Fountain Valley,0,23,25,163,914
+2019,Orange County,Fullerton,2,108,183,318,2479
+2019,Orange County,Garden Grove,6,185,260,627,2778
+2019,Orange County,Huntington Beach,2,99,224,535,3280
+2019,Orange County,Laguna Beach,1,5,15,43,261
+2019,Orange County,La Habra,0,41,79,188,789
+2019,Orange County,Los Alamitos,0,3,2,41,73
+2019,Orange County,Newport Beach,5,32,69,273,1344
+2019,Orange County,Orange,3,76,83,387,1546
+2019,Orange County,Placentia,0,28,151,275,511
+2019,Orange County,San Clemente,1,29,54,160,700
+2019,Orange County,San Juan Capistrano,2,20,37,69,201
+2019,Orange County,Santa Ana,13,472,761,854,4611
+2019,Orange County,Seal Beach,0,10,8,62,458
+2019,Orange County,Stanton,3,31,51,83,344
+2019,Orange County,Tustin,1,61,63,241,1694
+2019,Orange County,Villa Park,0,0,4,9,35
+2019,Orange County,Westminster,0,122,118,511,1824
+2019,Orange County,Yorba Linda,0,17,22,140,433
+2019,Orange County,Irvine,1,66,69,574,3086
+2019,Orange County,CSU Fullerton,1,0,2,8,194
+2019,Orange County,Union Pacific RR - Orange,0,1,0,2,2
+2019,Orange County,Orange Coast DPR,0,0,0,102,45
+2019,Orange County,Fairview Developmental Center,0,0,1,0,0
+2019,Orange County,Mission Viejo,1,22,34,121,689
+2019,Orange County,Dana Point,0,18,34,61,311
+2019,Orange County,Laguna Niguel,1,12,21,105,463
+2019,Orange County,Laguna Hills,0,15,14,82,288
+2019,Orange County,Lake Forest,1,14,44,108,503
+2019,Orange County,Laguna Woods,0,2,5,20,96
+2019,Orange County,Rancho Santa Margarita,0,12,14,34,250
+2019,Orange County,Aliso Viejo,1,13,10,57,351
+2019,Orange County,Irvine Valley College,0,0,0,2,9
+2019,Orange County,UC Irvine,0,1,13,19,437
+2019,Orange County,CA Highway Patrol - Orange,0,2,19,2,35
+2019,Placer County,Placer Co. Sheriff's Department,3,13,139,278,769
+2019,Placer County,Auburn,0,5,37,72,146
+2019,Placer County,Lincoln,0,4,24,78,351
+2019,Placer County,Rocklin,0,13,32,168,738
+2019,Placer County,Roseville,4,96,127,389,2518
+2019,Placer County,Sierra DPR,0,0,0,0,17
+2019,Placer County,Union Pacific RR - Placer,0,0,0,1,8
+2019,Placer County,CA Highway Patrol - Placer,0,0,6,6,58
+2019,Plumas County,Plumas Co. Sheriff's Department,1,5,113,116,167
+2019,Plumas County,Union Pacific RR - Plumas,0,0,0,0,1
+2019,Plumas County,CA Highway Patrol - Plumas,0,0,0,0,7
+2019,Riverside County,Riverside Co. Sheriff's Department,24,179,692,1454,4320
+2019,Riverside County,Banning,2,27,91,179,210
+2019,Riverside County,Beaumont,2,38,38,178,548
+2019,Riverside County,Blythe,0,29,56,177,434
+2019,Riverside County,Coachella,0,43,74,135,580
+2019,Riverside County,Desert Hot Springs,5,59,178,301,216
+2019,Riverside County,Hemet,5,121,194,757,1547
+2019,Riverside County,Indio,1,118,366,304,1218
+2019,Riverside County,Norco,0,14,32,136,434
+2019,Riverside County,Palm Springs,7,66,156,502,1210
+2019,Riverside County,Perris,4,97,155,268,1248
+2019,Riverside County,Riverside,17,476,1054,1302,6997
+2019,Riverside County,San Jacinto,2,68,37,334,1018
+2019,Riverside County,Corona,4,103,141,646,2251
+2019,Riverside County,Indian Wells,0,2,10,44,89
+2019,Riverside County,Rancho Mirage,0,7,37,120,459
+2019,Riverside County,Palm Desert,3,24,102,338,1382
+2019,Riverside County,Union Pacific RR - Riverside,0,0,1,13,12
+2019,Riverside County,Inland Empire DPR,0,0,1,0,2
+2019,Riverside County,Cathedral City,7,48,70,182,227
+2019,Riverside County,Lake Elsinore,3,43,124,233,1409
+2019,Riverside County,La Quinta,5,17,41,158,809
+2019,Riverside County,Moreno Valley,15,290,523,966,3489
+2019,Riverside County,Temecula,1,72,85,318,2018
+2019,Riverside County,Calimesa,0,7,15,51,193
+2019,Riverside County,Canyon Lake,0,1,14,15,47
+2019,Riverside County,Murrieta,3,26,29,206,1080
+2019,Riverside County,Riverside Community College,0,2,0,3,32
+2019,Riverside County,Wildomar,0,12,48,101,375
+2019,Riverside County,Menifee,2,47,92,269,1273
+2019,Riverside County,Eastvale,0,23,57,151,676
+2019,Riverside County,UC Riverside,0,3,3,32,267
+2019,Riverside County,CA Highway Patrol - Riverside,0,0,13,7,20
+2019,Riverside County,Jurupa Valley,6,86,218,406,1346
+2019,Riverside County,Mount San Jacinto Community College,0,1,1,3,13
+2019,Sacramento County,Sacramento Co. Sheriff's Department,36,685,1526,2276,5634
+2019,Sacramento County,Folsom,0,29,41,278,1127
+2019,Sacramento County,Galt,0,15,52,71,340
+2019,Sacramento County,Isleton,1,0,6,1,2
+2019,Sacramento County,Sacramento,34,1039,2023,2993,10644
+2019,Sacramento County,CSU Sacramento,0,1,2,13,145
+2019,Sacramento County,Elk Grove,0,114,223,292,2107
+2019,Sacramento County,Gold Fields DPR,0,1,1,0,31
+2019,Sacramento County,Twin Rivers Unified School,0,16,5,70,25
+2019,Sacramento County,CA State Fair,0,2,2,5,41
+2019,Sacramento County,Capital DPR,0,0,5,0,2
+2019,Sacramento County,Twin Cities DPR,0,0,0,0,1
+2019,Sacramento County,Union Pacific RR - Sacramento,0,0,0,1,1
+2019,Sacramento County,Rancho Cordova,5,56,152,233,1004
+2019,Sacramento County,Citrus Heights,1,76,190,372,1607
+2019,Sacramento County,UC Med Center Sacramento,0,1,5,3,131
+2019,Sacramento County,CA Highway Patrol - Sacramento,1,0,12,3,1374
+2019,San Benito County,San Benito Co. Sheriff's Department,0,2,24,34,105
+2019,San Benito County,Hollister,1,27,71,61,174
+2019,San Benito County,Union Pacific RR - San Benito,0,0,0,1,0
+2019,San Benito County,Hollister Hills DPR,0,0,0,0,0
+2019,San Benito County,CA Highway Patrol - San Benito,0,0,0,0,4
+2019,San Bernardino County,San Bernardino Co. Sheriff's Department,27,189,1172,1142,1875
+2019,San Bernardino County,Barstow,5,82,177,285,527
+2019,San Bernardino County,Chino,3,96,195,376,1649
+2019,San Bernardino County,Colton,1,103,102,317,836
+2019,San Bernardino County,Fontana,6,206,444,483,1846
+2019,San Bernardino County,Montclair,2,70,127,355,868
+2019,San Bernardino County,Needles,1,6,60,66,97
+2019,San Bernardino County,Ontario,10,223,341,710,2652
+2019,San Bernardino County,Redlands,1,70,146,330,1534
+2019,San Bernardino County,Rialto,8,185,337,403,2179
+2019,San Bernardino County,San Bernardino,46,906,1766,2029,4974
+2019,San Bernardino County,Upland,3,107,168,368,1206
+2019,San Bernardino County,Victorville,5,255,683,590,1061
+2019,San Bernardino County,Adelanto,1,42,213,136,209
+2019,San Bernardino County,CSU San Bernardino,0,1,1,4,57
+2019,San Bernardino County,Rancho Cucamonga,4,108,349,590,2560
+2019,San Bernardino County,Big Bear,0,4,65,30,92
+2019,San Bernardino County,Grand Terrace,1,8,24,55,149
+2019,San Bernardino County,Loma Linda,0,17,53,125,336
+2019,San Bernardino County,San Bernardino Unified School,0,53,11,124,129
+2019,San Bernardino County,Chaffey College,0,1,2,3,28
+2019,San Bernardino County,Highland,7,90,246,167,511
+2019,San Bernardino County,Twentynine Palms,0,15,92,96,134
+2019,San Bernardino County,Hesperia,8,111,308,443,893
+2019,San Bernardino County,Apple Valley,4,68,248,230,660
+2019,San Bernardino County,Yucaipa,3,31,152,172,365
+2019,San Bernardino County,San Bernardino College,0,0,0,1,34
+2019,San Bernardino County,Chino Hills,1,20,64,222,606
+2019,San Bernardino County,Yucca Valley,0,25,126,84,157
+2019,San Bernardino County,Fontana Unified School,0,10,18,8,56
+2019,San Bernardino County,Union Pacific RR - San Bernardino,0,0,2,33,10
+2019,San Bernardino County,Patton State Hospital,0,0,354,1,0
+2019,San Bernardino County,Tehachapi DPR,0,0,0,1,1
+2019,San Bernardino County,CA Highway Patrol - San Bernardino,0,1,33,0,65
+2019,San Diego County,San Diego Co. Sheriff's Department,10,224,1161,901,2498
+2019,San Diego County,Carlsbad,3,39,158,297,1671
+2019,San Diego County,Chula Vista,3,265,575,486,2503
+2019,San Diego County,Coronado,0,7,1,34,276
+2019,San Diego County,Del Mar,0,2,4,17,37
+2019,San Diego County,El Cajon,3,201,310,371,1316
+2019,San Diego County,Escondido,4,143,338,379,1599
+2019,San Diego County,Imperial Beach,0,16,51,57,195
+2019,San Diego County,La Mesa,1,76,75,138,715
+2019,San Diego County,National City,0,130,208,114,735
+2019,San Diego County,Oceanside,4,163,448,426,2858
+2019,San Diego County,San Diego,50,1346,3258,3543,18426
+2019,San Diego County,San Marcos,0,46,130,163,649
+2019,San Diego County,Vista,2,93,221,251,945
+2019,San Diego County,CSU San Diego,0,4,9,38,389
+2019,San Diego County,San Diego Harbor,0,20,47,65,585
+2019,San Diego County,Colorado DPR,0,0,0,1,0
+2019,San Diego County,Ocotillo Wells DPR,0,0,1,0,0
+2019,San Diego County,San Diego Coast DPR,0,1,12,1,57
+2019,San Diego County,CSU San Marcos,0,1,0,1,20
+2019,San Diego County,UC San Diego,0,0,8,24,419
+2019,San Diego County,CA Highway Patrol - San Diego,0,0,43,1,50
+2019,San Diego County,Lemon Grove,2,54,107,67,365
+2019,San Diego County,Santee,0,29,61,74,659
+2019,San Diego County,Poway,2,12,35,91,354
+2019,San Diego County,Encinitas,2,15,59,115,422
+2019,San Diego County,Solana Beach,0,4,6,39,115
+2019,San Francisco County,San Francisco,40,3055,2514,4644,39887
+2019,San Francisco County,CSU San Francisco,0,7,2,22,168
+2019,San Francisco County,San Francisco BART,0,104,28,4,619
+2019,San Francisco County,Union Pacific RR - San Francisco,0,0,1,0,1
+2019,San Francisco County,UC San Francisco,0,7,3,15,351
+2019,San Francisco County,CA Highway Patrol - San Francisco,0,0,1,0,17
+2019,San Joaquin County,San Joaquin Co. Sheriff's Department,5,162,701,719,1589
+2019,San Joaquin County,Escalon,0,0,15,25,102
+2019,San Joaquin County,Lodi,3,88,130,358,1016
+2019,San Joaquin County,Manteca,3,66,103,239,1327
+2019,San Joaquin County,Ripon,0,4,3,23,206
+2019,San Joaquin County,Stockton,34,1158,3007,2209,8480
+2019,San Joaquin County,Tracy,5,62,64,156,1411
+2019,San Joaquin County,Stockton Unified School,0,20,18,31,98
+2019,San Joaquin County,Union Pacific RR - San Joaquin,0,0,0,11,159
+2019,San Joaquin County,CA Highway Patrol - San Joaquin,0,0,0,0,172
+2019,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,5,5,145,331,614
+2019,San Luis Obispo County,Arroyo Grande,0,7,18,35,219
+2019,San Luis Obispo County,Grover Beach,0,1,9,56,151
+2019,San Luis Obispo County,Morro Bay,0,3,17,15,102
+2019,San Luis Obispo County,Paso Robles,0,13,31,78,523
+2019,San Luis Obispo County,Pismo Beach,0,6,23,89,236
+2019,San Luis Obispo County,San Luis Obispo,0,34,114,277,1387
+2019,San Luis Obispo County,Cal Poly San Luis Obispo,0,0,1,15,105
+2019,San Luis Obispo County,Atascadero,0,7,51,96,360
+2019,San Luis Obispo County,San Luis Obispo Coast DPR,0,0,0,0,21
+2019,San Luis Obispo County,Oceano Dunes DPR,0,1,1,2,31
+2019,San Luis Obispo County,Atascadero State Hospital,0,0,43,1,0
+2019,San Luis Obispo County,Union Pacific RR - San Luis Obispo,0,0,0,0,2
+2019,San Luis Obispo County,Cuesta College,0,0,0,0,7
+2019,San Luis Obispo County,CA Highway Patrol - San Luis Obispo,0,0,0,0,42
+2019,San Mateo County,San Mateo Co. Sheriff's Department,3,62,188,297,2612
+2019,San Mateo County,Atherton,0,4,6,32,74
+2019,San Mateo County,Belmont,1,1,35,50,312
+2019,San Mateo County,Brisbane,0,0,8,64,52
+2019,San Mateo County,Burlingame,0,25,40,162,937
+2019,San Mateo County,Colma,0,20,8,36,263
+2019,San Mateo County,Daly City,0,91,97,170,1517
+2019,San Mateo County,Hillsborough,0,1,4,46,49
+2019,San Mateo County,Menlo Park,0,13,21,110,633
+2019,San Mateo County,Pacifica,1,14,42,81,408
+2019,San Mateo County,Redwood City,0,70,87,165,1014
+2019,San Mateo County,San Bruno,0,34,87,116,948
+2019,San Mateo County,San Mateo,2,68,151,516,1523
+2019,San Mateo County,South San Francisco,2,64,81,230,1074
+2019,San Mateo County,Broadmoor,0,7,2,15,55
+2019,San Mateo County,Foster City,0,8,21,63,341
+2019,San Mateo County,San Mateo BART,0,13,10,1,332
+2019,San Mateo County,Union Pacific RR - San Mateo,0,0,0,0,0
+2019,San Mateo County,Bay Area DPR,0,0,0,0,0
+2019,San Mateo County,East Palo Alto,1,57,64,67,360
+2019,San Mateo County,CA Highway Patrol - San Mateo,0,0,1,1,24
+2019,Santa Barbara County,Santa Barbara Co. Sheriff's Department,2,26,187,305,938
+2019,Santa Barbara County,Guadalupe,0,3,10,32,34
+2019,Santa Barbara County,Lompoc,7,32,223,238,583
+2019,Santa Barbara County,Santa Barbara,2,82,244,254,1686
+2019,Santa Barbara County,Santa Maria,5,139,270,257,821
+2019,Santa Barbara County,Carpinteria,1,3,7,19,116
+2019,Santa Barbara County,Union Pacific RR - Santa Barbara,0,0,0,0,1
+2019,Santa Barbara County,Solvang,0,2,8,18,46
+2019,Santa Barbara County,Allen Hancock College,0,0,0,0,9
+2019,Santa Barbara County,Buelton,0,0,3,15,31
+2019,Santa Barbara County,Goleta,0,6,32,114,355
+2019,Santa Barbara County,UC Santa Barbara,0,2,22,17,320
+2019,Santa Barbara County,CA Highway Patrol - Santa Barbara,0,0,0,0,52
+2019,Santa Clara County,Santa Clara Co. Sheriff's Department,2,25,289,178,1154
+2019,Santa Clara County,Campbell,0,21,46,209,990
+2019,Santa Clara County,Cupertino,1,14,34,175,803
+2019,Santa Clara County,Gilroy,5,69,140,186,1034
+2019,Santa Clara County,Los Altos,0,4,14,107,181
+2019,Santa Clara County,Los Altos Hills,0,0,2,29,38
+2019,Santa Clara County,Los Gatos,0,6,6,57,332
+2019,Santa Clara County,Milpitas,2,48,37,201,1791
+2019,Santa Clara County,Monte Sereno,0,0,0,2,9
+2019,Santa Clara County,Morgan Hill,2,14,33,102,507
+2019,Santa Clara County,Mountain View,0,49,96,321,2030
+2019,Santa Clara County,Palo Alto,1,46,29,179,1722
+2019,Santa Clara County,San Jose,32,1339,2517,4114,14924
+2019,Santa Clara County,Santa Clara,0,73,106,363,4013
+2019,Santa Clara County,Saratoga,0,2,10,104,122
+2019,Santa Clara County,Sunnyvale,0,84,138,458,2598
+2019,Santa Clara County,CSU San Jose,0,4,11,22,255
+2019,Santa Clara County,San Jose Community College,0,0,0,8,18
+2019,Santa Clara County,West Valley College District,0,1,0,4,22
+2019,Santa Clara County,Foothill College,0,1,0,4,24
+2019,Santa Clara County,Union Pacific RR - Santa Clara,0,0,1,0,3
+2019,Santa Clara County,Santa Clara Transit District,0,36,53,4,97
+2019,Santa Clara County,CA Highway Patrol - Santa Clara,0,0,0,0,28
+2019,Santa Cruz County,Santa Cruz Co. Sheriff's Department,5,34,234,439,1174
+2019,Santa Cruz County,Capitola,0,6,21,53,454
+2019,Santa Cruz County,Santa Cruz,0,88,272,348,2363
+2019,Santa Cruz County,Watsonville,1,53,237,148,589
+2019,Santa Cruz County,Scotts Valley,0,1,10,31,102
+2019,Santa Cruz County,Union Pacific RR - Santa Cruz,0,0,0,0,0
+2019,Santa Cruz County,Santa Cruz Mtns. DPR,0,0,0,0,116
+2019,Santa Cruz County,UC Santa Cruz,0,0,7,20,162
+2019,Santa Cruz County,CA Highway Patrol - Santa Cruz,0,0,0,0,178
+2019,Shasta County,Shasta Co. Sheriff's Department,4,34,307,415,332
+2019,Shasta County,Anderson,1,12,43,63,208
+2019,Shasta County,Redding,1,31,125,150,580
+2019,Shasta County,Union Pacific RR - Shasta,0,0,0,1,4
+2019,Shasta County,Shasta Marshal's Office,0,0,2,0,0
+2019,Shasta County,CA Highway Patrol - Shasta,0,0,0,1,78
+2019,Sierra County,Sierra Co. Sheriff's Department,0,0,1,15,16
+2019,Sierra County,Union Pacific RR - Sierra,0,0,0,0,0
+2019,Sierra County,CA Highway Patrol - Sierra,0,0,0,0,0
+2019,Siskiyou County,Siskiyou Co. Sheriff's Department,5,2,61,69,69
+2019,Siskiyou County,Dorris,0,0,4,8,2
+2019,Siskiyou County,Dunsmuir,0,0,10,6,11
+2019,Siskiyou County,Etna,0,0,1,0,0
+2019,Siskiyou County,Fort Jones,0,0,1,12,21
+2019,Siskiyou County,Montague,0,0,7,15,13
+2019,Siskiyou County,Mount Shasta,1,2,9,5,24
+2019,Siskiyou County,Tulelake,0,0,2,1,3
+2019,Siskiyou County,Weed,0,4,27,8,38
+2019,Siskiyou County,Yreka,0,1,27,34,172
+2019,Siskiyou County,Lake Shastina,0,0,3,2,6
+2019,Siskiyou County,Union Pacific RR - Siskiyou,0,0,0,0,2
+2019,Siskiyou County,CA Highway Patrol - Siskiyou,0,0,1,1,21
+2019,Solano County,Solano Co. Sheriff's Department,1,18,77,110,192
+2019,Solano County,Benicia,0,13,2,72,250
+2019,Solano County,Dixon,0,14,36,35,284
+2019,Solano County,Fairfield,5,162,227,359,2780
+2019,Solano County,Rio Vista,0,3,6,31,87
+2019,Solano County,Suisun,0,35,68,69,479
+2019,Solano County,Vacaville,3,80,201,162,2120
+2019,Solano County,Vallejo,12,336,551,2888,1148
+2019,Solano County,Union Pacific RR - Solano,0,0,0,1,17
+2019,Solano County,CA Highway Patrol - Solano,0,0,0,0,12
+2019,Sonoma County,Sonoma Co. Sheriff's Department,1,36,415,350,733
+2019,Sonoma County,Cloverdale,0,0,15,25,87
+2019,Sonoma County,Cotati,1,5,28,15,68
+2019,Sonoma County,Healdsburg,1,3,12,17,142
+2019,Sonoma County,Rohnert Park,0,28,211,93,615
+2019,Sonoma County,Santa Rosa,3,126,582,486,2077
+2019,Sonoma County,Sebastopol,0,7,11,51,110
+2019,Sonoma County,Sonoma,0,1,31,21,95
+2019,Sonoma County,Petaluma,3,28,137,109,626
+2019,Sonoma County,CSU Sonoma,0,0,2,26,42
+2019,Sonoma County,Union Pacific RR - Sonoma,0,0,0,0,1
+2019,Sonoma County,Silverado DPR,0,0,0,0,0
+2019,Sonoma County,Sonoma Mendocino Coast DPR,0,1,0,2,17
+2019,Sonoma County,Sonoma Co. Junior College,0,0,1,2,53
+2019,Sonoma County,Windsor,0,8,42,30,212
+2019,Sonoma County,CA Highway Patrol - Sonoma,0,0,0,1,88
+2019,Stanislaus County,Stanislaus Co. Sheriff's Department,8,90,255,559,1000
+2019,Stanislaus County,Ceres,1,59,137,239,628
+2019,Stanislaus County,Modesto,13,399,1252,1149,4849
+2019,Stanislaus County,Newman,0,3,11,25,68
+2019,Stanislaus County,Oakdale,1,9,25,99,342
+2019,Stanislaus County,Patterson,0,14,26,81,249
+2019,Stanislaus County,Riverbank,1,7,13,49,273
+2019,Stanislaus County,Turlock,1,138,258,402,1483
+2019,Stanislaus County,Waterford,0,5,7,17,76
+2019,Stanislaus County,Hughson,0,0,5,8,29
+2019,Stanislaus County,CSU Stanislaus,0,0,0,0,38
+2019,Stanislaus County,Union Pacific RR - Stanislaus,0,0,0,0,4
+2019,Stanislaus County,CA Highway Patrol - Stanislaus,0,0,0,0,116
+2019,Sutter County,Sutter Co. Sheriff's Department,1,13,59,167,350
+2019,Sutter County,Yuba City,3,52,158,230,1334
+2019,Sutter County,Union Pacific RR - Sutter,0,0,0,1,0
+2019,Sutter County,CA Highway Patrol - Sutter,0,0,0,0,13
+2019,Tehama County,Tehama Co. Sheriff's Department,2,12,67,179,278
+2019,Tehama County,Corning,0,4,18,51,127
+2019,Tehama County,Red Bluff,1,14,92,205,467
+2019,Tehama County,Union Pacific RR - Tehama,0,0,0,0,4
+2019,Tehama County,CA Highway Patrol - Tehama,0,0,0,1,57
+2019,Trinity County,Trinity Co. Sheriff's Department,2,9,40,83,101
+2019,Trinity County,Union Pacific RR - Trinity,0,0,0,0,0
+2019,Trinity County,CA Highway Patrol - Trinity,0,0,0,0,21
+2019,Tulare County,Tulare Co. Sheriff's Department,9,64,231,637,1254
+2019,Tulare County,Dinuba,1,25,130,58,405
+2019,Tulare County,Exeter,0,5,16,52,188
+2019,Tulare County,Farmersville,0,5,30,24,138
+2019,Tulare County,Lindsay,0,13,51,48,119
+2019,Tulare County,Porterville,2,47,136,213,835
+2019,Tulare County,Tulare,4,69,161,225,951
+2019,Tulare County,Visalia,4,159,312,747,2627
+2019,Tulare County,Woodlake,0,2,22,14,61
+2019,Tulare County,Union Pacific RR - Tulare,0,0,0,1,1
+2019,Tulare County,College of the Sequoias,0,0,0,5,30
+2019,Tulare County,CA Highway Patrol - Tulare,0,0,0,1,146
+2019,Tuolumne County,Tuolumne Co. Sheriff's Department,2,7,98,306,355
+2019,Tuolumne County,Sonora,0,6,14,69,180
+2019,Tuolumne County,CA Highway Patrol - Tuolumne,0,0,0,0,63
+2019,Ventura County,Ventura Co. Sheriff's Department,5,25,111,112,363
+2019,Ventura County,Camarillo,0,16,20,100,676
+2019,Ventura County,Fillmore,0,3,12,24,89
+2019,Ventura County,Ojai,0,0,3,15,56
+2019,Ventura County,Oxnard,13,275,374,670,2987
+2019,Ventura County,Port Hueneme,0,14,24,63,305
+2019,Ventura County,Santa Paula,2,21,62,103,272
+2019,Ventura County,Thousand Oaks,0,23,38,244,1084
+2019,Ventura County,Ventura,3,106,293,353,2362
+2019,Ventura County,Simi Valley,1,35,95,208,889
+2019,Ventura County,Angeles DPR,0,0,1,0,22
+2019,Ventura County,Moorpark,0,7,12,34,183
+2019,Ventura County,Channel Coast DPR,0,0,0,5,59
+2019,Ventura County,Hungry Valley DPR,0,0,1,0,0
+2019,Ventura County,Union Pacific RR - Ventura,0,0,0,0,1
+2019,Ventura County,CSU Channel Islands,0,1,0,0,62
+2019,Ventura County,Ventura Community College,0,1,1,15,35
+2019,Ventura County,CA Highway Patrol - Ventura,0,0,0,0,9
+2019,Yolo County,Yolo Co. Sheriff's Department,0,6,55,79,204
+2019,Yolo County,Davis,2,44,40,274,1816
+2019,Yolo County,Winters,0,1,10,19,81
+2019,Yolo County,Woodland,3,44,159,231,1062
+2019,Yolo County,West Sacramento,1,79,98,236,1158
+2019,Yolo County,Union Pacific RR - Yolo,0,0,0,0,1
+2019,Yolo County,UC Davis,0,2,6,86,794
+2019,Yolo County,CA Highway Patrol - Yolo,0,0,0,0,16
+2019,Yuba County,Yuba Co. Sheriff's Department,5,37,141,316,520
+2019,Yuba County,Marysville,2,23,71,81,324
+2019,Yuba County,Wheatland,0,1,5,8,26
+2019,Yuba County,Union Pacific RR - Yuba,0,0,0,0,2
+2019,Yuba County,CA Highway Patrol - Yuba,0,0,0,0,92
+2020,Alameda County,Alameda Co. Sheriff's Department,5,162,506,369,1165
+2020,Alameda County,Alameda,2,111,68,196,1819
+2020,Alameda County,Albany,0,19,9,53,322
+2020,Alameda County,Berkeley,6,274,210,797,3933
+2020,Alameda County,Emeryville,0,65,38,161,1117
+2020,Alameda County,Fremont,2,131,246,864,3797
+2020,Alameda County,Hayward,13,253,205,622,2850
+2020,Alameda County,Livermore,1,47,78,164,1166
+2020,Alameda County,Newark,1,55,39,206,999
+2020,Alameda County,Oakland,102,2479,2710,2537,13373
+2020,Alameda County,Piedmont,0,7,9,65,235
+2020,Alameda County,Pleasanton,1,40,42,161,937
+2020,Alameda County,San Leandro,7,260,173,381,1981
+2020,Alameda County,Union City,0,65,145,234,1219
+2020,Alameda County,Alameda E. Bay Reg. Park Dist.,1,12,23,60,235
+2020,Alameda County,CSU East Bay,0,1,0,8,17
+2020,Alameda County,Union Pacific RR - Alameda,0,0,0,16,32
+2020,Alameda County,Alameda BART,0,126,54,9,577
+2020,Alameda County,Dublin,2,34,62,80,709
+2020,Alameda County,Diablo Range DPR,0,0,0,0,2
+2020,Alameda County,UC Berkeley,0,8,52,50,278
+2020,Alameda County,CA Highway Patrol - Alameda,0,0,0,1,40
+2020,Alpine County,Alpine Co. Sheriff's Department,0,0,19,4,9
+2020,Alpine County,CA Highway Patrol - Alpine,0,0,0,0,1
+2020,Amador County,Amador Co. Sheriff's Department,2,7,76,92,218
+2020,Amador County,Ione,0,1,10,10,32
+2020,Amador County,Jackson,0,4,33,27,102
+2020,Amador County,Sutter Creek,0,2,11,7,36
+2020,Amador County,Union Pacific RR - Amador,0,0,0,0,0
+2020,Amador County,CA Highway Patrol - Amador,0,0,0,0,13
+2020,Butte County,Butte Co. Sheriff's Department,5,27,265,422,674
+2020,Butte County,Biggs,0,0,0,3,8
+2020,Butte County,Chico,3,80,401,246,1551
+2020,Butte County,Gridley,1,1,17,18,119
+2020,Butte County,Oroville,3,34,85,105,313
+2020,Butte County,Paradise,0,1,14,35,39
+2020,Butte County,Union Pacific RR - Butte,0,0,0,1,4
+2020,Butte County,Northern Buttes DPR,0,0,0,0,4
+2020,Butte County,CSU Chico,0,0,3,6,58
+2020,Butte County,CA Highway Patrol - Butte,0,0,1,0,70
+2020,Calaveras County,Calaveras Co. Sheriff's Department,0,5,123,209,335
+2020,Calaveras County,Angels Camp,0,2,9,28,79
+2020,Calaveras County,Union Pacific RR - Calaveras,0,0,0,0,0
+2020,Calaveras County,Calaveras DPR,0,0,0,7,1
+2020,Calaveras County,CA Highway Patrol - Calaveras,0,0,0,0,35
+2020,Colusa County,Colusa Co. Sheriff's Department,0,3,18,55,108
+2020,Colusa County,Colusa,1,5,8,22,39
+2020,Colusa County,Williams,0,2,15,23,32
+2020,Colusa County,Union Pacific RR - Colusa,0,0,0,0,0
+2020,Colusa County,CA Highway Patrol - Colusa,0,0,0,0,7
+2020,Contra Costa County,Contra Costa Co. Sheriff's Department,4,82,198,304,827
+2020,Contra Costa County,Antioch,9,142,400,464,1682
+2020,Contra Costa County,Brentwood,1,47,91,187,977
+2020,Contra Costa County,Clayton,0,1,0,5,108
+2020,Contra Costa County,Concord,2,172,211,467,2621
+2020,Contra Costa County,El Cerrito,0,57,55,129,697
+2020,Contra Costa County,Hercules,0,12,16,36,163
+2020,Contra Costa County,Pinole,1,23,40,53,273
+2020,Contra Costa County,Pittsburg,4,108,296,284,871
+2020,Contra Costa County,Pleasant Hill,0,50,40,182,1014
+2020,Contra Costa County,Richmond,20,254,767,353,1815
+2020,Contra Costa County,San Pablo,2,76,81,98,450
+2020,Contra Costa County,Walnut Creek,0,27,61,264,1582
+2020,Contra Costa County,Kensington,0,0,3,10,66
+2020,Contra Costa County,Martinez,1,24,39,88,338
+2020,Contra Costa County,Lafayette,0,10,4,32,199
+2020,Contra Costa County,Moraga,0,1,13,20,110
+2020,Contra Costa County,Contra Costa BART,0,23,17,1,202
+2020,Contra Costa County,Contra Costa Community College,0,0,0,15,42
+2020,Contra Costa County,Danville,0,8,10,48,182
+2020,Contra Costa County,San Ramon,0,22,21,104,636
+2020,Contra Costa County,Orinda,0,5,1,44,76
+2020,Contra Costa County,Union Pacific RR - Contra Costa,0,0,0,0,0
+2020,Contra Costa County,Oakley,0,14,21,73,306
+2020,Contra Costa County,CA Highway Patrol - Contra Costa,0,0,0,0,53
+2020,Del Norte County,Del Norte Co. Sheriff's Department,2,15,60,95,212
+2020,Del Norte County,Crescent City,0,21,46,80,185
+2020,Del Norte County,CA Highway Patrol - Del Norte,0,0,1,0,23
+2020,El Dorado County,El Dorado Co. Sheriff's Department,0,30,144,361,1353
+2020,El Dorado County,Placerville,0,6,32,58,161
+2020,El Dorado County,South Lake Tahoe,0,20,73,81,312
+2020,El Dorado County,Union Pacific RR - El Dorado,0,0,0,0,0
+2020,El Dorado County,CA Highway Patrol - El Dorado,0,0,1,2,100
+2020,Fresno County,Fresno Co. Sheriff's Department,10,135,936,1067,1374
+2020,Fresno County,Clovis,1,39,160,306,1826
+2020,Fresno County,Coalinga,1,6,49,22,122
+2020,Fresno County,Firebaugh,0,2,19,25,48
+2020,Fresno County,Fowler,0,3,27,34,48
+2020,Fresno County,Fresno,77,889,2446,3036,10789
+2020,Fresno County,Huron,0,12,71,18,37
+2020,Fresno County,Kerman,0,7,16,32,215
+2020,Fresno County,Kingsburg,0,3,13,45,101
+2020,Fresno County,Mendota,0,9,61,68,80
+2020,Fresno County,Orange Cove,0,4,35,10,29
+2020,Fresno County,Parlier,2,10,44,23,83
+2020,Fresno County,Reedley,0,11,105,60,122
+2020,Fresno County,Sanger,2,18,81,54,241
+2020,Fresno County,Selma,1,17,88,115,318
+2020,Fresno County,State Center Community College,0,0,0,10,46
+2020,Fresno County,Union Pacific RR - Fresno,0,0,0,0,10
+2020,Fresno County,San Joaquin DPR,0,0,4,0,0
+2020,Fresno County,Clovis Unified School,0,0,1,0,5
+2020,Fresno County,CSU Fresno,0,1,0,22,78
+2020,Fresno County,CA Highway Patrol - Fresno,0,0,0,0,30
+2020,Fresno County,Coalinga State Hospital,0,0,222,0,2
+2020,Glenn County,Glenn Co. Sheriff's Department,2,5,107,85,170
+2020,Glenn County,Orland,0,2,18,29,66
+2020,Glenn County,Union Pacific RR - Glenn,0,0,0,0,0
+2020,Glenn County,CA Highway Patrol - Glenn,0,1,1,0,11
+2020,Humboldt County,Humboldt Co. Sheriff's Department,5,33,227,364,577
+2020,Humboldt County,Arcata,2,27,42,125,439
+2020,Humboldt County,Eureka,2,63,94,181,690
+2020,Humboldt County,Ferndale,0,0,3,6,9
+2020,Humboldt County,Fortuna,0,4,48,87,230
+2020,Humboldt County,Rio Dell,0,2,8,15,40
+2020,Humboldt County,CSU Humboldt (Arcata),0,0,0,14,39
+2020,Humboldt County,Union Pacific RR - Humboldt,0,0,1,6,13
+2020,Humboldt County,Northern Coast Redwoods DPR,0,0,3,1,58
+2020,Humboldt County,CA Highway Patrol - Humboldt,0,0,5,3,88
+2020,Imperial County,Imperial Co. Sheriff's Department,1,9,174,239,372
+2020,Imperial County,Brawley,4,19,93,93,474
+2020,Imperial County,Calexico,0,16,53,261,443
+2020,Imperial County,El Centro,1,30,117,213,679
+2020,Imperial County,Holtville,0,3,6,21,48
+2020,Imperial County,Imperial,0,2,7,14,29
+2020,Imperial County,Westmorland,1,1,12,9,31
+2020,Imperial County,Union Pacific RR - Imperial,0,0,0,1,0
+2020,Imperial County,CA Highway Patrol - Imperial,0,0,1,0,9
+2020,Inyo County,Inyo Co. Sheriff's Department,1,8,85,67,97
+2020,Inyo County,Bishop,0,10,14,25,98
+2020,Inyo County,Union Pacific RR - Inyo,0,0,0,0,0
+2020,Inyo County,CA Highway Patrol - Inyo,0,0,0,0,4
+2020,Kern County,Kern Co. Sheriff's Department,59,454,2713,2445,3599
+2020,Kern County,Arvin,2,20,144,90,159
+2020,Kern County,Bakersfield,44,604,1253,3134,8656
+2020,Kern County,Delano,7,38,115,153,451
+2020,Kern County,McFarland,2,4,45,42,69
+2020,Kern County,Ridgecrest,1,19,118,75,200
+2020,Kern County,Shafter,0,16,29,129,231
+2020,Kern County,Taft,0,5,41,46,146
+2020,Kern County,Tehachapi,0,16,30,89,206
+2020,Kern County,California City,0,9,72,87,100
+2020,Kern County,Stallion Springs,0,1,1,5,5
+2020,Kern County,Bear Valley,0,0,6,3,16
+2020,Kern County,Kern High School District,0,4,11,34,58
+2020,Kern County,Union Pacific RR - Kern,0,0,1,23,34
+2020,Kern County,CSU Bakersfield,0,0,0,3,24
+2020,Kern County,CA Highway Patrol - Kern,1,0,0,0,41
+2020,Kings County,Kings Co. Sheriff's Department,2,18,68,119,242
+2020,Kings County,Corcoran,2,12,87,82,199
+2020,Kings County,Hanford,5,45,254,155,755
+2020,Kings County,Lemoore,1,12,76,61,253
+2020,Kings County,Union Pacific RR - Kings,0,0,0,0,0
+2020,Kings County,Porterville Developmental Center,0,0,30,2,4
+2020,Kings County,Avenal,1,4,97,32,45
+2020,Kings County,CA Highway Patrol - Kings,0,0,0,0,0
+2020,Lake County,Lake Co. Sheriff's Department,1,11,171,237,224
+2020,Lake County,Lakeport,0,4,18,31,63
+2020,Lake County,Clearlake,0,31,83,97,179
+2020,Lake County,CA Highway Patrol - Lake,0,0,2,1,51
+2020,Lassen County,Lassen Co. Sheriff's Department,0,7,60,55,48
+2020,Lassen County,Susanville,0,7,132,45,154
+2020,Lassen County,Union Pacific RR - Lassen,0,0,0,0,1
+2020,Lassen County,CA Highway Patrol - Lassen,0,0,0,0,6
+2020,Los Angeles County,Los Angeles Co. Sheriff's Department,96,1256,3983,2381,8323
+2020,Los Angeles County,Alhambra,3,67,94,235,1077
+2020,Los Angeles County,Arcadia,2,20,59,265,696
+2020,Los Angeles County,Artesia,4,15,27,90,165
+2020,Los Angeles County,Avalon,0,0,5,7,37
+2020,Los Angeles County,Azusa,0,52,96,157,610
+2020,Los Angeles County,Baldwin Park,2,36,115,161,425
+2020,Los Angeles County,Bell,2,34,134,147,238
+2020,Los Angeles County,Bellflower,3,113,205,248,1033
+2020,Los Angeles County,Bell Gardens,2,63,77,74,279
+2020,Los Angeles County,El Camino College,0,1,0,0,12
+2020,Los Angeles County,La Habra Heights,0,0,2,17,30
+2020,Los Angeles County,Union Pacific RR - Los Angeles,0,0,3,1670,606
+2020,Los Angeles County,Metropolitan Trans. Authority (MTA),0,2,4,2,9
+2020,Los Angeles County,Pasadena Community College,0,0,1,1,11
+2020,Los Angeles County,Westlake Village,0,3,5,19,99
+2020,Los Angeles County,Beverly Hills,0,48,57,263,892
+2020,Los Angeles County,Bradbury,0,0,0,3,3
+2020,Los Angeles County,Burbank,1,48,113,293,1880
+2020,Los Angeles County,Claremont,1,22,18,214,410
+2020,Los Angeles County,Commerce,3,43,86,156,555
+2020,Los Angeles County,Compton,18,284,774,222,1189
+2020,Los Angeles County,Covina,1,42,91,235,710
+2020,Los Angeles County,Cudahy,1,23,64,53,130
+2020,Los Angeles County,Culver City,0,68,123,332,1102
+2020,Los Angeles County,Cerritos,0,39,47,246,970
+2020,Los Angeles County,Agoura Hills,2,7,14,42,167
+2020,Los Angeles County,West Hollywood,0,82,94,281,822
+2020,Los Angeles County,Baldwin Park School,0,0,0,11,13
+2020,Los Angeles County,Santa Clarita,2,71,176,359,1366
+2020,Los Angeles County,Diamond Bar,0,17,38,236,472
+2020,Los Angeles County,Downey,2,107,169,244,1215
+2020,Los Angeles County,Duarte,0,10,37,44,247
+2020,Los Angeles County,El Monte,9,122,177,340,980
+2020,Los Angeles County,El Segundo,0,31,72,172,446
+2020,Los Angeles County,Gardena,5,104,142,168,686
+2020,Los Angeles County,Glendale,3,87,102,407,2357
+2020,Los Angeles County,Glendora,0,20,66,171,927
+2020,Los Angeles County,Hawaiian Gardens,1,15,30,65,92
+2020,Los Angeles County,Hawthorne,5,165,480,281,837
+2020,Los Angeles County,Hermosa Beach,0,12,30,123,298
+2020,Los Angeles County,Calabasas,0,14,19,36,184
+2020,Los Angeles County,Malibu,0,7,24,67,271
+2020,Los Angeles County,Los Angeles Transit Serv. Bureau,0,89,100,6,110
+2020,Los Angeles County,Hidden Hills,0,0,1,6,6
+2020,Los Angeles County,Huntington Park,3,209,184,321,751
+2020,Los Angeles County,Industry,0,28,27,143,517
+2020,Los Angeles County,Inglewood,14,264,358,337,1269
+2020,Los Angeles County,Irwindale,0,3,12,52,104
+2020,Los Angeles County,Lakewood,1,86,133,238,1202
+2020,Los Angeles County,La Mirada,0,26,60,105,446
+2020,Los Angeles County,La Puente,1,38,73,82,183
+2020,Los Angeles County,La Verne,0,11,25,94,485
+2020,Los Angeles County,Lawndale,1,50,97,59,244
+2020,Los Angeles County,Lomita,4,14,59,61,209
+2020,Los Angeles County,Long Beach,36,721,1344,2554,7373
+2020,Los Angeles County,Los Angeles,351,8013,18535,13773,50990
+2020,Los Angeles County,Lynwood,4,157,263,102,740
+2020,Los Angeles County,Manhattan Beach,0,25,17,120,573
+2020,Los Angeles County,Maywood,3,40,69,81,181
+2020,Los Angeles County,Monrovia,2,25,38,95,696
+2020,Los Angeles County,Montebello,2,59,107,183,424
+2020,Los Angeles County,Monterey Park,2,51,49,212,781
+2020,Los Angeles County,Norwalk,4,129,282,223,1132
+2020,Los Angeles County,Palmdale,10,153,530,427,1164
+2020,Los Angeles County,Palos Verdes Estates,0,1,3,22,58
+2020,Los Angeles County,Paramount,2,103,141,172,745
+2020,Los Angeles County,Pasadena,7,118,238,654,2015
+2020,Los Angeles County,Pico Rivera,3,56,97,180,657
+2020,Los Angeles County,Pomona,13,271,401,659,3015
+2020,Los Angeles County,Redondo Beach,0,54,100,311,915
+2020,Los Angeles County,Rolling Hills,0,0,0,3,3
+2020,Los Angeles County,Rolling Hills Estates,0,3,6,27,86
+2020,Los Angeles County,Rosemead,1,70,108,158,531
+2020,Los Angeles County,San Dimas,1,25,49,104,568
+2020,Los Angeles County,San Fernando,1,27,57,49,117
+2020,Los Angeles County,San Gabriel,0,22,45,114,355
+2020,Los Angeles County,San Marino,0,2,9,63,166
+2020,Los Angeles County,Santa Fe Springs,2,31,56,195,635
+2020,Los Angeles County,Santa Monica,1,167,335,931,2530
+2020,Los Angeles County,Sierra Madre,0,3,11,15,62
+2020,Los Angeles County,Signal Hill,0,24,65,103,502
+2020,Los Angeles County,South El Monte,0,29,80,166,278
+2020,Los Angeles County,South Gate,3,174,441,314,1762
+2020,Los Angeles County,South Pasadena,0,17,5,109,430
+2020,Los Angeles County,Temple City,1,13,32,68,216
+2020,Los Angeles County,Torrance,3,105,122,378,2060
+2020,Los Angeles County,Vernon,0,28,17,186,466
+2020,Los Angeles County,Walnut,1,11,25,108,193
+2020,Los Angeles County,West Covina,1,72,109,346,1505
+2020,Los Angeles County,Whittier,6,80,131,257,1065
+2020,Los Angeles County,Carson,8,98,265,253,1262
+2020,Los Angeles County,Cal Poly - Pomona,0,0,1,18,54
+2020,Los Angeles County,Rancho Palos Verdes,0,6,33,71,238
+2020,Los Angeles County,CSU Dominguez Hills,0,0,1,13,12
+2020,Los Angeles County,CSU Long Beach,0,3,0,14,50
+2020,Los Angeles County,CSU Los Angeles,0,1,0,2,40
+2020,Los Angeles County,CSU Northridge,0,0,2,5,58
+2020,Los Angeles County,La Canada-Flintridge,0,4,7,72,170
+2020,Los Angeles County,Lancaster,16,257,841,624,1307
+2020,Los Angeles County,UC Los Angeles,0,4,18,142,383
+2020,Los Angeles County,CA Highway Patrol - Los Angeles,1,1,57,5,137
+2020,Los Angeles County,Metropolitan State Hospital,0,0,822,2,1
+2020,Madera County,Madera Co. Sheriff's Department,4,30,175,118,528
+2020,Madera County,Chowchilla,1,6,26,35,79
+2020,Madera County,Madera,4,69,202,200,691
+2020,Madera County,Union Pacific RR - Madera,0,0,0,0,1
+2020,Madera County,CA Highway Patrol - Madera,0,0,0,0,30
+2020,Marin County,Marin Co. Sheriff's Department,1,13,69,151,656
+2020,Marin County,Belvedere,0,0,0,2,20
+2020,Marin County,Fairfax,0,0,7,14,79
+2020,Marin County,Mill Valley,0,1,5,58,239
+2020,Marin County,Novato,0,24,205,80,636
+2020,Marin County,Ross,0,0,1,2,29
+2020,Marin County,San Rafael,0,67,136,260,1152
+2020,Marin County,Sausalito,0,1,3,22,194
+2020,Marin County,Tiburon,0,1,3,12,75
+2020,Marin County,Union Pacific RR - Marin,0,0,0,0,0
+2020,Marin County,Marin Community College,0,0,0,1,8
+2020,Marin County,Central Marin,0,16,18,196,492
+2020,Marin County,CA Highway Patrol - Marin,0,0,0,0,108
+2020,Mariposa County,Mariposa Co. Sheriff's Department,0,1,48,54,125
+2020,Mariposa County,CA Highway Patrol - Mariposa,0,0,0,0,7
+2020,Mendocino County,Mendocino Co. Sheriff's Department,6,12,147,187,474
+2020,Mendocino County,Fort Bragg,0,4,16,42,224
+2020,Mendocino County,Ukiah,0,12,107,90,132
+2020,Mendocino County,Willits,0,4,35,29,46
+2020,Mendocino County,Union Pacific RR - Mendocino,0,0,0,0,0
+2020,Mendocino County,CA Highway Patrol - Mendocino,0,0,0,0,25
+2020,Merced County,Merced Co. Sheriff's Department,3,30,415,360,797
+2020,Merced County,Atwater,4,29,117,134,570
+2020,Merced County,Dos Palos,0,5,65,37,40
+2020,Merced County,Gustine,0,2,5,19,57
+2020,Merced County,Livingston,1,17,45,60,152
+2020,Merced County,Los Banos,9,35,160,280,494
+2020,Merced County,Merced,7,133,492,390,1132
+2020,Merced County,Union Pacific RR - Merced,0,0,0,0,0
+2020,Merced County,Four Rivers DPR,0,1,1,0,2
+2020,Merced County,UC Merced,0,0,0,5,5
+2020,Merced County,CA Highway Patrol - Merced,0,0,0,0,71
+2020,Modoc County,Modoc Co. Sheriff's Department,1,1,21,10,19
+2020,Modoc County,Alturas,0,1,9,15,23
+2020,Modoc County,Union Pacific RR - Modoc,0,0,0,0,0
+2020,Modoc County,CA Highway Patrol - Modoc,0,0,0,0,3
+2020,Mono County,Mono Co. Sheriff's Department,2,2,14,26,31
+2020,Mono County,Mammoth Lakes,0,4,13,27,61
+2020,Mono County,CA Highway Patrol - Mono,0,0,0,1,5
+2020,Monterey County,Monterey Co. Sheriff's Department,3,25,163,242,803
+2020,Monterey County,Carmel,0,5,7,20,73
+2020,Monterey County,Del Rey Oaks,0,1,1,5,40
+2020,Monterey County,Gonzales,0,2,6,9,39
+2020,Monterey County,Greenfield,3,13,25,15,84
+2020,Monterey County,King City,0,2,16,63,117
+2020,Monterey County,Monterey,0,22,59,130,706
+2020,Monterey County,Pacific Grove,0,3,13,24,191
+2020,Monterey County,Salinas,8,233,556,790,1779
+2020,Monterey County,Sand City,0,3,3,8,67
+2020,Monterey County,Seaside,0,17,42,49,392
+2020,Monterey County,Soledad,0,7,30,28,70
+2020,Monterey County,Marina,0,9,24,49,231
+2020,Monterey County,Monterey Airport,0,0,0,0,1
+2020,Monterey County,Union Pacific RR - Monterey,0,0,0,0,0
+2020,Monterey County,Monterey DPR,0,0,0,13,37
+2020,Monterey County,CSU Monterey Bay,0,0,3,16,21
+2020,Monterey County,CA Highway Patrol - Monterey,0,0,1,2,85
+2020,Napa County,Napa Co. Sheriff's Department,0,4,42,147,175
+2020,Napa County,Calistoga,0,1,8,15,64
+2020,Napa County,Napa,0,36,187,272,883
+2020,Napa County,St. Helena,0,1,7,24,62
+2020,Napa County,Union Pacific RR - Napa,0,0,0,0,0
+2020,Napa County,Napa State Hospital,0,0,113,1,1
+2020,Napa County,American Canyon,1,16,57,60,281
+2020,Napa County,Yountville,0,1,0,3,28
+2020,Napa County,CA Highway Patrol - Napa,0,0,0,0,17
+2020,Nevada County,Nevada Co. Sheriff's Department,4,10,89,146,189
+2020,Nevada County,Grass Valley,1,17,51,63,254
+2020,Nevada County,Nevada City,0,2,15,18,49
+2020,Nevada County,Union Pacific RR - Nevada,0,0,0,0,0
+2020,Nevada County,Truckee,0,1,18,30,67
+2020,Nevada County,CA Highway Patrol - Nevada,0,0,0,0,28
+2020,Orange County,Orange Co. Sheriff's Department,1,27,202,106,682
+2020,Orange County,Anaheim,16,412,680,1229,5897
+2020,Orange County,Brea,0,22,31,121,959
+2020,Orange County,Buena Park,1,64,102,217,1531
+2020,Orange County,Costa Mesa,2,116,306,513,2699
+2020,Orange County,Cypress,0,23,30,133,515
+2020,Orange County,La Palma,0,10,15,51,226
+2020,Orange County,Fountain Valley,0,23,38,199,998
+2020,Orange County,Fullerton,2,121,241,512,2407
+2020,Orange County,Garden Grove,2,152,314,645,2603
+2020,Orange County,Huntington Beach,3,107,313,480,3007
+2020,Orange County,Laguna Beach,1,17,67,61,292
+2020,Orange County,La Habra,1,42,105,161,788
+2020,Orange County,Los Alamitos,0,3,5,56,125
+2020,Orange County,Newport Beach,1,43,68,321,1312
+2020,Orange County,Orange,4,54,108,504,1468
+2020,Orange County,Placentia,2,45,178,305,531
+2020,Orange County,San Clemente,1,30,58,114,655
+2020,Orange County,San Juan Capistrano,1,17,38,77,183
+2020,Orange County,Santa Ana,15,401,868,1136,4078
+2020,Orange County,Seal Beach,0,8,12,60,459
+2020,Orange County,Stanton,0,57,65,121,520
+2020,Orange County,Tustin,0,76,59,283,1586
+2020,Orange County,Villa Park,0,0,0,15,32
+2020,Orange County,Westminster,0,114,121,480,1727
+2020,Orange County,Yorba Linda,0,7,22,94,425
+2020,Orange County,Irvine,1,49,66,828,3336
+2020,Orange County,CSU Fullerton,0,0,2,11,50
+2020,Orange County,Union Pacific RR - Orange,0,0,0,0,3
+2020,Orange County,Orange Coast DPR,0,0,0,41,36
+2020,Orange County,Fairview Developmental Center,0,0,0,0,0
+2020,Orange County,Mission Viejo,0,20,46,112,659
+2020,Orange County,Dana Point,0,8,18,33,383
+2020,Orange County,Laguna Niguel,1,10,25,73,454
+2020,Orange County,Laguna Hills,0,16,35,73,289
+2020,Orange County,Lake Forest,3,26,57,124,626
+2020,Orange County,Laguna Woods,0,4,9,16,107
+2020,Orange County,Rancho Santa Margarita,0,3,15,35,233
+2020,Orange County,Aliso Viejo,1,3,23,56,285
+2020,Orange County,Irvine Valley College,0,0,0,1,0
+2020,Orange County,UC Irvine,0,3,22,27,404
+2020,Orange County,CA Highway Patrol - Orange,0,1,6,3,29
+2020,Placer County,Placer Co. Sheriff's Department,2,24,175,247,674
+2020,Placer County,Auburn,0,4,20,29,133
+2020,Placer County,Lincoln,0,10,18,72,438
+2020,Placer County,Rocklin,1,15,31,176,851
+2020,Placer County,Roseville,4,87,168,318,2245
+2020,Placer County,Sierra DPR,0,0,0,0,0
+2020,Placer County,Union Pacific RR - Placer,0,0,0,0,6
+2020,Placer County,CA Highway Patrol - Placer,0,0,1,1,32
+2020,Plumas County,Plumas Co. Sheriff's Department,1,0,140,92,186
+2020,Plumas County,Union Pacific RR - Plumas,0,0,0,0,0
+2020,Plumas County,CA Highway Patrol - Plumas,0,0,0,0,3
+2020,Riverside County,Riverside Co. Sheriff's Department,43,149,740,1242,3969
+2020,Riverside County,Banning,4,20,93,150,213
+2020,Riverside County,Beaumont,3,20,82,124,575
+2020,Riverside County,Blythe,0,28,85,166,337
+2020,Riverside County,Coachella,2,39,92,58,498
+2020,Riverside County,Desert Hot Springs,4,39,162,143,135
+2020,Riverside County,Hemet,14,121,191,398,1062
+2020,Riverside County,Indio,7,97,393,281,739
+2020,Riverside County,Norco,0,15,24,117,381
+2020,Riverside County,Palm Springs,5,59,166,370,1050
+2020,Riverside County,Perris,7,77,213,245,1030
+2020,Riverside County,Riverside,20,394,925,1639,6456
+2020,Riverside County,San Jacinto,3,45,44,278,868
+2020,Riverside County,Corona,1,86,117,677,2160
+2020,Riverside County,Indian Wells,1,1,11,25,76
+2020,Riverside County,Rancho Mirage,1,7,31,147,408
+2020,Riverside County,Palm Desert,0,28,92,278,1105
+2020,Riverside County,Union Pacific RR - Riverside,0,0,1,20,10
+2020,Riverside County,Inland Empire DPR,0,0,1,0,0
+2020,Riverside County,Cathedral City,5,32,78,136,325
+2020,Riverside County,Lake Elsinore,2,56,133,194,1128
+2020,Riverside County,La Quinta,0,10,35,119,660
+2020,Riverside County,Moreno Valley,17,245,543,734,3230
+2020,Riverside County,Temecula,0,67,69,368,1537
+2020,Riverside County,Calimesa,0,7,14,78,241
+2020,Riverside County,Canyon Lake,0,0,11,7,58
+2020,Riverside County,Murrieta,0,29,44,181,774
+2020,Riverside County,Riverside Community College,0,0,0,16,11
+2020,Riverside County,Wildomar,0,11,41,53,273
+2020,Riverside County,Menifee,7,36,85,308,1028
+2020,Riverside County,Eastvale,1,21,58,126,557
+2020,Riverside County,UC Riverside,0,0,2,46,159
+2020,Riverside County,CA Highway Patrol - Riverside,4,0,12,0,11
+2020,Riverside County,Jurupa Valley,3,66,209,320,1353
+2020,Riverside County,Mount San Jacinto Community College,0,0,0,2,6
+2020,Sacramento County,Sacramento Co. Sheriff's Department,48,560,1785,2228,5349
+2020,Sacramento County,Folsom,0,21,49,223,911
+2020,Sacramento County,Galt,0,9,43,64,327
+2020,Sacramento County,Isleton,0,0,4,6,5
+2020,Sacramento County,Sacramento,42,879,2501,2834,8903
+2020,Sacramento County,CSU Sacramento,0,1,3,14,62
+2020,Sacramento County,Elk Grove,1,92,255,322,1893
+2020,Sacramento County,Gold Fields DPR,0,1,1,0,54
+2020,Sacramento County,Twin Rivers Unified School,0,3,3,86,18
+2020,Sacramento County,CA State Fair,0,0,1,6,15
+2020,Sacramento County,Capital DPR,0,0,0,7,3
+2020,Sacramento County,Union Pacific RR - Sacramento,0,0,0,4,12
+2020,Sacramento County,Rancho Cordova,6,73,230,302,1107
+2020,Sacramento County,Citrus Heights,3,72,180,341,1511
+2020,Sacramento County,UC Med Center Sacramento,0,0,3,2,93
+2020,Sacramento County,CA Highway Patrol - Sacramento,0,0,13,1,1082
+2020,San Benito County,San Benito Co. Sheriff's Department,1,2,25,41,100
+2020,San Benito County,Hollister,2,17,97,64,233
+2020,San Benito County,Union Pacific RR - San Benito,0,0,0,0,0
+2020,San Benito County,CA Highway Patrol - San Benito,0,0,0,0,3
+2020,San Bernardino County,San Bernardino Co. Sheriff's Department,23,133,1599,902,1421
+2020,San Bernardino County,Barstow,3,69,192,347,395
+2020,San Bernardino County,Chino,3,77,224,274,1493
+2020,San Bernardino County,Colton,6,95,80,234,825
+2020,San Bernardino County,Fontana,7,162,423,475,1256
+2020,San Bernardino County,Montclair,4,78,136,409,757
+2020,San Bernardino County,Needles,0,8,68,22,71
+2020,San Bernardino County,Ontario,10,195,398,641,2296
+2020,San Bernardino County,Redlands,6,69,112,323,1289
+2020,San Bernardino County,Rialto,7,145,304,357,1710
+2020,San Bernardino County,San Bernardino,68,730,2101,1201,3149
+2020,San Bernardino County,Upland,1,109,237,363,1118
+2020,San Bernardino County,Victorville,19,200,810,475,889
+2020,San Bernardino County,Adelanto,4,38,220,82,138
+2020,San Bernardino County,CSU San Bernardino,0,0,2,4,26
+2020,San Bernardino County,Rancho Cucamonga,2,78,426,573,2339
+2020,San Bernardino County,Big Bear,1,3,52,20,66
+2020,San Bernardino County,Grand Terrace,0,1,32,43,121
+2020,San Bernardino County,Loma Linda,0,20,58,106,332
+2020,San Bernardino County,San Bernardino Unified School,0,10,2,68,67
+2020,San Bernardino County,Chaffey College,0,0,0,8,1
+2020,San Bernardino County,Highland,2,67,303,126,363
+2020,San Bernardino County,Twentynine Palms,0,7,126,94,106
+2020,San Bernardino County,Hesperia,7,76,447,286,600
+2020,San Bernardino County,Apple Valley,4,44,359,196,502
+2020,San Bernardino County,Yucaipa,2,21,113,122,346
+2020,San Bernardino County,San Bernardino College,0,0,0,2,19
+2020,San Bernardino County,Chino Hills,0,23,83,184,557
+2020,San Bernardino County,Yucca Valley,2,16,134,76,168
+2020,San Bernardino County,Fontana Unified School,0,2,2,25,26
+2020,San Bernardino County,Union Pacific RR - San Bernardino,0,0,2,51,32
+2020,San Bernardino County,Patton State Hospital,0,0,263,0,0
+2020,San Bernardino County,Tehachapi DPR,0,0,0,2,0
+2020,San Bernardino County,CA Highway Patrol - San Bernardino,0,0,37,3,44
+2020,San Diego County,San Diego Co. Sheriff's Department,19,182,1134,742,2318
+2020,San Diego County,Carlsbad,3,35,162,256,1428
+2020,San Diego County,Chula Vista,10,302,541,476,2021
+2020,San Diego County,Coronado,0,6,8,32,203
+2020,San Diego County,Del Mar,0,0,5,21,40
+2020,San Diego County,El Cajon,5,113,361,288,1203
+2020,San Diego County,Escondido,5,118,395,400,1865
+2020,San Diego County,Imperial Beach,1,21,65,33,172
+2020,San Diego County,La Mesa,2,58,105,233,649
+2020,San Diego County,National City,4,99,229,139,760
+2020,San Diego County,Oceanside,4,139,501,425,2336
+2020,San Diego County,San Diego,56,1207,3555,3324,16044
+2020,San Diego County,San Marcos,0,40,141,164,646
+2020,San Diego County,Vista,2,76,238,193,740
+2020,San Diego County,CSU San Diego,0,3,4,70,140
+2020,San Diego County,San Diego Harbor,0,15,57,78,368
+2020,San Diego County,Colorado DPR,0,0,0,1,1
+2020,San Diego County,Ocotillo Wells DPR,0,0,0,0,0
+2020,San Diego County,San Diego Coast DPR,0,0,8,7,89
+2020,San Diego County,CSU San Marcos,0,0,0,4,12
+2020,San Diego County,UC San Diego,0,2,7,35,365
+2020,San Diego County,CA Highway Patrol - San Diego,0,0,26,1,31
+2020,San Diego County,Lemon Grove,2,43,94,51,280
+2020,San Diego County,Santee,1,24,132,57,337
+2020,San Diego County,Poway,0,16,33,84,245
+2020,San Diego County,Encinitas,0,24,99,143,477
+2020,San Diego County,Solana Beach,0,4,9,44,93
+2020,San Francisco County,San Francisco,48,2388,2162,7452,25319
+2020,San Francisco County,CSU San Francisco,0,1,0,25,58
+2020,San Francisco County,San Francisco BART,0,101,13,1,184
+2020,San Francisco County,Union Pacific RR - San Francisco,0,0,0,0,0
+2020,San Francisco County,UC San Francisco,1,0,6,35,336
+2020,San Francisco County,CA Highway Patrol - San Francisco,0,0,0,0,4
+2020,San Joaquin County,San Joaquin Co. Sheriff's Department,16,150,638,600,1880
+2020,San Joaquin County,Escalon,0,3,18,32,88
+2020,San Joaquin County,Lodi,4,83,126,204,823
+2020,San Joaquin County,Manteca,3,68,130,180,1002
+2020,San Joaquin County,Ripon,0,2,4,21,162
+2020,San Joaquin County,Stockton,56,909,2869,1533,6362
+2020,San Joaquin County,Tracy,5,57,89,205,1179
+2020,San Joaquin County,Stockton Unified School,0,9,14,25,55
+2020,San Joaquin County,Union Pacific RR - San Joaquin,0,0,0,17,403
+2020,San Joaquin County,CA Highway Patrol - San Joaquin,0,0,0,0,137
+2020,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,1,12,219,314,718
+2020,San Luis Obispo County,Arroyo Grande,0,6,17,44,174
+2020,San Luis Obispo County,Grover Beach,1,4,16,35,143
+2020,San Luis Obispo County,Morro Bay,1,3,41,32,120
+2020,San Luis Obispo County,Paso Robles,3,8,40,35,295
+2020,San Luis Obispo County,Pismo Beach,0,6,46,37,251
+2020,San Luis Obispo County,San Luis Obispo,1,28,139,284,1219
+2020,San Luis Obispo County,Cal Poly San Luis Obispo,0,0,3,12,83
+2020,San Luis Obispo County,Atascadero,0,12,62,70,293
+2020,San Luis Obispo County,San Luis Obispo Coast DPR,0,0,0,0,17
+2020,San Luis Obispo County,Oceano Dunes DPR,0,0,1,0,40
+2020,San Luis Obispo County,Atascadero State Hospital,0,0,53,0,0
+2020,San Luis Obispo County,Union Pacific RR - San Luis Obispo,0,0,0,0,0
+2020,San Luis Obispo County,Cuesta College,0,0,0,5,1
+2020,San Luis Obispo County,CA Highway Patrol - San Luis Obispo,0,0,0,0,27
+2020,San Mateo County,San Mateo Co. Sheriff's Department,2,74,158,334,2172
+2020,San Mateo County,Atherton,0,2,10,39,99
+2020,San Mateo County,Belmont,0,7,34,53,335
+2020,San Mateo County,Brisbane,1,2,7,26,50
+2020,San Mateo County,Burlingame,0,21,41,131,890
+2020,San Mateo County,Colma,1,13,9,48,155
+2020,San Mateo County,Daly City,0,77,84,143,1046
+2020,San Mateo County,Hillsborough,0,1,5,37,57
+2020,San Mateo County,Menlo Park,0,25,21,127,595
+2020,San Mateo County,Pacifica,0,10,59,78,581
+2020,San Mateo County,Redwood City,1,58,90,240,970
+2020,San Mateo County,San Bruno,0,28,59,86,708
+2020,San Mateo County,San Mateo,4,71,158,523,1493
+2020,San Mateo County,South San Francisco,1,58,81,157,1155
+2020,San Mateo County,Broadmoor,0,4,15,14,34
+2020,San Mateo County,Foster City,0,8,24,41,409
+2020,San Mateo County,San Mateo BART,0,6,4,1,75
+2020,San Mateo County,Union Pacific RR - San Mateo,0,0,0,0,1
+2020,San Mateo County,East Palo Alto,6,55,76,76,405
+2020,San Mateo County,CA Highway Patrol - San Mateo,0,0,0,1,20
+2020,Santa Barbara County,Santa Barbara Co. Sheriff's Department,0,32,159,277,1279
+2020,Santa Barbara County,Guadalupe,0,1,13,18,40
+2020,Santa Barbara County,Lompoc,4,27,183,175,566
+2020,Santa Barbara County,Santa Barbara,2,84,243,217,1748
+2020,Santa Barbara County,Santa Maria,2,179,572,328,1114
+2020,Santa Barbara County,Carpinteria,0,4,16,25,183
+2020,Santa Barbara County,Union Pacific RR - Santa Barbara,0,0,0,0,0
+2020,Santa Barbara County,Solvang,0,1,7,8,54
+2020,Santa Barbara County,Allen Hancock College,0,0,0,0,1
+2020,Santa Barbara County,Buelton,0,2,5,6,58
+2020,Santa Barbara County,Goleta,0,11,44,91,440
+2020,Santa Barbara County,UC Santa Barbara,0,0,6,33,274
+2020,Santa Barbara County,CA Highway Patrol - Santa Barbara,0,0,0,0,55
+2020,Santa Clara County,Santa Clara Co. Sheriff's Department,1,26,250,188,854
+2020,Santa Clara County,Campbell,0,37,61,246,913
+2020,Santa Clara County,Cupertino,0,26,34,196,581
+2020,Santa Clara County,Gilroy,2,78,139,170,914
+2020,Santa Clara County,Los Altos,1,11,9,81,221
+2020,Santa Clara County,Los Altos Hills,0,2,2,33,24
+2020,Santa Clara County,Los Gatos,0,9,8,103,258
+2020,Santa Clara County,Milpitas,2,40,53,277,1516
+2020,Santa Clara County,Monte Sereno,0,0,4,4,9
+2020,Santa Clara County,Morgan Hill,2,16,38,149,440
+2020,Santa Clara County,Mountain View,0,52,83,422,1566
+2020,Santa Clara County,Palo Alto,1,39,29,242,1570
+2020,Santa Clara County,San Jose,40,1185,2584,4045,12737
+2020,Santa Clara County,Santa Clara,1,85,81,432,2314
+2020,Santa Clara County,Saratoga,1,2,13,67,124
+2020,Santa Clara County,Sunnyvale,2,61,134,516,2276
+2020,Santa Clara County,CSU San Jose,0,5,6,50,105
+2020,Santa Clara County,San Jose Community College,0,0,1,0,16
+2020,Santa Clara County,West Valley College District,0,0,0,3,7
+2020,Santa Clara County,Foothill College,0,0,0,4,5
+2020,Santa Clara County,Union Pacific RR - Santa Clara,0,0,0,0,2
+2020,Santa Clara County,Santa Clara BART,0,0,1,0,0
+2020,Santa Clara County,Santa Clara Transit District,0,30,44,4,59
+2020,Santa Clara County,CA Highway Patrol - Santa Clara,0,0,4,1,20
+2020,Santa Cruz County,Santa Cruz Co. Sheriff's Department,6,39,241,348,1172
+2020,Santa Cruz County,Capitola,0,4,13,40,318
+2020,Santa Cruz County,Santa Cruz,2,76,198,267,1734
+2020,Santa Cruz County,Watsonville,4,44,224,167,655
+2020,Santa Cruz County,Scotts Valley,0,7,2,60,104
+2020,Santa Cruz County,Union Pacific RR - Santa Cruz,0,0,0,0,0
+2020,Santa Cruz County,Santa Cruz Mtns. DPR,0,1,0,0,74
+2020,Santa Cruz County,UC Santa Cruz,0,1,4,23,76
+2020,Santa Cruz County,CA Highway Patrol - Santa Cruz,0,0,0,0,119
+2020,Shasta County,Shasta Co. Sheriff's Department,7,23,341,303,319
+2020,Shasta County,Anderson,0,9,51,34,104
+2020,Shasta County,Redding,5,94,347,596,1529
+2020,Shasta County,Union Pacific RR - Shasta,0,0,0,3,4
+2020,Shasta County,Shasta Marshal's Office,0,0,0,0,0
+2020,Shasta County,CA Highway Patrol - Shasta,0,0,1,0,72
+2020,Sierra County,Sierra Co. Sheriff's Department,0,0,4,7,10
+2020,Sierra County,Union Pacific RR - Sierra,0,0,0,0,0
+2020,Sierra County,CA Highway Patrol - Sierra,0,0,0,0,0
+2020,Siskiyou County,Siskiyou Co. Sheriff's Department,2,4,79,69,77
+2020,Siskiyou County,Dorris,0,0,4,10,7
+2020,Siskiyou County,Dunsmuir,0,0,18,9,19
+2020,Siskiyou County,Etna,0,0,3,5,5
+2020,Siskiyou County,Fort Jones,0,0,8,9,10
+2020,Siskiyou County,Montague,0,1,20,10,20
+2020,Siskiyou County,Mount Shasta,0,0,13,4,25
+2020,Siskiyou County,Tulelake,0,0,0,3,7
+2020,Siskiyou County,Weed,0,0,9,11,34
+2020,Siskiyou County,Yreka,0,0,40,26,142
+2020,Siskiyou County,Lake Shastina,0,0,5,1,9
+2020,Siskiyou County,Union Pacific RR - Siskiyou,0,0,0,8,4
+2020,Siskiyou County,CA Highway Patrol - Siskiyou,0,0,1,2,22
+2020,Solano County,Solano Co. Sheriff's Department,4,12,84,126,204
+2020,Solano County,Benicia,0,6,13,63,289
+2020,Solano County,Dixon,0,9,36,40,182
+2020,Solano County,Fairfield,6,169,308,435,1920
+2020,Solano County,Rio Vista,0,1,19,30,71
+2020,Solano County,Suisun,1,27,91,87,409
+2020,Solano County,Vacaville,2,50,159,159,1419
+2020,Solano County,Vallejo,27,315,736,1811,1200
+2020,Solano County,Union Pacific RR - Solano,0,0,0,0,1
+2020,Solano County,CA Highway Patrol - Solano,0,0,0,0,0
+2020,Sonoma County,Sonoma Co. Sheriff's Department,1,39,490,357,621
+2020,Sonoma County,Cloverdale,0,1,17,15,70
+2020,Sonoma County,Cotati,1,3,37,31,83
+2020,Sonoma County,Healdsburg,0,4,21,26,128
+2020,Sonoma County,Rohnert Park,1,33,213,91,515
+2020,Sonoma County,Santa Rosa,4,135,664,542,1875
+2020,Sonoma County,Sebastopol,1,7,7,56,114
+2020,Sonoma County,Sonoma,0,1,17,25,67
+2020,Sonoma County,Petaluma,2,33,195,90,597
+2020,Sonoma County,CSU Sonoma,0,0,3,6,21
+2020,Sonoma County,Union Pacific RR - Sonoma,0,0,0,0,0
+2020,Sonoma County,Bay Area DPR,0,0,0,3,3
+2020,Sonoma County,Sonoma Mendocino Coast DPR,0,0,1,3,14
+2020,Sonoma County,Sonoma Co. Junior College,0,0,0,7,17
+2020,Sonoma County,Windsor,0,10,25,20,192
+2020,Sonoma County,CA Highway Patrol - Sonoma,0,0,7,0,91
+2020,Stanislaus County,Stanislaus Co. Sheriff's Department,7,117,292,365,764
+2020,Stanislaus County,Ceres,3,54,116,185,499
+2020,Stanislaus County,Modesto,16,281,1200,706,3533
+2020,Stanislaus County,Newman,1,2,12,32,61
+2020,Stanislaus County,Oakdale,1,15,34,57,193
+2020,Stanislaus County,Patterson,0,15,31,46,162
+2020,Stanislaus County,Riverbank,0,5,22,41,224
+2020,Stanislaus County,Turlock,5,90,288,377,1308
+2020,Stanislaus County,Waterford,0,5,19,8,45
+2020,Stanislaus County,Hughson,0,3,3,3,21
+2020,Stanislaus County,CSU Stanislaus,0,0,1,3,18
+2020,Stanislaus County,Union Pacific RR - Stanislaus,0,0,0,1,5
+2020,Stanislaus County,CA Highway Patrol - Stanislaus,0,0,0,1,94
+2020,Sutter County,Sutter Co. Sheriff's Department,1,12,52,145,318
+2020,Sutter County,Yuba City,4,70,139,264,1275
+2020,Sutter County,Union Pacific RR - Sutter,0,0,0,0,0
+2020,Sutter County,CA Highway Patrol - Sutter,0,0,0,0,7
+2020,Tehama County,Tehama Co. Sheriff's Department,5,12,130,131,238
+2020,Tehama County,Corning,1,4,35,46,83
+2020,Tehama County,Red Bluff,1,26,84,113,444
+2020,Tehama County,Union Pacific RR - Tehama,0,0,0,0,1
+2020,Tehama County,CA Highway Patrol - Tehama,0,0,0,0,28
+2020,Trinity County,Trinity Co. Sheriff's Department,2,7,70,56,86
+2020,Trinity County,Union Pacific RR - Trinity,0,0,0,0,0
+2020,Trinity County,CA Highway Patrol - Trinity,0,0,0,0,24
+2020,Tulare County,Tulare Co. Sheriff's Department,9,65,241,603,1260
+2020,Tulare County,Dinuba,0,18,120,63,304
+2020,Tulare County,Exeter,1,4,23,35,175
+2020,Tulare County,Farmersville,2,3,29,25,77
+2020,Tulare County,Lindsay,1,8,27,31,122
+2020,Tulare County,Porterville,3,42,166,223,620
+2020,Tulare County,Tulare,5,71,195,229,916
+2020,Tulare County,Visalia,8,142,299,610,2049
+2020,Tulare County,Woodlake,0,3,8,7,54
+2020,Tulare County,Union Pacific RR - Tulare,0,0,0,0,4
+2020,Tulare County,College of the Sequoias,0,0,0,2,10
+2020,Tulare County,CA Highway Patrol - Tulare,0,0,0,0,179
+2020,Tuolumne County,Tuolumne Co. Sheriff's Department,0,12,118,268,328
+2020,Tuolumne County,Sonora,1,12,21,55,179
+2020,Tuolumne County,CA Highway Patrol - Tuolumne,0,0,0,1,51
+2020,Ventura County,Ventura Co. Sheriff's Department,1,13,64,129,517
+2020,Ventura County,Camarillo,0,17,20,100,661
+2020,Ventura County,Fillmore,0,7,19,13,118
+2020,Ventura County,Ojai,0,1,1,19,81
+2020,Ventura County,Oxnard,8,274,380,638,2907
+2020,Ventura County,Port Hueneme,0,12,39,43,305
+2020,Ventura County,Santa Paula,2,23,69,99,289
+2020,Ventura County,Thousand Oaks,1,23,31,189,1027
+2020,Ventura County,Ventura,2,94,201,460,2354
+2020,Ventura County,Simi Valley,3,27,108,170,1033
+2020,Ventura County,Angeles DPR,0,0,0,4,24
+2020,Ventura County,Moorpark,2,1,11,27,186
+2020,Ventura County,Channel Coast DPR,1,1,2,2,65
+2020,Ventura County,Hungry Valley DPR,0,0,0,0,0
+2020,Ventura County,Union Pacific RR - Ventura,0,0,0,0,1
+2020,Ventura County,CSU Channel Islands,0,0,1,1,27
+2020,Ventura County,Ventura Community College,0,1,2,15,15
+2020,Ventura County,CA Highway Patrol - Ventura,0,0,0,0,6
+2020,Yolo County,Yolo Co. Sheriff's Department,2,4,53,87,157
+2020,Yolo County,Davis,0,30,50,386,1918
+2020,Yolo County,Winters,0,2,14,9,64
+2020,Yolo County,Woodland,1,44,167,218,972
+2020,Yolo County,West Sacramento,3,82,104,209,1083
+2020,Yolo County,Union Pacific RR - Yolo,0,0,0,2,0
+2020,Yolo County,UC Davis,0,0,2,100,565
+2020,Yolo County,CA Highway Patrol - Yolo,0,0,0,0,11
+2020,Yuba County,Yuba Co. Sheriff's Department,2,40,197,247,608
+2020,Yuba County,Marysville,0,15,107,63,205
+2020,Yuba County,Wheatland,0,2,4,8,39
+2020,Yuba County,Union Pacific RR - Yuba,0,0,0,0,3
+2020,Yuba County,CA Highway Patrol - Yuba,0,0,0,0,45
